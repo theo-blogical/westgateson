@@ -66,7 +66,8 @@ goto menu
 :quartzsync
 echo.
 echo 🔄 Running Quartz sync...
-npx quartz sync
+call npx quartz sync
+echo.
 echo ✔️  Sync complete.
 pause
 goto menu
