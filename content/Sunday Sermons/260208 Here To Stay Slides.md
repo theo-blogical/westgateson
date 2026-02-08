@@ -1,33 +1,219 @@
 
 #### First Bulletion:
+# Quito Park Service – October 19, 1952
 
-**This is the first service to be held, and we sincerely pray that this shall be the beginning of a Christ-centered Bible fellowship.**
+A historic first service held in the Quito Park area, sponsored by the [Calvary Baptist Church](navigational_search:Calvary Baptist Church Los Gatos) of Los Gatos.
 
-**The Calvary Baptist Church is delighted to have a small part in bringing this new church into the community and stands ready to offer assistance in every possible way. The Pastor, Blaine Bishop, would have counted it a great joy to be in the service today, but other duties make it impossible.**
+---
 
-**We wish to thank the owners of the Shopping Center for the most helpful manner in which they have worked with us to make this church possible. The merchants and friends have been most cooperative.**
+## At a Glance
 
-**We hope that in the very near future there shall be organized a local Baptist church here with a full-time pastor and a permanent building.**
+- **Date:** October 19, 1952  
+- **Location:** Quito Park area (near Los Gatos, California)  
+- **Morning Speaker:** Dr. J. L. H. Hawkins  
+- **Evening Speaker:** Pastor George W. Meyer  
+- **Host Church:** Calvary Baptist Church, Los Gatos  
 
-| Time | Pastor |
-|------|---------|
-| 7:30 | **Pastor George V. Meyer** |
+---
 
-| Special Music | Judy Bullock and Eula G. McHiser |
-|---------------|----------------------------------|
-| Theme | “Faith” is the theme of the message. |
+## Welcome
 
-**Dr. Heukins, the speaker this morning before his retirement, was one of the most successful pastors in the Southland. He has served as pastor of some of the largest churches in the South and comes with much experience and a real love for the people of Christ.**
+> This is the first service to he held in your midst  
+> and we sincerely pray that this shall be the be-  
+> ginning of a real Christ-centered Bible rellowship.  
+>  
+> The Calvary Baptist Church of Los Gatos is delight-  
+> ed to have a small part in bringing into being a  
+> church in this area and stands ready to offer any  
+> assistance that is possible.  
+>  
+> We hope that in the very near future there shall  
+> be organized a local Baptist Church here with a  
+> fuli-time pastor and permanent building.
 
-**Pastor George W. Meyer is the speaker tonight and is the assistant pastor of Calvary Baptist. He was formerly the pastor of East Side Baptist Church. He is also a talented singer and choir director.**
+— *The Pastor, Blaine Bishcp*  
 
-**William F. ____, superintendent and resident of this community, was the first superintendent of the Calvary Baptist Church of Los Gatos when it was organized. He has recently been engaged in new Sunday School work at Redwood Estates. Mrs. ____ is also a resident of this community and is an experienced Sunday School teacher and musician.**
+We also wish to thank the Center for the most helpful manner in which they have worked with us to make this church possible.
 
-**The Sunday School teachers are all residents of this area and experienced in their work. They include Mrs. Ed Hendrickson and others. Twenty-five have already been formed into classes.**
+---
 
-**George W. Meyer will be present on Wednesday night to conduct a midweek service at 7:30 p.m.**
+## Sunday Schedule
 
+### Sunday School
 
+- **Time:** 9:45 a.m. (“Sunday School at 9:45 aom. for all ages”)  
+- **For:** All ages  
+- **Superintendent:** William F. McKee  
+  - Serving as Sunday School superintendent  
+  - Resident of the area  
+  - First superintendent of the Calvary Baptist Sunday Sahoci in Los Gatos when it was organized less than five years ago  
+  - Recently serving in a new Sunday School at Rewood Estates  
+- **Teachers (all residents of the area and experienced in the work):**  
+  - Mrs. Lloyd Smults  
+  - Mr. and Mrs. Ed Hendrickson  
+  - Others as new classes are formed  
+
+---
+
+## Morning Worship Service
+
+**Theme:** Faith (“nFaithn is the theme of the message.”)  
+**Speaker:** Dr. J. L. H. Hawkins  
+
+Dr. J. L. H. Hawkins is the speaker this morning, the pastor of some of the largest churches in the South and coming with much experience and a real love for the folk of Quito Park.
+
+**Order of Service**
+
+1. Prelude – “Let us be silent in His presence”  
+2. Invogation  
+3. Hymn 90 – “Faith Of Our Fathers”  
+4. Scripture Reading  
+5. Morning Prayer  
+6. Hymn 48 – “Higher Groundn”  
+7. Announcements and Offering  
+8. Vccal Solo – Mrs. Anna Pate  
+9. Message – “WHY ARE WE HERE?” – Dr. J. L. H. Hawkins  
+10. Hymn 160 – “More Love To Theelt”  
+11. Benediction  
+12. Postlude – Mr. Gordon Penner playing  
+
+**Special Music**
+
+- Judy Bullock  
+- Bula G Mae Hiser  
+
+---
+
+## Evening Service
+
+- **Time:** 7:30 p.m. (“TONIGHT---7:30P.m.”)  
+- **Speaker:** Pastor George W. Meyer  
+  - Assistant pastor of the [Calvary Baptist Church](navigational_search:Calvary Baptist Church Los Gatos) in Los Gatos  
+  - Formerly pastor of the East Side Baptist Church in Alameda  
+  - Also a talented singer and choir director  
+
+Pastor George W. Meyer is the sPeaker tonight and is the aasistant pastor of the Calvary Baptist Church in Los Gatos. Pastor Moyer was formerly pastor of the East Side Baptist Church in Alameda. He is also a talented singer and choir director.
+
+---
+
+## Personnel
+
+- **Dr. J. L. H. Hawkins**  
+  - Morning speaker  
+  - Pastor of some of the largest churches in the South  
+  - Comes with much experience and a real love for the folk of Quito Park  
+
+- **Pastor George W. Meyer**  
+  - Evening speaker  
+  - Assistant pastor of Calvary Baptist Church, Los Gatos  
+  - Former pastor of East Side Baptist Church, Alameda  
+  - Talented singer and choir director  
+
+- **Pastor Blaine Bishcp**  
+  - Pastor (“The Pastor, Blaine Bishcp”) associated with Calvary Baptist  
+  - Expresses joy in meeting attendees and in helping make this church possible  
+  - “Would be most happy to meet any of you and would have counted it a great joy to have been in”  
+
+- **William F. MKEE**  
+  - Serving as Sunday School superintendent  
+  - Resident of this area  
+  - First superintendent of the Calvary Baptist Sunday School in Los Gatos when it was organized less than five years ago  
+  - Recently serving in a new Sunday School at Redwood Estates  
+
+- **GORDON PENNER**  
+  - Playing the piano (Postlude)  
+  - Resident of this area  
+  - Experienced Sunday School teacher and musician  
+
+- **Sunday School Teachers**  
+  - All residents of this area and experienced in the work  
+  - Include: Mrs. Lloyd Smults, Mr. and Mrs. Ed Hendrickson, and others as new classes are formed  
+
+---
+
+## Mid-Week Service
+
+- **Heading:** MID-WEEK SERVICE  
+- **Leader:** George W. Meyer  
+- **Note:** “George W. Meyer will be present on Wednesday night”
+
+---
+
+## Verbatim Transcript (Line by Line)
+
+The following is a line‑by‑line transcript preserving the original spelling, punctuation, and line breaks from the bulletin.
+
+October 19,1952  
+Welcome:  
+TONIGHT-.  
+PASTOR GEORGE W.MEYER  
+Sunday School at 9:45 aom. for all ages  
+N  
+Special Music - Judy Bullock and Bula  
+G  
+Mae Hiser  
+THE ORDER OF THE MORNING SERVICE  
+H  
+nFaithn is the theme of the message.  
+TONIGHT---7:30P.m.  
+Prelude, Let us be silent in His presence  
+Invogation  
+INTRODUCING TO YOU:  
+Hymn 90,"Faith Of Our Fathers"  
+DR. J.L.H.HAWKINS is the speaker this morning. Dr.  
+Scripture Reading  
+Morning Prayer  
+the pastor of some of the largest churches in the  
+Hymn 48, "Higher Groundn  
+South and comes with mich experience and a real  
+Announcements and Offering  
+love for the folk of Quito Park.  
+Vccal Solo,Mrs, Anna Pate  
+PASTOR GEORGE W. MEYER is the sPeaker tonight and  
+Message, "WHY ARE WE HERE? Dr.J.L.H.Hawkins  
+is the aasistant pastor of the Calvary Baptist  
+Church in Los Gatos.  
+Pastor Moyer was formerly  
+Hymn 160,"More Love To Theelt  
+pastor of the East Side Baptist Church in Alameda.  
+Benediction  
+He is also a talented singer and choir director.  
+Postlude, Mr. Gordon Penner playing  
+WILLIAM F. MKEE who is serving as Sunday School  
+WELCOME!  
+superintendent is a residont of this area. He was  
+the rirst superintendent of the Calvary Baptist  
+This is the first service to he held in your midst  
+Sunday Sahoci in Los Gatos when it was organized  
+and we sincerely pray that this shall be the be-  
+less than five years ago. He has recently been serv-  
+ginning of a real Christ-centered Bible rellowship.  
+ing in a new Sunday School at Rewood Estates.  
+The Calvary Baptist Church of Los Gatos is delight-  
+ed to have a small part in bringing into being a  
+GORDON PENNER who is playing the piano is also a  
+church in this area and stands ready to offer any  
+resident of this area and is an experienced Sunday  
+assistance that is possible.  
+The Pastor, Blaine  
+School teacher and musician.  
+Bishcp, would be most happy to meet any of you and  
+would have counted it a great joy to have been in  
+THE SUNDAY SCHOOL TEACHERS are all residents of  
+this area and experienced in the work. They in-  
+possible.  
+clude the following: Mrs, Lloyd Smults, Mr. and  
+We hope that in the very near future there shall  
+Mrs. Ed Hendrickson and others as new classes are  
+be organized a local Baptist Church here with a  
+formed.  
+fuli-time pastor and permanent building.  
+MID-WEEK SERVICE  
+Center for the most helpful manner in which they  
+George W. Meyer will be present on Wednesday night  
+have worked with us to make this church possible.  
+
+### More Slides
 
 Now to him who is able to do immeasurably more than all we ask or imagine; according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations; for ever and ever! Amen.
 
