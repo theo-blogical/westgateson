@@ -1,8 +1,7 @@
-
 ---
 title: Westgate Stephenson Group
 ---
-	
+
 ## Westgate Stephenson Group 🌿
 
 Welcome to the our group, a small community group connected with WestGate Church in the San Jose area. 🙏
