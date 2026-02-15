@@ -33,8 +33,6 @@ echo   1️⃣  Set LOCAL git config to theo-blogical
 echo   2️⃣  Open Notepad
 echo   3️⃣  Run npx quartz sync
 echo   4️⃣  Refresh Git identity
-echo   5️⃣  Run npx quartz build
-echo   6️⃣  Rebuild public (build + force-add + commit + push)
 echo   0️⃣  Exit
 echo.
 set /p choice="👉 Select an option: "
@@ -43,8 +41,6 @@ if "%choice%"=="1" goto setlocal
 if "%choice%"=="2" goto notepad
 if "%choice%"=="3" goto quartzsync
 if "%choice%"=="4" goto refresh
-if "%choice%"=="5" goto quartzbuild
-if "%choice%"=="6" goto rebuildpublic
 if "%choice%"=="0" goto end
 
 echo ❌ Invalid choice. Try again.
@@ -73,41 +69,6 @@ echo 🔄 Running Quartz sync...
 call npx quartz sync
 echo.
 echo ✔️  Sync complete.
-pause
-goto menu
-
-:quartzbuild
-echo.
-echo 🏗️  Running Quartz build...
-call npx quartz build
-echo.
-echo ✔️  Build complete.
-pause
-goto menu
-
-:rebuildpublic
-echo.
-echo 🏗️  Running Quartz build...
-
-:: Move to repo root (directory where this .bat file lives)
-pushd "%~dp0"
-
-call npx quartz build
-echo.
-echo 📦  Force-adding public folder...
-git add -A
-echo.
-echo 📝 Committing changes...
-git commit -m "Rebuild public (Quartz build + CSS/theme updates)"
-echo.
-echo 🚀 Pushing to GitHub...
-git push
-
-:: Return to original directory
-popd
-
-echo.
-echo ✔️  Public rebuild complete and deployed.
 pause
 goto menu
 
