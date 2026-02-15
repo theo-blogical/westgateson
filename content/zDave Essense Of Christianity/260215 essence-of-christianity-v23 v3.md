@@ -53,14 +53,13 @@ flowchart TD
     D --> E[New Creation: Love Consummated]
 ```
 
-
 No doubt you've attended a wedding where two people beautifully profess their love, and during the ceremony the following Scripture is read:
 
-**1 Corinthians 13:1-7 (NIV) [^5],**  
+> If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.
+> 
+> — 1 Corinthians 13:1-7 (NIV) [^5]
 
-> 'If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.'
-
-Few would argue that love is humanity's highest virtue. In fact, Christianity at its core is the story of divine agape [^3] love told by Scripture [^6] [^7] -not the sentimental kind that fades with emotion or circumstance, but the self-giving love that radiates from the heart of God Himself. This essay argues that every act of God - from creation to judgment - is an expression of divine love. This claim-that love lies at the heart of Scripture-may sound surprising at first, but it arises directly from Scripture itself, as will become clear as the essay unfolds.
+Few would argue that love is humanity's highest virtue. In fact, Christianity at its core is the story of divine agape [^3] love told by Scripture [^6] [^7] -not the sentimental kind that fades with emotion or circumstance, but the self-giving love that radiates from the heart of God Himself. This essay argues that every act of God - from creation to judgment - is an expression of divine love. This claim-that love lies at the heart of Scripture-may sound surprising at first, but it arises directly from Scripture itself, as will become clear as the essay unfolds.
 
 This essay explores how that love unfolds across the grand narrative of Scripture - from creation to new creation. Every act of God, whether joyous or severe, expresses the same motive: love seeking relationship. The universe exists because God delights to give; humanity exists because God's desire is to have a human family as large and vibrant as a nation; redemption occurs because He refuses to abandon; judgment comes because real love will not let evil endure forever.
 
@@ -74,9 +73,14 @@ One of the quiet surprises of the Christian story is how closely it aligns with 
 
 ## The God Who is Love
 
-Scripture is clear that God's essential nature is love [^8] - not merely an attribute, but His very being. He describes Himself as 'the compassionate and gracious God, slow to anger, abounding in love and faithfulness, maintaining love to thousands…' [^9]
+Scripture is clear that God's essential nature is love [^8] - not merely an attribute, but His very being. He describes Himself as:
 
-From Scripture we know God is composed of multiple persons, the Father, Son and Spirit (the Trinity [^10]). As such, He's able to exhibit love - passionate commitment to the well-being of others within the Trinity - even before the cosmos or humankind were created [^11]. He didn't 'need' to create humankind because He was lonely [^12]. He didn't need to create beings to worship Him, presumably to prop up His low self esteem [^13]. Scripture describes God as a perfect being, loving, just, omnipotent, omniscient and omnipresent, to name a few of His key immutable attributes. This is the kind of love whose shape we recognize most clearly in our deepest human commitments, where another's flourishing becomes worth real sacrifice. He created us out of love and a desire to share his loving, Trinitarian experience more broadly.
+> the compassionate and gracious God, slow to anger, abounding in love and faithfulness, maintaining love to thousands…
+> 
+> — Exodus 34:6-7 (NIV) [^9]
+
+From Scripture we know God is composed of multiple persons, the Father, Son and Spirit (the Trinity [^10]). As such, He's able to exhibit love - passionate commitment to the well-being of others within the Trinity - even before the cosmos or humankind were created [^11]. He didn't 'need' to create humankind because He was lonely [^12]. He didn't need to create beings to worship Him, presumably to prop up His low self esteem [^13]. Scripture describes God as a perfect being, loving, just, omnipotent, omniscient and omnipresent, to name a few of His key immutable attributes. This is the kind of love whose shape we recognize most clearly in our deepest human commitments, where another's flourishing becomes worth real sacrifice. He created us out of love and a desire to share his loving, Trinitarian experience more broadly.
+
 
 ```mermaid
 graph TD
@@ -91,6 +95,7 @@ graph TD
     style Spirit fill:#bfb,stroke:#333,stroke-width:2px
 ```
 
+
 We shouldn't be surprised that God's motivation for creation was love; after all, this mirrors our own experience when we create, no matter our field of endeavor. Even though a project can feel like work - sometimes taking a long time - we often express the experience as a 'labor of love.' We enjoy talking about our creation and sharing that joy with others, especially those with whom we have a relationship.
 
 Prior to creating humankind, Scripture teaches that God created the cosmos along with our planet, the latter teeming with flora and fauna. How He accomplished this is outside the scope of this essay. What's clear is that we live in a rich, diverse and awe-inspiring universe, demonstrating the magnitude of his unfathomable love for us. The greatest minds on the planet have been discovering its mysteries for thousands of years, and yet we're still nowhere near a comprehensive understanding. We don't live in a dull or ordinary place!
@@ -101,31 +106,42 @@ If this much is true - that ultimate reality is personal, relational, and rooted
 
 After the creation of the universe, in love, God proceeded to create humankind. In Scripture we read:
 
-**Genesis 1:26-28 (NIV),** 
-
-> 'Then God said, 'Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.' So God created mankind in his own image, in the image of God he created them; male and female he created them. God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.'
+> Then God said, 'Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.' So God created mankind in his own image, in the image of God he created them; male and female he created them. God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.'
+> 
+> — Genesis 1:26-28 (NIV)
 
 From this Scripture passage, we learn…
 
-- Humans were created in God's image. This means all people possess intrinsic dignity and worth because they bear the image of God - regardless of their social status, sex/gender, ethnicity, ability, or behavior. That's why life is sacred and justice [^14] is fundamental in Biblical ethics. We're created to reflect God's loving character and wisdom as we live - we're his vice-regents (representatives), or image bearers, on Earth.
-- Humans were created in God's likeness. To be created in God's likeness means humanity uniquely mirrors God's capacity for relationship, with Him and others [^15]. We have freedom of choice [^16], reason, creativity, stewardship and a conscience which instinctively knows right and wrong [^17].
-- God created male and female. Somehow, together, both sexes together reflect God's image in a way that neither does alone. Each is equal in worth and equally called to bear God's image in the world. Scripture hints that this is not accidental. God is relational in His very nature, and the relational unity of husband and wife - the 'two becoming one flesh' [^18] echoes, however faintly, the unity-in-diversity that exists within God Himself. So while marriage is not a direct parallel to the Trinity, it does provide a meaningful analogy of the relational harmony that flows from God's own nature.
+- Humans were created in God's image. This means all people possess intrinsic dignity and worth because they bear the image of God - regardless of their social status, sex/gender, ethnicity, ability, or behavior. That's why life is sacred and justice [^14] is fundamental in Biblical ethics. We're created to reflect God's loving character and wisdom as we live - we're his vice-regents (representatives), or image bearers, on Earth.
+    
+- Humans were created in God's likeness. To be created in God's likeness means humanity uniquely mirrors God's capacity for relationship, with Him and others [^15]. We have freedom of choice [^16], reason, creativity, stewardship and a conscience which instinctively knows right and wrong [^17].
+    
+- God created male and female. Somehow, together, both sexes together reflect God's image in a way that neither does alone. Each is equal in worth and equally called to bear God's image in the world. Scripture hints that this is not accidental. God is relational in His very nature, and the relational unity of husband and wife - the 'two becoming one flesh' [^18] echoes, however faintly, the unity-in-diversity that exists within God Himself. So while marriage is not a direct parallel to the Trinity, it does provide a meaningful analogy of the relational harmony that flows from God's own nature.
+    
 - Not incidentally, the Hebrew word used to describe God's creative intent for woman, does not denote a subordinate assistant (as the English translation, 'helper', can imply), but an equal counterpart who supplies what is missing in man, without whom the fulfillment of their shared divine vocation would not be possible. This same Hebrew word is used elsewhere in Scripture to denote a powerful rescuer or strength-bearing ally-often used of God Himself.
-- Humankind was given a vocation of stewardship. When rightly understood, stewardship is an expression of love: a posture of care and responsibility oriented toward the flourishing of what has been entrusted, not its exploitation or control. We were charged to cultivate the earth and care for its living creatures while preserving its beauty. We were also called to fill the earth with families - spreading communities that mirror God's love, creativity, and wisdom. Although the Garden of Eden was beautiful and well developed, the rest of the planet still needed cultivation and development. Theologians refer to this as the 'cultural mandate'. This was a mandate humans were never meant to carry out independently from God - it was intended as a partnership! [^19] As the late pastor and author Tim Keller explains in his book, Every Good Endeavor [^20], 'The cultural mandate is a kind of partnership: God gives us the raw material of the world, and our job is to take it and build culture, develop society, create art, discover science. We are called to be his junior partners in the work of creation.'
+    
+- Humankind was given a vocation of stewardship. When rightly understood, stewardship is an expression of love: a posture of care and responsibility oriented toward the flourishing of what has been entrusted, not its exploitation or control. We were charged to cultivate the earth and care for its living creatures while preserving its beauty. We were also called to fill the earth with families - spreading communities that mirror God's love, creativity, and wisdom. Although the Garden of Eden was beautiful and well developed, the rest of the planet still needed cultivation and development. Theologians refer to this as the 'cultural mandate'. This was a mandate humans were never meant to carry out independently from God - it was intended as a partnership! [^19] As the late pastor and author Tim Keller explains:
+    
+
+> The cultural mandate is a kind of partnership: God gives us the raw material of the world, and our job is to take it and build culture, develop society, create art, discover science. We are called to be his junior partners in the work of creation.
+> 
+> — Tim Keller, _Every Good Endeavor_ [^20]
 
 In summary: Humanity represents the visible expression of divine love on earth. To be made in God's image is to be invited into partnership with Him - to reflect His nature through compassion, justice, and stewardship. The Imago Dei is therefore not only a statement about our origin but also a calling that defines our purpose.
 
-| Aspect              | Description                                                                |
-| ------------------- | -------------------------------------------------------------------------- |
-| **Image of God**    | Intrinsic dignity and worth; called to reflect God's character and wisdom. |
-| **Likeness of God** | Capacity for relationship, free will, reason, creativity, conscience.      |
-| **Male & Female**   | Complementary; together reflect God's relational nature; equal in worth.   |
-| **Vocation**        | Stewardship and cultural mandate – cultivate, fill, and care for creation. |
+|Aspect|Description|
+|---|---|
+|**Image of God**|Intrinsic dignity and worth; called to reflect God's character and wisdom.|
+|**Likeness of God**|Capacity for relationship, free will, reason, creativity, conscience.|
+|**Male & Female**|Complementary; together reflect God's relational nature; equal in worth.|
+|**Vocation**|Stewardship and cultural mandate – cultivate, fill, and care for creation.|
 
 The cultural mandate calls humanity to seek a deep understanding of creation. Whatever your gifts - whether in science, the arts, or humanities - they are part of God's cultural mandate. To illustrate, here are just some of the fields where human creativity participates in God's plan:
 
 - Scientific fields: mathematics, natural sciences (physics, chemistry, biology), applied sciences (engineering, medicine, agriculture, environmental science).
+    
 - Humanities fields: philosophy, theology, law, politics, education, literature, arts, and music.
+    
 
 All of creation is therefore both a reflection and an invitation of divine love.
 
@@ -133,19 +149,49 @@ The point is simple but profound: whatever your vocation or passion, it is not p
 
 ## Love: an Image Bearer's Behavior
 
-Jesus of Nazareth taught that all Scripture hangs on two precepts [^21]: (1) love God with all your heart, soul and mind; and (2) love your neighbor as yourself. In this essay, they're referred to as the 'Love Precepts' [^22]. A restatement of these precepts is the Golden Rule: in everything, treat others like you want others to treat you [^23] [^24]. Scripture's rationale for this grand summation is that love does no harm to others [^25]. To make sure his message on love was clear, Jesus defined 'neighbor' by relating the parable of the Good Samaritan [^26]. To make it crystal clear, He said, '… love your enemies, do good to those who hate you, bless those who curse you, pray for those who mistreat you.' [^27] Why? 'That you may be children [image bearers] of your Father in heaven.' Love directs not only outward behavior - it includes our inner life as well. We are told to love God with our minds. In other words, our thought life must also be loving [^28]. Jesus does not merely want to eliminate sexual exploitation; He wants to eliminate lust itself. He doesn't just want to end murder and racism; He wants to eradicate hatred at its root. He calls us to sincerely love others - not merely out of duty ('because it's the right thing to do'), and not for self-benefit ('quid pro quo') - but out of genuine concern for the well-being of others. We also learn something of agape love through the God-given institutions of marriage and family. Those who are married have an experience of love that is passionately committed to the flourishing of a spouse. Likewise, those who've raised children have tasted this kind of committed love as well. The best example of an 'image bearer' in Scripture is Jesus [^29]. He was such a perfect representative He could say [^30], 'Anyone who has seen me has seen the Father.' He revealed in his life what undistorted love looks like in human form. During his time on earth, Jesus demonstrated perfect image-bearing by serving humanity-even though He is God. When we read Scripture, we understand that true servanthood demands integrity - acting in harmony with one's core nature. Jesus not only healed the sick, fed the hungry and taught with compassion - behaviors that align with modern ideals of goodness but His love for God also demanded that He boldly confront hypocrisy. He publicly rebuked corrupt religious leaders, and using physical force, drove out of the temple currency exchangers who were practicing extortion [^31].
+Jesus of Nazareth taught that all Scripture hangs on two precepts [^21]: (1) love God with all your heart, soul and mind; and (2) love your neighbor as yourself. In this essay, they're referred to as the 'Love Precepts' [^22]. A restatement of these precepts is the Golden Rule:
 
-Perhaps the best description of Jesus' servanthood is from Philippians 2:5-8 (NIV):
+> So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets.
+> 
+> — Matthew 7:12 (NIV) [^23] [^24]
 
-In your relationships with one another, have the same mindset as Christ Jesus:
+Scripture's rationale for this grand summation is that love does no harm to others [^25]. To make sure his message on love was clear, Jesus defined 'neighbor' by relating the parable of the Good Samaritan [^26]. To make it crystal clear, He said:
 
-Who, being in very nature God, did not consider equality with God something to be used to his own advantage;
+> love your enemies, do good to those who hate you, bless those who curse you, pray for those who mistreat you.
+> 
+> — Luke 6:27-28 (NIV) [^27]
 
-rather, he made himself nothing by taking the very nature of a servant, being made in human likeness.
+Why?
 
-And being found in appearance as a man, he humbled himself by becoming obedient to death - even death on a cross!
+> That you may be children [image bearers] of your Father in heaven.
+> 
+> — Matthew 5:45 (NIV)
 
-Isn't it awe-inspiring that Jesus was a servant to us, sent to help and save us! We are so valuable to God! Many places in Scripture He calls Himself 'our helper.' [^32] Let that sink in. It's a staggering inversion of power!
+Love directs not only outward behavior - it includes our inner life as well. We are told to love God with our minds. In other words, our thought life must also be loving [^28]. Jesus does not merely want to eliminate sexual exploitation; He wants to eliminate lust itself. He doesn't just want to end murder and racism; He wants to eradicate hatred at its root. He calls us to sincerely love others - not merely out of duty ('because it's the right thing to do'), and not for self-benefit ('quid pro quo') - but out of genuine concern for the well-being of others. We also learn something of agape love through the God-given institutions of marriage and family. Those who are married have an experience of love that is passionately committed to the flourishing of a spouse. Likewise, those who've raised children have tasted this kind of committed love as well. The best example of an 'image bearer' in Scripture is Jesus [^29]. He was such a perfect representative He could say [^30]:
+
+> Anyone who has seen me has seen the Father.
+> 
+> — John 14:9 (NIV)
+
+He revealed in his life what undistorted love looks like in human form. During his time on earth, Jesus demonstrated perfect image-bearing by serving humanity-even though He is God. When we read Scripture, we understand that true servanthood demands integrity - acting in harmony with one's core nature. Jesus not only healed the sick, fed the hungry and taught with compassion - behaviors that align with modern ideals of goodness but His love for God also demanded that He boldly confront hypocrisy. He publicly rebuked corrupt religious leaders, and using physical force, drove out of the temple currency exchangers who were practicing extortion [^31].
+
+Perhaps the best description of Jesus' servanthood is from Philippians:
+
+> In your relationships with one another, have the same mindset as Christ Jesus:
+> 
+> Who, being in very nature God,  
+> did not consider equality with God something to be used to his own advantage;  
+> rather, he made himself nothing  
+> by taking the very nature of a servant,  
+> being made in human likeness.  
+> And being found in appearance as a man,  
+> he humbled himself  
+> by becoming obedient to death—  
+> even death on a cross!
+> 
+> — Philippians 2:5-8 (NIV)
+
+Isn't it awe-inspiring that Jesus was a servant to us, sent to help and save us! We are so valuable to God! Many places in Scripture He calls Himself 'our helper.' [^32] Let that sink in. It's a staggering inversion of power!
 
 It's common for people to experience a deep sense of fulfillment after acts of service. Think of a time when you volunteered at a food bank or a community project. In hindsight, did it feel as though you received more than you gave-rewarded with an unexpected warmth or quiet satisfaction? This response is not accidental. It reflects how we're designed to flourish.
 
@@ -178,39 +224,55 @@ flowchart TD
     Curse --> Banish[Banishment from Garden]
 ```
 
-Upon creation of humanity, the first man and woman were placed in the Garden of Eden. There, they began fulfilling the cultural mandate. What occurs next is often described as disobedience, but at its heart it reflects a deeper relational rupture. Here's how the story unfolds in Genesis 3:1-7 (NIV):
+Upon creation of humanity, the first man and woman were placed in the Garden of Eden. There, they began fulfilling the cultural mandate. What occurs next is often described as disobedience, but at its heart it reflects a deeper relational rupture. Here's how the story unfolds:
 
-Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, 'Did God really say, 'You must not eat from any tree in the garden'?'
+> Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, 'Did God really say, 'You must not eat from any tree in the garden'?'
+> 
+> The woman said to the serpent, 'We may eat fruit from the trees in the garden, but God did say, 'You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.''
+> 
+> 'You will not certainly die,' the serpent said to the woman. 'For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.'
+> 
+> When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it. Then the eyes of both of them were opened, and they realized they were naked.
+> 
+> — Genesis 3:1-7 (NIV)
 
-The woman said to the serpent, 'We may eat fruit from the trees in the garden, but God did say, 'You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.''
-
-You will not certainly die,' the serpent said to the woman. 'For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.'
-
-When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it. Then the eyes of both of them were opened, and they realized they were naked.
-
-Besides Adam & Eve, four other entities were in the garden [^33]…
+Besides Adam & Eve, four other entities were in the garden [^33]…
 
 1. God Himself. Scripture says He walked and talked with Adam and Eve in the Garden of Eden.
-2. The Tree of Life. Humans were permitted by God to eat the fruit of this tree. The fruit of this tree imbued its eater with immortality [^34] and is a sign-act for the wisdom, given by God [^35], which brings true fulfillment in life [^36].
-3. The Tree of Knowledge of Good and Evil (TKGE). God forbade humans to eat from this tree, under penalty of death [^37]. In other words, eating its fruit would sever their relationship with God. It was a direct violation of the first Love Precept - to love God above all. The TKGE was also a sign-act, and by eating, it represented taking for oneself the authority to decide right and wrong, good and evil, apart from God. In effect, it was a choice to trust one's own understanding rather than God's [^38].
-4. The Serpent. Scripture tells us the Serpent, the antagonist, was the evil spiritual being, Satan [^39]. Note: the Hebrew word for 'serpent' means a creature associated with cunning or wisdom, something crafty, sly, or perceptive.
+    
+2. The Tree of Life. Humans were permitted by God to eat the fruit of this tree. The fruit of this tree imbued its eater with immortality [^34] and is a sign-act for the wisdom, given by God [^35], which brings true fulfillment in life [^36].
+    
+3. The Tree of Knowledge of Good and Evil (TKGE). God forbade humans to eat from this tree, under penalty of death [^37]. In other words, eating its fruit would sever their relationship with God. It was a direct violation of the first Love Precept - to love God above all. The TKGE was also a sign-act, and by eating, it represented taking for oneself the authority to decide right and wrong, good and evil, apart from God. In effect, it was a choice to trust one's own understanding rather than God's [^38].
+    
+4. The Serpent. Scripture tells us the Serpent, the antagonist, was the evil spiritual being, Satan [^39]. Note: the Hebrew word for 'serpent' means a creature associated with cunning or wisdom, something crafty, sly, or perceptive.
+    
 
 Understanding the roles of each entity clarifies why the events in Eden unfolded as they did.
 
 One might think that putting the TKGE in the garden was a cruel thing to do. Why would a loving God put humans to such a fateful test, knowing ahead of time they'd fail? Here's why: humans were created in the likeness of God - moral beings with free will. Our raison d'être is love - to live in willing relationship with God, not robotic obedience. If there had been no alternative way to live other than the original nature imparted by God, there wouldn't be any choice. Without choice, humans would essentially be robots - and how can a robot exhibit genuine love?
 
-This perspective differs from viewing the TKGE merely as a test. The Tree of Life and the TKGE were sign-acts for wisdom and knowledge [^40] respectively, each pointing toward a distinct way of life. Choosing the Tree of Life meant embracing connection and partnership with God; choosing the TKGE meant opting for independence and separation from Him. A loving God thus granted His created beings the freedom to decide whether to live in partnership with Him or apart from Him-He did not compel that His love be returned. It was not a test, but a genuine choice; whichever path they chose carried real and lasting consequences.
+This perspective differs from viewing the TKGE merely as a test. The Tree of Life and the TKGE were sign-acts for wisdom and knowledge [^40] respectively, each pointing toward a distinct way of life. Choosing the Tree of Life meant embracing connection and partnership with God; choosing the TKGE meant opting for independence and separation from Him. A loving God thus granted His created beings the freedom to decide whether to live in partnership with Him or apart from Him-He did not compel that His love be returned. It was not a test, but a genuine choice; whichever path they chose carried real and lasting consequences.
 
-In the dialog between the Serpent and Eve, the first statement by the Serpent was sarcastic, mocking God and questioning His generosity: 'Did God really say…'? This was followed by a blatant lie, 'You will not certainly die.' The Serpent was implying that God had hidden motives and couldn't be trusted. Then he said, 'you will be like God.' In other words, the Serpent suggested that God couldn't be trusted to lead them into their best life - if they wanted true fulfillment, they would have to seize knowledge and make their own decisions. He was telling them that they could - and should - live independently from God. Eve believed the Serpent, as shown by her conclusion that the fruit was 'desirable for gaining wisdom' [^41]. Put plainly, Eve listened to and trusted the Serpent; she believed the deception. The Serpent's words appear to have struck a resounding chord in Eve, appealing to fear and a desire for control. Since Scripture is clear that Eve was deceived, blatant rebellion may not have been in her mind-she may have truly believed that her relationship with God wouldn't end. By contrast, Scripture presents Adam's choice differently: he was not deceived, but knowingly joined in the act, bearing responsibility for their disobedience.
+In the dialog between the Serpent and Eve, the first statement by the Serpent was sarcastic, mocking God and questioning His generosity: 'Did God really say…'? This was followed by a blatant lie, 'You will not certainly die.' The Serpent was implying that God had hidden motives and couldn't be trusted. Then he said, 'you will be like God.' In other words, the Serpent suggested that God couldn't be trusted to lead them into their best life - if they wanted true fulfillment, they would have to seize knowledge and make their own decisions. He was telling them that they could - and should - live independently from God. Eve believed the Serpent, as shown by her conclusion that the fruit was 'desirable for gaining wisdom' [^41]. Put plainly, Eve listened to and trusted the Serpent; she believed the deception. The Serpent's words appear to have struck a resounding chord in Eve, appealing to fear and a desire for control. Since Scripture is clear that Eve was deceived, blatant rebellion may not have been in her mind-she may have truly believed that her relationship with God wouldn't end. By contrast, Scripture presents Adam's choice differently: he was not deceived, but knowingly joined in the act, bearing responsibility for their disobedience.
 
 After both Adam and Eve ate the forbidden fruit, God cursed humanity and the earth in an event referred to as 'The Fall.'
 
-1. God cursed the Serpent and predicted that He would eventually deal the Serpent a mortal wound. Before that wound was inflicted, Scripture says the Serpent would have offspring [^42]. What? How? In the Fall, the Serpent usurped God's authority over the Earth by persuading humans to live without relationship with Him. By choosing independence, they effectively aligned themselves with the Serpent and became his 'offspring' [^43]. Thus, the Serpent was forming a rival kingdom - a people defined by independence from God.
+1. God cursed the Serpent and predicted that He would eventually deal the Serpent a mortal wound. Before that wound was inflicted, Scripture says the Serpent would have offspring [^42]. What? How? In the Fall, the Serpent usurped God's authority over the Earth by persuading humans to live without relationship with Him. By choosing independence, they effectively aligned themselves with the Serpent and became his 'offspring' [^43]. Thus, the Serpent was forming a rival kingdom - a people defined by independence from God.
+    
 2. God cursed Adam. The ground would now resist his efforts; he would have to work by the 'sweat of his brow' to produce food. Adam and Eve were banished from the Garden of Eden and denied access to the Tree of Life.
+    
 3. God cursed Eve. Childbirth would now involve great pain, and conflict would enter her relationship with her husband, who would 'rule over' her in opposition to her natural desires. The curse on Eve confers disorder in the marriage relationship.
+    
 4. God cursed the Earth - the Earth would now produce thorns and thistles, making agriculture toilsome. Scripture links the fate of Earth to the fate of humanity, likely because humans have the mandate to be the Earth's stewards. It makes sense - humans broke their relationship with God, and so their relationship with creation was also broken.
+    
 
-It's interesting to note that the knowledge of good and evil itself was not the issue in the Garden. God Himself has that knowledge and Scripture says that His goal for us is to be conformed to His image. Evidently, God did not want humans to gain knowledge that way; humans needed to have knowledge imparted according to His plan and timeline [^44], much like parents gradually imparting knowledge to their children as they mature [^45]. There's another perspective on eating the TKGE's fruit. It's not just disobedience but love turned inward - the self preferred over God. The Fall thus becomes the corruption of love's order. In other words, sin is not merely a transgression of God's commands, but that which breaks or harms relationship. Pride [^46] is the root of this choice-indeed, as Augustine of Hippo has written, pride is the opposite of love [^47]. As a result of the Fall, humans were separated from God - the word, death, in Scripture often means separation from God. Nevertheless, God, in His love, didn't end the humans' life immediately. He let them live out their lives in accordance with their choices and maintained their status as image bearers [^48]. Moreover, in his love, He promised to provide a remedy - the aforementioned mortal wound to the Serpent. Amazingly, God did not merely foresee humanity's rebellion; in love, He freely chose to allow it. He designed a world capable of enduring-and even sustaining a measure of fruitfulness-should humans choose independence from Him. Though sin would introduce death and render such life finite, God continued to sustain human existence and endowed humanity with the capacity to live an entire lifetime apart from Him-though human flourishing became profoundly disordered, fractured at its core by the loss of spiritual union with God. Humanity was never meant to exist untethered; only through intimate communion with God can our passions be rightly ordered and our lives fully aligned with their intended purpose. In a paradoxical way, God's love is also revealed in declaring physical death as the consequence of disobedience. Once Adam and Eve fell and became disordered by evil, unmediated [^49] shared life with God was no longer possible; perfect goodness cannot coexist with corruption. Had they been permitted to live indefinitely in that state, they would have been estranged from God's presence and partnership forever. By making them mortal, God opened a different future. Death introduced the possibility of redemption-a second chance, and indeed, a lifetime of second chances. By imposing mortality, God acted in a way consistent with His own character: He neither ignored evil nor abandoned His creatures, but created a path by which they could one day be restored. In this sense, death was not merely a judgment, but a severe mercy-God remaining true to Himself while preserving the hope of reconciliation.
+It's interesting to note that the knowledge of good and evil itself was not the issue in the Garden. God Himself has that knowledge and Scripture says that His goal for us is to be conformed to His image. Evidently, God did not want humans to gain knowledge that way; humans needed to have knowledge imparted according to His plan and timeline [^44], much like parents gradually imparting knowledge to their children as they mature [^45]. There's another perspective on eating the TKGE's fruit. It's not just disobedience but love turned inward - the self preferred over God. The Fall thus becomes the corruption of love's order. In other words, sin is not merely a transgression of God's commands, but that which breaks or harms relationship. Pride [^46] is the root of this choice-indeed, as Augustine of Hippo has written:
+
+> Pride is the opposite of love.
+> 
+> — Augustine of Hippo [^47]
+
+As a result of the Fall, humans were separated from God - the word, death, in Scripture often means separation from God. Nevertheless, God, in His love, didn't end the humans' life immediately. He let them live out their lives in accordance with their choices and maintained their status as image bearers [^48]. Moreover, in his love, He promised to provide a remedy - the aforementioned mortal wound to the Serpent. Amazingly, God did not merely foresee humanity's rebellion; in love, He freely chose to allow it. He designed a world capable of enduring-and even sustaining a measure of fruitfulness-should humans choose independence from Him. Though sin would introduce death and render such life finite, God continued to sustain human existence and endowed humanity with the capacity to live an entire lifetime apart from Him-though human flourishing became profoundly disordered, fractured at its core by the loss of spiritual union with God. Humanity was never meant to exist untethered; only through intimate communion with God can our passions be rightly ordered and our lives fully aligned with their intended purpose. In a paradoxical way, God's love is also revealed in declaring physical death as the consequence of disobedience. Once Adam and Eve fell and became disordered by evil, unmediated [^49] shared life with God was no longer possible; perfect goodness cannot coexist with corruption. Had they been permitted to live indefinitely in that state, they would have been estranged from God's presence and partnership forever. By making them mortal, God opened a different future. Death introduced the possibility of redemption-a second chance, and indeed, a lifetime of second chances. By imposing mortality, God acted in a way consistent with His own character: He neither ignored evil nor abandoned His creatures, but created a path by which they could one day be restored. In this sense, death was not merely a judgment, but a severe mercy-God remaining true to Himself while preserving the hope of reconciliation.
 
 As we'll see in the next section, the problem of evil in the world is not just due to the mistakes of the first humans.
 
@@ -224,23 +286,30 @@ Whether one immediately accepts this unseen dimension or not, the pattern Script
 
 Before the creation of humanity, Scripture teaches that God created spiritual beings and endowed them, like humans, with genuine freedom. One of these beings is depicted symbolically as the Serpent-the prime antagonist in the garden. Scripture portrays the Serpent as one who rebelled against God and became an adversary-not by creating, but by corrupting what God had made.
 
-What motivates such an adversary? Scripture does not provide details, but many theologians have observed that the Serpent gains nothing in the sense of reward or benefit. His actions are not oriented toward possession, but toward ruin-toward opposing God by damaging what He loves. The Serpent's defining trait is portrayed as pride, the antithesis of love [^50]. In this sense, evil is not productive; it's parasitic, feeding on the good while contributing nothing of its own.
+What motivates such an adversary? Scripture does not provide details, but many theologians have observed that the Serpent gains nothing in the sense of reward or benefit. His actions are not oriented toward possession, but toward ruin-toward opposing God by damaging what He loves. The Serpent's defining trait is portrayed as pride, the antithesis of love [^50]. In this sense, evil is not productive; it's parasitic, feeding on the good while contributing nothing of its own.
 
 Following humanity's fall, Scripture traces a long conflict centered on the promise that God would one day act decisively to heal and restore what had been broken. Many theologians have understood the Serpent's subsequent activity as an attempt to frustrate this promise-especially by preventing the arrival of the Messiah, Jesus of Nazareth. Had that promise failed, the decisive defeat of evil might never have occurred because God's restorative work would have been derailed mid-course.
 
 After that effort failed, and following Jesus' life, death, and resurrection, Scripture introduces another theme: the unfolding of God's Kingdom through the free response of human beings to the Remedy. The New Testament repeatedly depicts evil as actively opposing this work-not through force, but through deception, division, and doubt. While Scripture does not speculate about the inner calculations of evil spiritual beings, it's reasonable to infer that if rebellion can be prolonged, their judgment can be delayed. In this way, deception becomes a survival strategy.
 
-The Apostle Paul summarizes this reality with sobering clarity: 'our struggle is not against flesh and blood [humans], but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.' [^51] Evil, in Scripture's account, is not merely personal or psychological; it's also systemic and spiritual.
+The Apostle Paul summarizes this reality with sobering clarity:
 
-Yet Scripture is equally clear that these forces are not God's equals. They cannot defeat Him by power. Instead, they seek to undermine His character through deception, lies, and slander [^52]. This is a shrewd strategy, because brute force cannot answer such accusations. Consider a hypothetical mayor falsely accused of corruption: silencing critics through power would only confirm suspicion, not dispel it. What is required is a demonstration of integrity so compelling that the accusation collapses under its own weight.
+> our struggle is not against flesh and blood [humans], but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.
+> 
+> — Ephesians 6:12 (NIV) [^51]
 
-In the same way, Scripture presents God's response to evil not as coercion, but as self-giving love. Even as deception continues, God reveals His character to humanity through patience, faithfulness, and ultimately through Jesus Himself-the true image bearer. Spiritual warfare [^53] [^54], then, is not merely a clash of power, but a contest over truth and trust.
+Evil, in Scripture's account, is not merely personal or psychological; it's also systemic and spiritual.
+
+Yet Scripture is equally clear that these forces are not God's equals. They cannot defeat Him by power. Instead, they seek to undermine His character through deception, lies, and slander [^52]. This is a shrewd strategy, because brute force cannot answer such accusations. Consider a hypothetical mayor falsely accused of corruption: silencing critics through power would only confirm suspicion, not dispel it. What is required is a demonstration of integrity so compelling that the accusation collapses under its own weight.
+
+In the same way, Scripture presents God's response to evil not as coercion, but as self-giving love. Even as deception continues, God reveals His character to humanity through patience, faithfulness, and ultimately through Jesus Himself-the true image bearer. Spiritual warfare [^53] [^54], then, is not merely a clash of power, but a contest over truth and trust.
 
 Taken together, the activity of evil spiritual forces and humanity's own disordered passions form Scripture's explanation for why evil is so pervasive in the world. Love remains the goal of creation, but when love is opposed-both from within and from beyond-its perversion leaves deep and lasting scars.
 
 ## Love Contested: The Mystery of Evil
 
-Rampant evil in our world raises deep questions: Did God create evil? If God is truly loving and good, why does He allow evil to exist/persist? The latter is Oxford philosopher J.L. Mackie's infamous 'Logical Problem of Evil.' [^55]
+Rampant evil in our world raises deep questions: Did God create evil? If God is truly loving and good, why does He allow evil to exist/persist? The latter is Oxford philosopher J.L. Mackie's infamous 'Logical Problem of Evil.' [^55]
+
 
 |                       |                                                                           |
 | --------------------- | ------------------------------------------------------------------------- |
@@ -250,23 +319,35 @@ Rampant evil in our world raises deep questions: Did God create evil? If God is 
 | **Open Cosmos**       | Nature is granted lawful integrity and openness, allowing real risk.      |
 | **Spiritual Warfare** | Evil spirits actively deceive and corrupt, prolonging rebellion.          |
 
-University of Notre Dame Professor of Philosophy, Alvin Plantinga, successfully rebutted Mackie's assertion in his book, God, Freedom, and Evil [^56]. Plantinga writes that God could have a valid reason to permit evil. One reason would be to grant his creatures genuine free will. If God restricted everyone's choices such that they could never making an unloving one, they wouldn't have genuinely free will. Plantinga continues to argue, even an all-powerful God cannot guarantee that genuinely free creatures will always choose love. While it may be logically possible to imagine free beings who never sin, it may not be feasible for God to actualize such a world without overriding their freedom. Therefore, evil exists because God's created beings - both spiritual and human - possess genuine free will. When we make poor choices, to one degree or another, bad things happen (sin). Apparently, God prefers having beings who possess free will and can choose either good or evil rather than not having freedom at all. It seems that genuine love requires genuine freedom of choice; otherwise, as stated previously, God has merely created robots. At this juncture, it's imperative to state that God did not create evil - He declared his creation 'good'. Nevertheless, when He created spiritual and human beings, He knew in advance that evil would arise. Knowing an outcome in advance is not the same as causing it. God's foreknowledge of human choices does not make those choices necessary or coerced; they remain genuinely free acts for which the creature, not the Creator, is responsible. As in the case of Adam, so it is for us as well-our choices are meaningful and carry real outcomes; when we choose sin, we are morally culpable. If, no matter what one chose, God refused to hold anyone accountable, bad choices wouldn't really matter. Free will implies real consequences and genuine justice (more on this later). Scripture consistently portrays God as patient to a degree that far exceeds human tolerance [^57]. Evil is permitted for a long time-not because it is ignored, but because judgment is restrained. Again and again, divine judgment [^58] appears only after prolonged warning, forbearance, and opportunity for repentance. From the days of Noah, to the exile of Israel, to the delayed conquest of Canaan, the biblical pattern is the same: God patiently waits, warns, and endures long before He acts. God's desire for humanity to possess genuinely free will leads us directly into the theological idea known as 'the hiddenness of God.' This concept describes the reality that God does not always make His presence, power, or purposes unmistakably obvious to us. It's not that He's absent, but that He chooses not to overwhelm human freedom with constant, undeniable displays of His existence. After all, if He revealed to each of us his full nature - so powerful and glorious as to remove all doubt - we would be overwhelmed with proof of His existence and love [^59] [^60]. Consequently, our love towards Him would no longer be a choice, it would be a foregone conclusion compelled by revelation. Another perspective on God's hiddenness appears in a common plot in RomCom movies: one character conceals their wealth at the beginning of a dating relationship. Their goal is not deception but to avoid influencing the other person's motives. Wealth changes behavior. It can undermine genuine affection. In a much deeper way, if God revealed the full weight of His glory, power, and beauty at all times, it would overwhelm us. Our response would be automatic rather than freely given. God's hiddenness, then, is not absence but a mercy that preserves the authenticity of our relational choice.
+University of Notre Dame Professor of Philosophy, Alvin Plantinga, successfully rebutted Mackie's assertion in his book, _God, Freedom, and Evil_ [^56]. Plantinga writes that God could have a valid reason to permit evil. One reason would be to grant his creatures genuine free will. If God restricted everyone's choices such that they could never making an unloving one, they wouldn't have genuinely free will. Plantinga continues to argue, even an all-powerful God cannot guarantee that genuinely free creatures will always choose love. While it may be logically possible to imagine free beings who never sin, it may not be feasible for God to actualize such a world without overriding their freedom. Therefore, evil exists because God's created beings - both spiritual and human - possess genuine free will. When we make poor choices, to one degree or another, bad things happen (sin). Apparently, God prefers having beings who possess free will and can choose either good or evil rather than not having freedom at all. It seems that genuine love requires genuine freedom of choice; otherwise, as stated previously, God has merely created robots. At this juncture, it's imperative to state that God did not create evil - He declared his creation 'good'. Nevertheless, when He created spiritual and human beings, He knew in advance that evil would arise. Knowing an outcome in advance is not the same as causing it. God's foreknowledge of human choices does not make those choices necessary or coerced; they remain genuinely free acts for which the creature, not the Creator, is responsible. As in the case of Adam, so it is for us as well-our choices are meaningful and carry real outcomes; when we choose sin, we are morally culpable. If, no matter what one chose, God refused to hold anyone accountable, bad choices wouldn't really matter. Free will implies real consequences and genuine justice (more on this later). Scripture consistently portrays God as patient to a degree that far exceeds human tolerance [^57]. Evil is permitted for a long time-not because it is ignored, but because judgment is restrained. Again and again, divine judgment [^58] appears only after prolonged warning, forbearance, and opportunity for repentance. From the days of Noah, to the exile of Israel, to the delayed conquest of Canaan, the biblical pattern is the same: God patiently waits, warns, and endures long before He acts. God's desire for humanity to possess genuinely free will leads us directly into the theological idea known as 'the hiddenness of God.' This concept describes the reality that God does not always make His presence, power, or purposes unmistakably obvious to us. It's not that He's absent, but that He chooses not to overwhelm human freedom with constant, undeniable displays of His existence. After all, if He revealed to each of us his full nature - so powerful and glorious as to remove all doubt - we would be overwhelmed with proof of His existence and love [^59] [^60]. Consequently, our love towards Him would no longer be a choice, it would be a foregone conclusion compelled by revelation. Another perspective on God's hiddenness appears in a common plot in RomCom movies: one character conceals their wealth at the beginning of a dating relationship. Their goal is not deception but to avoid influencing the other person's motives. Wealth changes behavior. It can undermine genuine affection. In a much deeper way, if God revealed the full weight of His glory, power, and beauty at all times, it would overwhelm us. Our response would be automatic rather than freely given. God's hiddenness, then, is not absence but a mercy that preserves the authenticity of our relational choice.
 
-How much revelation by God of Himself is sufficient for humanity? Scripture is quite clear on this point-there is sufficient revelation solely in nature and the cosmos [^61].
+How much revelation by God of Himself is sufficient for humanity? Scripture is quite clear on this point-there is sufficient revelation solely in nature and the cosmos [^61].
 
-That said, if God is truly loving and all powerful, why does He allow evil to continue? Why is God's patience exercised at this scale and for this long? Why is suffering permitted to reach such intensity; why does it fall so unevenly across humanity; why are some evils restrained while others are allowed to unfold; and why does history itself bear such prolonged wounds? Scripture affirms that God has reasons for His restraint, yet does not disclose them fully. It's here that the mystery of evil remains-because finite creatures cannot fully grasp the purposes of a God whose wisdom exceeds their own. Pastor and theologian, Tim Keller writes [^62]:
+That said, if God is truly loving and all powerful, why does He allow evil to continue? Why is God's patience exercised at this scale and for this long? Why is suffering permitted to reach such intensity; why does it fall so unevenly across humanity; why are some evils restrained while others are allowed to unfold; and why does history itself bear such prolonged wounds? Scripture affirms that God has reasons for His restraint, yet does not disclose them fully. It's here that the mystery of evil remains-because finite creatures cannot fully grasp the purposes of a God whose wisdom exceeds their own. Pastor and theologian, Tim Keller writes:
 
-'If it appears to us that all suffering and evil is pointless, that doesn't mean it is pointless. If you have a God great and transcendent enough to be 'mad at' for not stopping evil, then you must also have a God great enough to have good reasons for allowing it that you simply can't know.'
+> If it appears to us that all suffering and evil is pointless, that doesn't mean it is pointless. If you have a God great and transcendent enough to be 'mad at' for not stopping evil, then you must also have a God great enough to have good reasons for allowing it that you simply can't know.
+> 
+> — Tim Keller [^62]
 
-C.S. Lewis in his book, The Problem of Pain [^63], suggests another possible reason for the presence of evil in our world:
+C.S. Lewis in his book, _The Problem of Pain_ [^63], suggests another possible reason for the presence of evil in our world:
 
-'The human spirit will not even begin to try to surrender self-will as long as all seems to be well with it…pain is unmasked, unmistakable evil; every man knows that something is wrong when he is being hurt…pain insists upon being attended to. God whispers to us in our pleasures, speaks in our conscience, but shouts in our pain: it is His megaphone to rouse a deaf world.'
+> The human spirit will not even begin to try to surrender self-will as long as all seems to be well with it…pain is unmasked, unmistakable evil; every man knows that something is wrong when he is being hurt…pain insists upon being attended to. God whispers to us in our pleasures, speaks in our conscience, but shouts in our pain: it is His megaphone to rouse a deaf world.
+> 
+> — C.S. Lewis, _The Problem of Pain_ [^63]
 
-Incredibly, Scripture teaches that suffering is critical for proper transformation of the human spirit. Romans 5:3-4 (NIV) states, '…we know that suffering produces perseverance; perseverance, character; and character, hope.' In other words, God can use evil for good if we're in partnership with Him.
+Incredibly, Scripture teaches that suffering is critical for proper transformation of the human spirit:
 
-We all can become angry at God over our own pain and suffering, or that of someone we love. To this, Peter Kreeft [^64], a Catholic philosopher at Boston College and The King's College points out:
+> …we know that suffering produces perseverance; perseverance, character; and character, hope.
+> 
+> — Romans 5:3-4 (NIV)
 
-'… the Christian God came to earth to deliberately put himself on the hook of human suffering. In Jesus Christ, God experienced the greatest depths of pain. Therefore, though Christianity does not provide the reason for each experience of pain, it provides deep resources for actually facing suffering with hope and courage rather than bitterness and despair.'
+In other words, God can use evil for good if we're in partnership with Him.
+
+We all can become angry at God over our own pain and suffering, or that of someone we love. To this, Peter Kreeft [^64], a Catholic philosopher at Boston College and The King's College points out:
+
+> … the Christian God came to earth to deliberately put himself on the hook of human suffering. In Jesus Christ, God experienced the greatest depths of pain. Therefore, though Christianity does not provide the reason for each experience of pain, it provides deep resources for actually facing suffering with hope and courage rather than bitterness and despair.
+> 
+> — Peter Kreeft [^64]
 
 Philosophers such as Plantinga have argued that the existence of free moral agents is logically compatible with the existence of a good and omnipotent God - a defense many contemporary atheistic philosophers concede has not been refuted.
 
@@ -284,7 +365,13 @@ Meteorological disasters arise from atmospheric systems that distribute heat, wa
 
 Biological suffering arises from processes such as genetic mutation, cellular competition, and microbial ecosystems-mechanisms without which life could neither adapt, heal, nor persist. DNA replication and mutation enable immune defense and evolutionary resilience, yet they also allow cancer, congenital disorders, and degenerative disease. The capacity of living systems to repair themselves is inseparable from their capacity to malfunction.
 
-Traditionally, Christian theology has understood natural evil as one of the consequences of the Fall. Scripture teaches that post-Fall creation is 'subject to frustration' with 'bondage to decay' [^65]. This account rightly emphasizes that the world is no longer functioning as originally intended. Yet physicist-theologian John Polkinghorne has suggested that this explanation may not be the whole story. In Science and Providence: God's Interaction with the World [^66], he proposes that God created a world that is not only lawful but genuinely open-a creation granted genuine freedom within the constraints of its God-given laws.
+Traditionally, Christian theology has understood natural evil as one of the consequences of the Fall. Scripture teaches that post-Fall creation is:
+
+> subject to frustration…[in] bondage to decay
+> 
+> — Romans 8:20-21 (paraphrase) [^65]
+
+This account rightly emphasizes that the world is no longer functioning as originally intended. Yet physicist-theologian John Polkinghorne has suggested that this explanation may not be the whole story. In _Science and Providence: God's Interaction with the World_ [^66], he proposes that God created a world that is not only lawful but genuinely open-a creation granted genuine freedom within the constraints of its God-given laws.
 
 Polkinghorne suggests that God has created nature with real integrity, by which he means that the natural world is allowed to develop according to its own consistent laws-the laws of physics-without being micromanaged by God. From this integrity flows the concept of openness. In Polkinghorne's view, openness means that the future is not exhaustively fixed by the past: novelty can arise and outcomes are not fully scripted. Integrity concerns the kind of world God has made-one with authentic structure and genuine causal powers-while openness concerns the status of its unfolding future.
 
@@ -300,7 +387,7 @@ Such openness preserves both moral freedom and natural regularity. It makes pray
 
 If Polkinghorne is right, natural evil exists not because creation is purposeless or abandoned, but because in love, God risked creating a world that's truly alive. A perfectly safe world would not be a perfected world-it would be a lesser one.
 
-In addition to the creative freedom of Polkinghorne's chaotic world, Scripture tells us that spiritual beings-both good and evil-have the capability to manipulate the natural world. For example, the Serpent is the instigator of calamities that take the form of recognizable natural events-fire falling from heaven (lightning?), killing sheep and their shepherds, and a great wind collapsing a house and killing its occupants [^67]. The text leaves the physical mechanisms unspecified, allowing for spiritual agency working through natural processes. In another instance, the Serpent afflicts Job with painful sores all over his body [^68]. In a benevolent situation, Jesus calmed a storm [^69].
+In addition to the creative freedom of Polkinghorne's chaotic world, Scripture tells us that spiritual beings-both good and evil-have the capability to manipulate the natural world. For example, the Serpent is the instigator of calamities that take the form of recognizable natural events-fire falling from heaven (lightning?), killing sheep and their shepherds, and a great wind collapsing a house and killing its occupants [^67]. The text leaves the physical mechanisms unspecified, allowing for spiritual agency working through natural processes. In another instance, the Serpent afflicts Job with painful sores all over his body [^68]. In a benevolent situation, Jesus calmed a storm [^69].
 
 Scripture presents natural evil as the result of multiple, layered causes rather than a single mechanism. We don't know the reason for each instance of natural evil. At the most fundamental level, creation itself is subject to decay as a consequence of the Fall. At times, God also permits or employs natural events as acts of judgment or healing, while spiritual forces of evil further exploit the world's brokenness. These explanations are not rivals, but operate together within a creation that is no longer functioning as it was originally intended.
 
@@ -314,11 +401,15 @@ Creation is love's gambit, a risk God willingly embraced-a decision not to contr
 
 ## Love Revisited: God Still Wants a People
 
-An important question to ask at this juncture is, what does God want? God wants to have a deep, personal relationship with each and every human on the planet. In the Garden of Eden, God walked and talked daily with Adam & Eve before the Fall [^70]. In the section on the Remedy, we'll see that God's Spirit (i.e., the Holy Spirit of the Trinity) will internally empower (indwell) humans, thereby living with them. At the end of the age, God promises a new heaven and a new earth [^71] wherein God and humans, in their new bodies, will dwell together eternally.
+An important question to ask at this juncture is, what does God want? God wants to have a deep, personal relationship with each and every human on the planet. In the Garden of Eden, God walked and talked daily with Adam & Eve before the Fall [^70]. In the section on the Remedy, we'll see that God's Spirit (i.e., the Holy Spirit of the Trinity) will internally empower (indwell) humans, thereby living with them. At the end of the age, God promises a new heaven and a new earth [^71] wherein God and humans, in their new bodies, will dwell together eternally.
 
-Although God wants you to join His family, He won't override your free will. Suppose a man and woman begin dating. After a few dates, the man realizes he's fond of her and asks if she would like to be his girlfriend. She breaks his heart by replying, 'I just want to be friends.' At this point, what is the loving thing for the man to do? Should he respect her wishes and be just friends? Or should he think, 'I'm going to win her over -she just needs to see how much I love her' -and then begin calling her constantly, buying her gifts, and pushing past her boundaries? Obviously, he should honor her request. In the same way, God honors your response to Him. Scripture describes many examples of this truth: if a person persistently seeks things outside the bounds of the Love Precepts, God will not force them otherwise [^72].
+Although God wants you to join His family, He won't override your free will. Suppose a man and woman begin dating. After a few dates, the man realizes he's fond of her and asks if she would like to be his girlfriend. She breaks his heart by replying, 'I just want to be friends.' At this point, what is the loving thing for the man to do? Should he respect her wishes and be just friends? Or should he think, 'I'm going to win her over -she just needs to see how much I love her' -and then begin calling her constantly, buying her gifts, and pushing past her boundaries? Obviously, he should honor her request. In the same way, God honors your response to Him. Scripture describes many examples of this truth: if a person persistently seeks things outside the bounds of the Love Precepts, God will not force them otherwise [^72].
 
-C. S. Lewis stressed that God won't override your free will even regarding the most important decision of your life, the one which determines your ultimate destiny. In his book, The Great Divorce [^73], Lewis writes that God doesn't send people to hell against their will: 'There are only two kinds of people in the end: those who say to God, 'Thy will be done,' and those to whom God says, in the end, 'Thy will be done.' All that are in hell, choose it.'
+C. S. Lewis stressed that God won't override your free will even regarding the most important decision of your life, the one which determines your ultimate destiny. In his book, _The Great Divorce_ [^73], Lewis writes:
+
+> There are only two kinds of people in the end: those who say to God, 'Thy will be done,' and those to whom God says, in the end, 'Thy will be done.' All that are in hell, choose it.
+> 
+> — C.S. Lewis, _The Great Divorce_ [^73]
 
 However, there's a problem. Humans are sinful, and God's love requires justice for sin. Suppose two people go to court over stolen property. During the trial, the defendant admits to stealing it, but says he sold it and gambled away the proceeds. It might be loving for the judge to show mercy to the thief (perhaps because of extenuating circumstances), but it would be unloving to ignore the victim's loss - he no longer has his property nor the resources to replace it. Love demands justice, because love takes harm seriously.
 
@@ -328,60 +419,89 @@ In a hypothetical 'court' in which God and humanity are on trial, who is the one
 
 Actually, it turns out that God was harmed:
 
-- Sin breaks our relationship with God [^74]. God views our relationship with Himself much like a human marriage relationship; He sees us as His beloved spouse. So when we choose something besides Him-whether money, fame, or anything else-He views it as adultery [^75]. Scripture even describes His emotional response as that of a jilted spouse [^76]. Most of us never stop to consider God's perspective, but it makes sense: He created us for relationship.
-- Sin causes God emotional pain [^77]. As a parent, how do you feel when you see your children making poor choices? Another way to picture this is to recall a time when you gave a spouse or close friend a meaningful gift-something you chose or created especially for them-and instead of showing gratitude, they responded with indifference, as if your effort didn't matter. How did that make you feel?
+- Sin breaks our relationship with God [^74]. God views our relationship with Himself much like a human marriage relationship; He sees us as His beloved spouse. So when we choose something besides Him-whether money, fame, or anything else-He views it as adultery [^75]. Scripture even describes His emotional response as that of a jilted spouse [^76]. Most of us never stop to consider God's perspective, but it makes sense: He created us for relationship.
+    
+- Sin causes God emotional pain [^77]. As a parent, how do you feel when you see your children making poor choices? Another way to picture this is to recall a time when you gave a spouse or close friend a meaningful gift-something you chose or created especially for them-and instead of showing gratitude, they responded with indifference, as if your effort didn't matter. How did that make you feel?
+    
 
-This is not to say that humans can manipulate God using emotion [^78]. God truly feels anguish, compassion, and delight, yet His inner blessedness is not diminished nor psychologically altered by our actions.
+This is not to say that humans can manipulate God using emotion [^78]. God truly feels anguish, compassion, and delight, yet His inner blessedness is not diminished nor psychologically altered by our actions.
 
 - Sin breaks his created beings' capability to be proper image bearers. Thus, His cultural mandate isn't being fulfilled. Imagine if you created a sophisticated AI robot, and one day it decided to reject its programming and refuse to do what you designed it for. You'd feel frustration and loss. That's a faint echo of how God feels when we, His image-bearers, refuse our purpose.
+    
 - Sinful humankind has damaged God's property (i.e., the Earth and its flora & fauna). Consider how many animal species have become extinct due to human behavior, and how much air, water, and ocean pollution humanity has caused. The world is now on the verge of a human-induced ecological crisis. What should have been a glorious display of God's creative genius has been tragically degraded. The earth is no longer 'fit for purpose.' If God wants it back - and He does - He'll have to remake it; no one else can.
+    
 - Sin damaged humans themselves. Since humans are too precious to God to be destroyed or annihilated, they need to be 'repaired'. Again, only God is capable of doing this - and it cost Him His Son's life.
+    
 
 ## Love Restored: The Remedy
 
 ## Our Disordered Passions
 
-| Good Passion (Original Design)     | Fallen Distortion                                     |
-| ---------------------------------- | ----------------------------------------------------- |
-| Libido (spousal love, procreation) | Lust, sexual immorality                               |
-| Ambition (provide, cultivate)      | Greed, ruthless competition                           |
-| Hunger (sustain life)              | Gluttony                                              |
-| Desire for knowledge               | Prideful autonomy (deciding good/evil apart from God) |
-| Self-preservation                  | Selfishness, fear of scarcity                         |
+|Good Passion (Original Design)|Fallen Distortion|
+|---|---|
+|Libido (spousal love, procreation)|Lust, sexual immorality|
+|Ambition (provide, cultivate)|Greed, ruthless competition|
+|Hunger (sustain life)|Gluttony|
+|Desire for knowledge|Prideful autonomy (deciding good/evil apart from God)|
+|Self-preservation|Selfishness, fear of scarcity|
 
-Something is wrong with all of us. We act out of genuine love at times, but it isn't our core nature. Throughout world history we see hate, racism, sexism, human trafficking, slavery, war, and genocide. In daily life we observe theft, anger, lying, divisiveness, manipulation, arrogance, and greed. Each one of us has committed our own sins [^79]. And yet, God still loves us and wants us to be part of His family. But He cannot ignore sin [^80], and He demands justice for the wrongs humans have committed against Him and against one another.
+Something is wrong with all of us. We act out of genuine love at times, but it isn't our core nature. Throughout world history we see hate, racism, sexism, human trafficking, slavery, war, and genocide. In daily life we observe theft, anger, lying, divisiveness, manipulation, arrogance, and greed. Each one of us has committed our own sins [^79]. And yet, God still loves us and wants us to be part of His family. But He cannot ignore sin [^80], and He demands justice for the wrongs humans have committed against Him and against one another.
 
-In Scripture, sin refers to humanity's personal rebellion against God - the willful turning of the heart away from love and truth toward self-rule. Specifically, it's 'missing the mark' [^81] of the Love Precepts. All sin is evil because it participates in that corruption, yet evil extends beyond individual acts to include the suffering, injustice, death, and spiritual darkness that flow from them. Together they describe both the cause and the consequence of humanity's estrangement from the God who is love.
+In Scripture, sin refers to humanity's personal rebellion against God - the willful turning of the heart away from love and truth toward self-rule. Specifically, it's 'missing the mark' [^81] of the Love Precepts. All sin is evil because it participates in that corruption, yet evil extends beyond individual acts to include the suffering, injustice, death, and spiritual darkness that flow from them. Together they describe both the cause and the consequence of humanity's estrangement from the God who is love.
 
 The purpose of the Remedy is for humans to establish a partnership with God-so that we can be proper vice-regents to carry out the cultural mandate-not merely be provided with 'fire insurance.' Before we talk about the Remedy, we need to understand where the problem lies what exactly happened to the human condition as a result of the Fall.
 
-As a result of the Fall, the first humans broke their relationship with God and consequently God withdrew His immediate presence from them. This was truly a profound change! In The Lost World of Adam and Eve [^82], John H. Walton, Professor of Old Testament at Wheaton College, explains that the Fall occurred because humans elected to pursue life on their own terms. This decision resulted in a fundamental change to their motivations. With their decision to eat from the TKGE, humans assumed moral autonomy and found themselves responsible for ensuring their own survival-adequate food, shelter, clothing, and social stability. The Fall's curses [^83] brought hardship to subsistence, thereby creating a world marked by scarcity, fear, and frustration-conditions that further turned human attention inward. In such an environment, self-protection, rivalry, and mistrust become embedded patterns of behavior. Over generations, these patterns shaped the human experience so deeply that they began to appear natural, even though they arise not from an altered human essence but from life in a disordered world apart from God's immediate presence. These causes, taken together, caused humans' passions to become distorted [^84]. For example, libido, designed for spousal [eros] love and fulfilling the cultural mandate (being fruitful and increasing in number) turned to lust, engendering sexual immorality. The passion of subsistence, motivation to provide your own food, turned to unhealthy ambition engendering competition and a win-lose strategy for life (I win, others lose). Hunger turned to gluttony. And so on. Sin, by its very nature breeds more sin by strengthening sinful habit and weakening the conscience. More generally, Scripture describes sin not as an automatic expression of a corrupted essence, but as a developmental process that begins when human desire is stimulated and misdirected. Each person is tempted to sin when they are 'lured and enticed by their own desire,' language that portrays desire itself as morally neutral but vulnerable to distortion by our own thoughts as well as external conditions. Sin, in this view, does not erupt spontaneously from a broken substance but 'conceives' and grows, eventually resulting in action. Scripture's account supports a functional understanding of corruption: human beings are portrayed not as metaphysically ruined by the Fall [^85], but as morally vulnerable creatures whose desires, shaped by a broken world, can be trained toward either life or destruction, good or evil. This perspective also helps explain why children demonstrate selfishness even in households marked by abundance and nurture. Their behavior is not evidence of a corrupted metaphysical nature but of being born into a relational and cultural environment already shaped by fear, brokenness, and competing desires. Children learn patterns of self-protection and self-focus not only because their own passions are disordered, but also through the influence of the adults in their lives-parents who, even if redeemed, still wrestle with the lingering effects of sin. Every generation inherits not guilt, but the accumulated distortions modeled and reinforced by those who came before. In this view, humanity's 'corrupted nature' is best understood as the compounded effect of relational separation from God, environmental hardship, learned behaviors, and intergenerational patterns of sin. Adam and Eve were unique among humans. They did not enter the world through pregnancy and birth, but were created directly by God. They were morally mature when entrusted with the cultural mandate and explicitly commanded not to eat from the TKGE (Scripture does not specify their apparent 'age' at creation). Because they possessed moral awareness and agency from the outset, their disobedience rendered them fully culpable; God was fair in judging their rebellion at the Fall. What about everyone else? Babies are not born with the capacity to make moral decisions. They don't yet understand the cultural mandate or the Love Precepts. For this reason, they're not morally guilty of any transgression at birth-and not for some time thereafter (they're sinless). Scripture portrays God as holding children innocent, not accountable, before they are capable of moral awareness [^86]. Over time, however, each child reaches a point-different for every individual-at which moral awareness awakens. By then, disordered passions within and a disordered environment without (home, school, culture) have already exerted their influence. All culpably sin. Scripture teaches that all people possess an awareness of God through creation [^87] and conscience, along with an innate sense of right and wrong [^88]. Sin occurs when individuals violate that conscience and withhold their loyalty from God-to the extent that they genuinely understand Him. In this way, people are not condemned for Adam's sin, nor for ignorance, but for their own freely chosen disloyalty once moral responsibility has truly come into view. This is the world we actually live in - one where beauty is mixed with brokenness, where we do love sometimes, but we also wound others (and ourselves). If we're honest, this matches our experience. Two things need to be fixed - restorative justice for our sins (Scripture refers to this as atonement) and indwelling by God's Spirit [^89]. Scripture teaches - and history confirms - that only God, or a person indwelt by God, is capable of truly reflecting His image [^90]. The only person in all of history who perfectly reflected God's image was Jesus [^91], who was God. As humans, we need God's indwelling to empower us to bear His image properly. At this point, one might begin to recognize that Christianity is naming what many of us have been trying to do all along-live consistently by love-and explaining why we couldn't quite pull it off. Humanity cannot fix itself from inside the very problem it created. No amount of self-improvement, moral effort, or religious performance can undo the damage. Because we are broken at the core, the solution must come from the outside - God Himself must act on our behalf. And God did act on our behalf. The person who made the atonement for us [^92] - is God's son, Jesus of Nazareth, the Messiah [^93]. Scripture teaches that Jesus took upon Himself all the sins of all humans throughout the ages, giving up his life (being crucified on a Roman cross) as the requisite payment. So the first thing we need is a way to obtain this atonement for ourselves. Some may argue that God, due to the fact that He created us, is responsible for the remedy. This is analogous to a corporation paying for a remedy stemming from an improper act by one of their employees (e.g., erroneously opening a valve allowing hazardous chemicals to flow into a river). God has this angle covered as well, since He Himself provided our remedy in the person of his only son, Jesus [^94]. Note: discussion of the human condition and the reasons we sin can be illuminating and worthwhile, but in an important sense, is secondary. Our fundamental problem is not why we sin or how we arrived here, but that we have all sinned-each of us has made morally responsible choices that have broken our relationship with God.
+As a result of the Fall, the first humans broke their relationship with God and consequently God withdrew His immediate presence from them. This was truly a profound change! In _The Lost World of Adam and Eve_ [^82], John H. Walton, Professor of Old Testament at Wheaton College, explains that the Fall occurred because humans elected to pursue life on their own terms. This decision resulted in a fundamental change to their motivations. With their decision to eat from the TKGE, humans assumed moral autonomy and found themselves responsible for ensuring their own survival-adequate food, shelter, clothing, and social stability. The Fall's curses [^83] brought hardship to subsistence, thereby creating a world marked by scarcity, fear, and frustration-conditions that further turned human attention inward. In such an environment, self-protection, rivalry, and mistrust become embedded patterns of behavior. Over generations, these patterns shaped the human experience so deeply that they began to appear natural, even though they arise not from an altered human essence but from life in a disordered world apart from God's immediate presence. These causes, taken together, caused humans' passions to become distorted [^84]. For example, libido, designed for spousal [eros] love and fulfilling the cultural mandate (being fruitful and increasing in number) turned to lust, engendering sexual immorality. The passion of subsistence, motivation to provide your own food, turned to unhealthy ambition engendering competition and a win-lose strategy for life (I win, others lose). Hunger turned to gluttony. And so on. Sin, by its very nature breeds more sin by strengthening sinful habit and weakening the conscience. More generally, Scripture describes sin not as an automatic expression of a corrupted essence, but as a developmental process that begins when human desire is stimulated and misdirected:
+
+> Each person is tempted when they are dragged away by their own evil desire and enticed. Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death.
+> 
+> — James 1:14-15 (NIV, paraphrased)
+
+Language that portrays desire itself as morally neutral but vulnerable to distortion by our own thoughts as well as external conditions. Sin, in this view, does not erupt spontaneously from a broken substance but 'conceives' and grows, eventually resulting in action. Scripture's account supports a functional understanding of corruption: human beings are portrayed not as metaphysically ruined by the Fall [^85], but as morally vulnerable creatures whose desires, shaped by a broken world, can be trained toward either life or destruction, good or evil. This perspective also helps explain why children demonstrate selfishness even in households marked by abundance and nurture. Their behavior is not evidence of a corrupted metaphysical nature but of being born into a relational and cultural environment already shaped by fear, brokenness, and competing desires. Children learn patterns of self-protection and self-focus not only because their own passions are disordered, but also through the influence of the adults in their lives-parents who, even if redeemed, still wrestle with the lingering effects of sin. Every generation inherits not guilt, but the accumulated distortions modeled and reinforced by those who came before. In this view, humanity's 'corrupted nature' is best understood as the compounded effect of relational separation from God, environmental hardship, learned behaviors, and intergenerational patterns of sin. Adam and Eve were unique among humans. They did not enter the world through pregnancy and birth, but were created directly by God. They were morally mature when entrusted with the cultural mandate and explicitly commanded not to eat from the TKGE (Scripture does not specify their apparent 'age' at creation). Because they possessed moral awareness and agency from the outset, their disobedience rendered them fully culpable; God was fair in judging their rebellion at the Fall. What about everyone else? Babies are not born with the capacity to make moral decisions. They don't yet understand the cultural mandate or the Love Precepts. For this reason, they're not morally guilty of any transgression at birth-and not for some time thereafter (they're sinless). Scripture portrays God as holding children innocent, not accountable, before they are capable of moral awareness [^86]. Over time, however, each child reaches a point-different for every individual-at which moral awareness awakens. By then, disordered passions within and a disordered environment without (home, school, culture) have already exerted their influence. All culpably sin. Scripture teaches that all people possess an awareness of God through creation [^87] and conscience, along with an innate sense of right and wrong [^88]. Sin occurs when individuals violate that conscience and withhold their loyalty from God-to the extent that they genuinely understand Him. In this way, people are not condemned for Adam's sin, nor for ignorance, but for their own freely chosen disloyalty once moral responsibility has truly come into view. This is the world we actually live in - one where beauty is mixed with brokenness, where we do love sometimes, but we also wound others (and ourselves). If we're honest, this matches our experience. Two things need to be fixed - restorative justice for our sins (Scripture refers to this as atonement) and indwelling by God's Spirit [^89]. Scripture teaches - and history confirms - that only God, or a person indwelt by God, is capable of truly reflecting His image [^90]. The only person in all of history who perfectly reflected God's image was Jesus [^91], who was God. As humans, we need God's indwelling to empower us to bear His image properly. At this point, one might begin to recognize that Christianity is naming what many of us have been trying to do all along-live consistently by love-and explaining why we couldn't quite pull it off. Humanity cannot fix itself from inside the very problem it created. No amount of self-improvement, moral effort, or religious performance can undo the damage. Because we are broken at the core, the solution must come from the outside - God Himself must act on our behalf. And God did act on our behalf. The person who made the atonement for us [^92] - is God's son, Jesus of Nazareth, the Messiah [^93]. Scripture teaches that Jesus took upon Himself all the sins of all humans throughout the ages, giving up his life (being crucified on a Roman cross) as the requisite payment. So the first thing we need is a way to obtain this atonement for ourselves. Some may argue that God, due to the fact that He created us, is responsible for the remedy. This is analogous to a corporation paying for a remedy stemming from an improper act by one of their employees (e.g., erroneously opening a valve allowing hazardous chemicals to flow into a river). God has this angle covered as well, since He Himself provided our remedy in the person of his only son, Jesus [^94]. Note: discussion of the human condition and the reasons we sin can be illuminating and worthwhile, but in an important sense, is secondary. Our fundamental problem is not why we sin or how we arrived here, but that we have all sinned-each of us has made morally responsible choices that have broken our relationship with God.
 
 ## The Significance of Jesus' Resurrection
 
-At this juncture, it's imperative we discuss the implication of Jesus' resurrection from the dead. Sin causes physical death and separation from God. Jesus' resurrection proves that even though all humanity's sins were placed upon Him, God accepted his death as valid atonement for all. Even though Jesus was cursed in the process, He was resurrected to life and immediately reconnected with God in spirit, and on the third day later, in body. Thus, all humanity is assured of the possibility of being restored to life and an eternal connection to God. Jesus' resurrection from the dead is the key event in all of Scripture [^95]. The earliest followers of Jesus publicly proclaimed His resurrection in Jerusalem - the very city where He had been executed - and many endured imprisonment and death rather than deny what they claimed to have seen. Something extraordinary convinced them. If it were somehow proven that Jesus did not, in fact, rise from the dead, all of Scripture (by its own admission) would be rendered moot [^95].
+At this juncture, it's imperative we discuss the implication of Jesus' resurrection from the dead. Sin causes physical death and separation from God. Jesus' resurrection proves that even though all humanity's sins were placed upon Him, God accepted his death as valid atonement for all. Even though Jesus was cursed in the process, He was resurrected to life and immediately reconnected with God in spirit, and on the third day later, in body. Thus, all humanity is assured of the possibility of being restored to life and an eternal connection to God. Jesus' resurrection from the dead is the key event in all of Scripture [^95]. The earliest followers of Jesus publicly proclaimed His resurrection in Jerusalem - the very city where He had been executed - and many endured imprisonment and death rather than deny what they claimed to have seen. Something extraordinary convinced them. If it were somehow proven that Jesus did not, in fact, rise from the dead, all of Scripture (by its own admission) would be rendered moot [^95].
 
-Many skeptics doubt this historical event. Yet, there is a small core set of historical claims about Jesus that enjoy very broad acceptance -often near-consensus- across the spectrum, including skeptical, Jewish, agnostic, and atheist scholars [^96]:
+Many skeptics doubt this historical event. Yet, there is a small core set of historical claims about Jesus that enjoy very broad acceptance -often near-consensus- across the spectrum, including skeptical, Jewish, agnostic, and atheist scholars [^96]:
 
 - Jesus of Nazareth was a real historical person. Jesus lived in first-century Judea and functioned as a Jewish teacher and preacher. His existence is affirmed not only by the New Testament but also by independent, non-Biblical sources, placing him firmly within the scope of ancient history rather than legend or myth.
+    
 - Jesus was executed by crucifixion under Roman authority. Jesus' death by crucifixion-ordered during the prefecture of Pontius Pilate-is one of the best-attested facts of ancient history. The method of execution is significant: crucifixion was public, brutal, and deeply shameful, making it an unlikely invention of later followers.
+    
 - Jesus' earliest followers sincerely believed he rose from the dead. Shortly after Jesus' execution, His disciples proclaimed that He had appeared to them alive. This conviction emerged very early and was central to their message, even though it exposed them to persecution. Jesus' disciples all died for this belief.
+    
 - The resurrection proclamation produced a sudden and enduring transformation. The movement surrounding Jesus changed dramatically following his death: fearful disciples became public witnesses, skeptics were converted, and the resurrection became the organizing center of Christian belief and practice. Scholars broadly agree that some powerful explanatory cause is required to account for this transformation.
+    
 
 Whatever explanation one adopts, it must account not only for these four widely-accepted facts, but for the astonishing reality that within a few centuries this small, persecuted Jewish movement spread across the Roman Empire and beyond. Today, billions across cultures, languages, and educational backgrounds confess that Jesus rose from the dead. Something this powerful historically, psychologically, and spiritually - demands explanation.
 
 ## Human Restoral - Entry to the Kingdom of God
 
-Before we describe the remedy, we need to understand how it dovetails into the 'Kingdom of God' (KoG). The Scripture's New Testament begins the explanation with the introduction of the prophet, John the Baptist. John entered the scene proclaiming, 'Repent, for the Kingdom of Heaven [God] is at hand.' This begs two questions: (1) Repent from what? and (2) What is meant by the KoG?
+Before we describe the remedy, we need to understand how it dovetails into the 'Kingdom of God' (KoG). The Scripture's New Testament begins the explanation with the introduction of the prophet, John the Baptist. John entered the scene proclaiming:
 
-When John taught repentance, he meant not just a change in thought, but a change that results in transformed behavior. When asked what repentance looked like, John pointed to concrete acts of love - generosity toward the needy, honesty in dealings, and contentment rather than grasping for security [^97]. In other words, genuine - not superficial - change; not lip service, but behavioral transformation stemming from sincere renewal of the mind.
+> Repent, for the Kingdom of Heaven [God] is at hand.
+> 
+> — Matthew 3:2 (NIV)
+
+This begs two questions: (1) Repent from what? and (2) What is meant by the KoG?
+
+When John taught repentance, he meant not just a change in thought, but a change that results in transformed behavior. When asked what repentance looked like, John pointed to concrete acts of love - generosity toward the needy, honesty in dealings, and contentment rather than grasping for security [^97]. In other words, genuine - not superficial - change; not lip service, but behavioral transformation stemming from sincere renewal of the mind.
 
 Although John didn't expand on the KoG, Jesus taught on it extensively. From Jesus' teaching, the KoG can be described like this:
 
 - God is the King and redeemed humans are its citizens. In this essay, 'redeemed' refers to persons who've adopted the Remedy.
+    
 - At present, it's a spiritual kingdom that began with the resurrection of Jesus. Redeemed humans are it citizens. Both redeemed and unredeemed humans live together on the present, cursed earth. Unredeemed humans are citizens of the 'kingdom of this world,' ruled by the Serpent.
+    
 - The KoG grows invisibly, like yeast working through dough or a mustard seed that becomes a great tree. It expands as hearts are changed.
-- Eventually, at the and of the age, when the new heavens and earth are brought forth the KoG will be fully realized in a new physical kingdom. Redeemed humans having new, pristine, immortal bodies, are its citizens. The new heavens and earth are uncorrupted and function as God originally intended, before the Fall. God and his people are dwelling together once again, as in Eden. On the new earth, there is no more death, mourning, crying/tears, pain, sin/evil or night (God is the ever-present light) [^98]. All unredeemed humans are in hell, separated from the KoG [^99]. Little is said in Scripture about the nature of an unredeemed person's new body other than it's capable of enduring ongoing ruin [^100].
+    
+- Eventually, at the and of the age, when the new heavens and earth are brought forth the KoG will be fully realized in a new physical kingdom. Redeemed humans having new, pristine, immortal bodies, are its citizens. The new heavens and earth are uncorrupted and function as God originally intended, before the Fall. God and his people are dwelling together once again, as in Eden. On the new earth:
+    
+
+> There is no more death, mourning, crying/tears, pain, sin/evil or night (God is the ever-present light) [^98].
+
+All unredeemed humans are in hell, separated from the KoG [^99]. Little is said in Scripture about the nature of an unredeemed person's new body other than it's capable of enduring ongoing ruin [^100].
 
 Note: Jesus, during His time on earth, provided a preview into the ultimate KoG. He healed people of their sickness and disease (removed the source of crying and pain), He cast demons out of people (overcame dark spiritual forces), raised people from the dead (reversed physical death) and helped people establish a connection with God.
 
@@ -397,73 +517,110 @@ timeline
                            : Fully realized : God dwells with His people
 ```
 
+
 ## The Remedy Defined
 
 If this is what God has done - stepping into our brokenness, absorbing the cost of our rebellion, and defeating death itself - then a response is unavoidable. Love that gives itself so completely does not coerce, but it does invite. The question is no longer whether God has acted, but how we will respond.
 
 The Remedy is a set of life-shaping truths that, when truly believed, become effective in us. How do we get this remedy? Scripture teaches the following:
 
-1. Repent from self-rule and place your primary loyalty in God. In the words of Jesus (Luke 9:23-25 (NIV)),
+1. Repent from self-rule and place your primary loyalty in God. In the words of Jesus:
+    
 
-'…Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me. For whoever wants to save their life will lose it, but whoever loses their life for me will save it. What good is it for someone to gain the whole world, and yet lose or forfeit their very self?'
+> Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me. For whoever wants to save their life will lose it, but whoever loses their life for me will save it. What good is it for someone to gain the whole world, and yet lose or forfeit their very self?
+> 
+> — Luke 9:23-25 (NIV)
 
-In his seminal book, Renovation of the Heart: Putting On the Character of Christ [^101], Dallas Willard, who served as Professor of Philosophy at the University of Southern California, amplifies this:
+In his seminal book, _Renovation of the Heart: Putting On the Character of Christ_ [^101], Dallas Willard, who served as Professor of Philosophy at the University of Southern California, amplifies this:
 
-'… without that 'giving up,' you cannot be his disciple, because you will still think you are in charge and just in need of a little help from Jesus for your project of a successful life. But our idea of a 'successful life' is precisely our problem.'
+> … without that 'giving up,' you cannot be his disciple, because you will still think you are in charge and just in need of a little help from Jesus for your project of a successful life. But our idea of a 'successful life' is precisely our problem.
+> 
+> — Dallas Willard, _Renovation of the Heart_ [^101]
 
-In his book, The Problem of Pain [^102], C.S. Lewis describes it this way:
+In his book, _The Problem of Pain_ [^102], C.S. Lewis describes it this way:
 
-'Now the proper good of a creature is to surrender itself to its Creator-to enact intellectually, volitionally, and emotionally, that relationship which is given in the mere fact of its being a creature. When it does so, it is good and happy…In the world as we now know it, the problem is how to recover this self-surrender. We are not merely imperfect creatures who must be improved: we are, as Newman said, rebels who must lay down our arms…But to surrender a self-will inflamed and swollen with years of usurpation is a kind of death.'
+> Now the proper good of a creature is to surrender itself to its Creator-to enact intellectually, volitionally, and emotionally, that relationship which is given in the mere fact of its being a creature. When it does so, it is good and happy…In the world as we now know it, the problem is how to recover this self-surrender. We are not merely imperfect creatures who must be improved: we are, as Newman said, rebels who must lay down our arms…But to surrender a self-will inflamed and swollen with years of usurpation is a kind of death.
+> 
+> — C.S. Lewis, _The Problem of Pain_ [^102]
 
-One of the biggest concerns we typically have about relinquishing control of our life is that, despite being run by God, things will run amok. Of three things we can be assured: first, the things He asks of us will always be in harmony with the cultural mandate and the Love Precepts-His purposes revealed in Scripture; second, His guidance will always be consistent with His character as revealed in Jesus; and third, His asks will ordinarily be congruent with how He has made us-our gifts, abilities, and the capacities He has woven into our lives [^103]. Jesus addresses the run-amok concern directly in Matthew 11:28-30 (NIV):
+One of the biggest concerns we typically have about relinquishing control of our life is that, despite being run by God, things will run amok. Of three things we can be assured: first, the things He asks of us will always be in harmony with the cultural mandate and the Love Precepts-His purposes revealed in Scripture; second, His guidance will always be consistent with His character as revealed in Jesus; and third, His asks will ordinarily be congruent with how He has made us-our gifts, abilities, and the capacities He has woven into our lives [^103]. Jesus addresses the run-amok concern directly:
 
-''Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.''
+> Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.
+> 
+> — Matthew 11:28-30 (NIV)
 
 A yoke was for pairing two oxen so they would work together as a team; a yoke was often used to help a young ox, inexperienced in plowing, learn from a seasoned one. Jesus is inviting us into partnership (the yoke) and is promising to teach us-we just need to be ready to learn! Crucially, wearing the yoke is not temporary. We don't learn and then take it off so we can go on by ourselves; we leave it on because we're in a partnership!
 
-A second major concern about relinquishing control of our life is that we'll cease to have fun. Jesus does not promise fun, but He does promise an abundant, fulfilling life: John 10:10 (NIV), '…I have come that they may have life, and have it to the full.'
+A second major concern about relinquishing control of our life is that we'll cease to have fun. Jesus does not promise fun, but He does promise an abundant, fulfilling life:
+
+> …I have come that they may have life, and have it to the full.
+> 
+> — John 10:10 (NIV)
 
 2. Believe the gospel. The gospel is the minimum set of necessary beliefs for the Remedy. The gospel is: Jesus died for our sins, He was buried, He was raised on the third day according to the Scriptures and then appeared to Peter, the Disciples and to more than 500 persons at once (I Corinthians 15:1-4).
-3. Declare your belief out loud, thereby demonstrating your internal faith with an externally-observable action (showing your faith is genuine): Romans 10:9-10 (NIV), 'If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart that you believe and are justified [legally exonerated from sin], and it is with your mouth that you profess your faith and are saved.' Note that this verse reiterates the criticality of primary loyalty to God.
+    
+3. Declare your belief out loud, thereby demonstrating your internal faith with an externally-observable action (showing your faith is genuine):
+    
 
-It is crucial to understand that we are saved by faith alone - not by the works that flow from it [^104] - for our salvation rests entirely on God's grace and the death and resurrection of Jesus.
+> If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart that you believe and are justified [legally exonerated from sin], and it is with your mouth that you profess your faith and are saved.
+> 
+> — Romans 10:9-10 (NIV)
 
-This is where Christianity decisively departs from what many assume it to be. At its core, it's not a system of rules to follow, rituals to perform, or traditions to inherit, but a restored relationship grounded in trust and loyalty to God. Scripture consistently teaches that God rejects even outwardly good or religious actions when they are offered as a substitute for faith or as a means of establishing one's own way to Him [^105]. These include, for example, charitable giving, personal sacrifices, religious festivals, and other devotional practices-good things in themselves, but powerless to restore our relationship to God.
+Note that this verse reiterates the criticality of primary loyalty to God.
+
+It is crucial to understand that we are saved by faith alone - not by the works that flow from it [^104] - for our salvation rests entirely on God's grace and the death and resurrection of Jesus.
+
+This is where Christianity decisively departs from what many assume it to be. At its core, it's not a system of rules to follow, rituals to perform, or traditions to inherit, but a restored relationship grounded in trust and loyalty to God. Scripture consistently teaches that God rejects even outwardly good or religious actions when they are offered as a substitute for faith or as a means of establishing one's own way to Him [^105]. These include, for example, charitable giving, personal sacrifices, religious festivals, and other devotional practices-good things in themselves, but powerless to restore our relationship to God.
 
 The Remedy, then, is not earned through what we do for God, but received through trusting what God has already done for us. We come as we are - no prior self-improvement is needed, nothing to fix first. Ideas that are incoherent rarely endure. That this story has survived sustained intellectual critique for two millennia suggests there is something here worth serious attention. However, many who reject Christianity do so not because they find it unintelligible, but because they fear its moral demands-particularly the surrender of control-are too great.
 
 ## Love Empowered
 
-| **Now (until death)**                                | **After Death / Eternity**                          |
-| ---------------------------------------------------- | --------------------------------------------------- |
-| Adopted into God's family (permanent status)         | Immediately in paradise with God                    |
-| Indwelt by the Holy Spirit (empowerment, struggle)   | Await new heavens and earth in paradise             |
-| Two drives: spiritual nature vs. disordered passions | Receive new, immortal, uncorrupted body             |
-| Growth through failure, confession, and restoration  | No more sin, death, mourning, or pain               |
-| Called to serve, may face persecution                | Live in fully realized Kingdom, serving God forever |
+|**Now (until death)**|**After Death / Eternity**|
+|---|---|
+|Adopted into God's family (permanent status)|Immediately in paradise with God|
+|Indwelt by the Holy Spirit (empowerment, struggle)|Await new heavens and earth in paradise|
+|Two drives: spiritual nature vs. disordered passions|Receive new, immortal, uncorrupted body|
+|Growth through failure, confession, and restoration|No more sin, death, mourning, or pain|
+|Called to serve, may face persecution|Live in fully realized Kingdom, serving God forever|
 
 A natural question to ask at this point is, 'What can I expect if I accept the Remedy?' There is a two-part answer to this question, (1) from now (the point of repentance) until the time you physically die and (2) after death, throughout eternity.
 
-Since the second answer is simpler, let's start there. When we die, we immediately go to be with God in paradise [^106]. We remain in paradise until the end of the age when the new heavens and earth are brought forth; thereafter we live out our citizenship in the fully-realized KoG living on a new earth, within a new cosmos.
+Since the second answer is simpler, let's start there. When we die, we immediately go to be with God in paradise [^106]. We remain in paradise until the end of the age when the new heavens and earth are brought forth; thereafter we live out our citizenship in the fully-realized KoG living on a new earth, within a new cosmos.
 
 The first part of the answer is much more complicated. Here are the primary things that will happen:
 
-- We're immediately brought into a proper relationship with God. In fact, Scripture teaches that we are 'adopted' into God's family, a status that never changes [^107]. Subsequently, once redeemed, we can never do anything to lose our this status [^108]. It makes sense: we were redeemed by God's grace, a gift. There's nothing we did to earn our redemption, so there's nothing we can do to lose it.
+- We're immediately brought into a proper relationship with God. In fact, Scripture teaches that we are 'adopted' into God's family, a status that never changes [^107]. Subsequently, once redeemed, we can never do anything to lose our this status [^108]. It makes sense: we were redeemed by God's grace, a gift. There's nothing we did to earn our redemption, so there's nothing we can do to lose it.
+    
 - We are indwelt by His Spirit-this indwelling provides the empowerment to live by the Love Precepts and is the source of our spiritual transformation. This empowerment does not eliminate human freedom or struggle; it enables genuine change without coercion, which means growth is real but neither automatic nor uniform. We are now equipped to be proper image bearers; however, there's a catch.
-- The catch is that once redeemed, we have two fundamental drives in our lives: our spiritual nature powered by God's Spirit and our disordered passions. These two drives are conflicting. The rest of our life is spent training ourselves to follow our spiritual nature and ignore our disordered passions. Willard, in his book, Renovation of the Heart: Putting On the Character of Christ [^109], provides an excellent treatise on spiritual transformation. This isn't easy and is fraught with failure, the result of which is sin. We find ourselves not doing the loving things we want to do, and instead doing things we don't want to do [^110]. When we fail to follow our spiritual nature, we don't lose our redeemed status, but we do experience a temporary disruption in our connection with God. It's repaired immediately when we acknowledge our sin to God in prayer [^111].
+    
+- The catch is that once redeemed, we have two fundamental drives in our lives: our spiritual nature powered by God's Spirit and our disordered passions. These two drives are conflicting. The rest of our life is spent training ourselves to follow our spiritual nature and ignore our disordered passions. Willard, in his book, _Renovation of the Heart: Putting On the Character of Christ_ [^109], provides an excellent treatise on spiritual transformation. This isn't easy and is fraught with failure, the result of which is sin. The Apostle Paul describes this struggle:
+    
+
+> I do not understand what I do. For what I want to do I do not do, but what I hate I do… For I have the desire to do what is good, but I cannot carry it out. For I do not do the good I want to do, but the evil I do not want to do—this I keep on doing.
+> 
+> — Romans 7:15, 18-19 (NIV, paraphrased) [^110]
+
+When we fail to follow our spiritual nature, we don't lose our redeemed status, but we do experience a temporary disruption in our connection with God. It's repaired immediately when we acknowledge our sin to God in prayer [^111].
 
 This tension also helps explain why many people are turned off by Christianity-what is often perceived as hypocrisy. Christians are expected to live by the Love Precepts, yet they frequently fail. Redeemed people are on a path toward consistency, but they haven't arrived. Churches, therefore, are simply communities of imperfect people, and it is inevitable that some will cause hurt.
 
-More troubling still are those who claim the name 'Christian' while living lives that bear little resemblance to the One they profess to follow [^112], as well as leaders who exploit religious authority for personal gain or misuse the language of faith to justify harm (note: this is a violation of the Ten Commandments-taking God's name in vain) [^113].
+More troubling still are those who claim the name 'Christian' while living lives that bear little resemblance to the One they profess to follow [^112], as well as leaders who exploit religious authority for personal gain or misuse the language of faith to justify harm (note: this is a violation of the Ten Commandments-taking God's name in vain) [^113].
 
 History offers painful examples in which those in positions of Christian authority have not merely failed morally, but have actively contributed to suffering. This reality casts a long and understandable shadow over how God and His intentions are perceived. My response is not to excuse these failures, but to redirect attention to Jesus of Nazareth Himself. If His life and character represent what a true image bearer looks like, then the question is not whether Christians have lived up to that standard, but whether the love He embodied is compelling and worth considering on its own terms.
 
-- As we learn to follow God's direction, we'll experience a full, abundant life [^114]. I believe this happens because we are directed to live in harmony with our natural gifting in order to carry out the cultural mandate. Globally, this results in the KoG having redeemed citizens in all walks of life, spreading loving behavior and the news of redemption throughout the world. Thus, all redeemed-humans' work becomes God's work, regardless of the scientific or humanities field in which we're engaged.
-- As we learn to follow God's direction and become good image bearers, our lives will begin to imitate the way Jesus lived, in accordance with the Love Precepts [^115]. This leads to serving others [^116]. Conversely, the practices of our pre-redeemed life - sexual immorality, impurity, hatred, discord, jealousy, envy, fits of rage and selfish ambition, to name a few [^117] - fade away.
-- As we learn to follow God's direction, our life will be characterized by love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control [^118].
-- As we ask God, He gives wisdom and guidance to use each day [^119].
-- We can expect persecution for our new beliefs [^120]. Depending on the culture in which one lives, this could be minimal (e.g., being teased for 'irrational' beliefs) or severe (e.g., being ostracized from your family or even martyrdom).
-- We can expect to have our new beliefs tested. Scripture tells us that the purpose of such testing is to develop perseverance and maturity in our lives [^121]. Some preachers describe redemption as a means to 'health and wealth' during our lifetime on earth; however, Scripture does not teach this - it's a false expectation.
+- As we learn to follow God's direction, we'll experience a full, abundant life [^114]. I believe this happens because we are directed to live in harmony with our natural gifting in order to carry out the cultural mandate. Globally, this results in the KoG having redeemed citizens in all walks of life, spreading loving behavior and the news of redemption throughout the world. Thus, all redeemed-humans' work becomes God's work, regardless of the scientific or humanities field in which we're engaged.
+    
+- As we learn to follow God's direction and become good image bearers, our lives will begin to imitate the way Jesus lived, in accordance with the Love Precepts [^115]. This leads to serving others [^116]. Conversely, the practices of our pre-redeemed life - sexual immorality, impurity, hatred, discord, jealousy, envy, fits of rage and selfish ambition, to name a few [^117] - fade away.
+    
+- As we learn to follow God's direction, our life will be characterized by love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control [^118].
+    
+- As we ask God, He gives wisdom and guidance to use each day [^119].
+    
+- We can expect persecution for our new beliefs [^120]. Depending on the culture in which one lives, this could be minimal (e.g., being teased for 'irrational' beliefs) or severe (e.g., being ostracized from your family or even martyrdom).
+    
+- We can expect to have our new beliefs tested. Scripture tells us that the purpose of such testing is to develop perseverance and maturity in our lives [^121]. Some preachers describe redemption as a means to 'health and wealth' during our lifetime on earth; however, Scripture does not teach this - it's a false expectation.
+    
 
 ## Love and the Reality of Hell
 
@@ -480,13 +637,40 @@ flowchart TD
     style F fill:#fcc
 ```
 
-God's invitation to redemption is an act of love, but love that must be freely received. Those who reject it choose separation from the only source of true goodness and life. Hell, therefore, is not a cruel imposition - it is the natural outcome of refusing God's love [^122]. Typically, the trajectory of a human heart does not remain neutral. Over time, what we repeatedly choose becomes what we desire - and what we desire becomes who we are.
 
-In his book, Hell, the Logic of Damnation [^123], contemporary philosopher of religion Jerry L. Walls writes, 'Of course, the greatest loss of those in hell is that of knowing God and enjoying life with him in heaven. This is the true end for which we were created, and the ultimate tragedy of hell is that some will lose out on the joy of eternal fellowship with God.'
+God's invitation to redemption is an act of love, but love that must be freely received. Those who reject it choose separation from the only source of true goodness and life. Hell, therefore, is not a cruel imposition - it is the natural outcome of refusing God's love [^122]. Typically, the trajectory of a human heart does not remain neutral. Over time, what we repeatedly choose becomes what we desire - and what we desire becomes who we are.
 
-Many people who reject the Remedy imagine hell as an underground torture chamber [^124], and then understandably proceed to wonder how a loving God could consign anyone to hell for an eternity. Joshua Ryan Butler in his book, The Skeletons in God's Closet [^125], spends a great deal of text unwinding this caricature of hell. One of his main points is that the purpose of hell is protection. It is the final separation of evil from good - so that unredeemed humans and dark spiritual beings can no longer harm or influence the redeemed. Unlike the Garden of Eden, no evil will ever be allowed in the new heavens and earth. This is God's loving protection of His family, forever. Scripture teaches that hell is not temporary. This permanence is what makes the doctrine so weighty. Jesus Himself speaks of those who reject God going away to 'eternal punishment,' just as the righteous enter 'eternal life,' placing both destinies on parallel paths [^126]. Many people-including theologians-find this deeply troubling, myself as well. It's difficult to imagine how an eternal separation could be proportionate to the finite sins of a human life, no matter how horrific those sins might be. Of all the doctrines of Christianity, this is one many wish was different-that some further reconciliation might yet await those who reject the Remedy. However, Scripture does not teach that we're given a second chance after our earthly life has ended [^127]. Scripture presents eternal separation not as a failure of love, but as its tragic cost. Love cannot be coerced. If a person has spent a lifetime resisting God, it's hard to see how forcing that person into a permanent relationship with Him in the KoG would be loving. Nor does suffering, by itself, reliably produce repentance or affection toward the one perceived as responsible for it. Novels and movies often reflect this intuition: characters released from long imprisonment rarely emerge transformed in love for their judge; more often, they emerge hardened or resentful, seeking revenge. Hell, in this light, is not God forcing rejection, but God finally honoring it. Hell is often described using vivid imagery-most famously as a 'lake of fire'-which has led many to imagine it primarily in terms of physical torture. Yet Scripture also speaks of hell as a place of darkness, indicating that this language is metaphorical rather than literal. Jesus' own words emphasize torment in the sense of inner anguish, remorse, and separation, rather than suffering imposed through external instruments [^128]. For this reason, many theologians describe hell not as a torture chamber, but as a state of eternal, conscious torment. Some people [jokingly?] say they'll party in hell. However, in his book, The Great Divorce [^129], C.S. Lewis put it this way, 'The trouble about the place [hell] is that it's so empty. That's what makes it so hopeless. It seems the deuce of a town at first, but it soon gets worse. That's what brings us to live so far apart. As soon as anyone arrives, he settles down in some street. Before he's been there twenty-four hours he quarrels with his neighbor. Before the week is over he's quarreled so badly that he moves.' Eventually, everyone ends up being alone. Hell is often described in Scripture as 'God's wrath' on the unredeemed. However, His wrath need not be understood as the infliction of externally imposed suffering, but simply as eternal separation from Him-the source of all life, goodness, and meaning. In his book, Hell, the Logic of Damnation [^130], Walls continues, 'The suffering of hell is the natural consequence of living a life of sin rather than arbitrarily chosen punishment. In other words, the misery of hell is not so much a penalty imposed by God to make the sinner pay for his sin, as it is the necessary outcome of living a sinful life.' Walls goes on to quote Peter Geach, a twentieth-century analytic philosopher of religion, 'God is the only possible source of beauty and joy and knowledge and love: to turn away from God's light is to choose darkness, hatred, and misery. God is not like a jealous parent resenting his children's seeking happiness outside the home; apart from love for God men can find only misery, in this world or in any conceivable world; and God could not make men so that they did not need Him [emphasis mine].'
+In his book, _Hell, the Logic of Damnation_ [^123], contemporary philosopher of religion Jerry L. Walls writes:
 
-Because God is the source of all goodness, this withdrawal is not mild-it's devastating. Yet this privation won't be experienced uniformly by all people. Scripture speaks of differing degrees of judgment in hell because people do not reject God to the same extent, nor with the same knowledge or moral deformation [^131]. All who persistently refuse God experience the same kind of consequence-exclusion from His presence-but the depth of that loss varies according to how profoundly a person has disordered their loves and resisted the light they were given.
+> Of course, the greatest loss of those in hell is that of knowing God and enjoying life with him in heaven. This is the true end for which we were created, and the ultimate tragedy of hell is that some will lose out on the joy of eternal fellowship with God.
+> 
+> — Jerry L. Walls, _Hell, the Logic of Damnation_ [^123]
+
+Many people who reject the Remedy imagine hell as an underground torture chamber [^124], and then understandably proceed to wonder how a loving God could consign anyone to hell for an eternity. Joshua Ryan Butler in his book, _The Skeletons in God's Closet_ [^125], spends a great deal of text unwinding this caricature of hell. One of his main points is that the purpose of hell is protection. It is the final separation of evil from good - so that unredeemed humans and dark spiritual beings can no longer harm or influence the redeemed. Unlike the Garden of Eden, no evil will ever be allowed in the new heavens and earth. This is God's loving protection of His family, forever. Scripture teaches that hell is not temporary. This permanence is what makes the doctrine so weighty. Jesus Himself speaks of those who reject God going away to:
+
+> eternal punishment
+> 
+> — Matthew 25:46 (NIV) [^126]
+
+just as the righteous enter 'eternal life,' placing both destinies on parallel paths. Many people-including theologians-find this deeply troubling, myself as well. It's difficult to imagine how an eternal separation could be proportionate to the finite sins of a human life, no matter how horrific those sins might be. Of all the doctrines of Christianity, this is one many wish was different-that some further reconciliation might yet await those who reject the Remedy. However, Scripture does not teach that we're given a second chance after our earthly life has ended [^127]. Scripture presents eternal separation not as a failure of love, but as its tragic cost. Love cannot be coerced. If a person has spent a lifetime resisting God, it's hard to see how forcing that person into a permanent relationship with Him in the KoG would be loving. Nor does suffering, by itself, reliably produce repentance or affection toward the one perceived as responsible for it. Novels and movies often reflect this intuition: characters released from long imprisonment rarely emerge transformed in love for their judge; more often, they emerge hardened or resentful, seeking revenge. Hell, in this light, is not God forcing rejection, but God finally honoring it. Hell is often described using vivid imagery-most famously as a 'lake of fire'-which has led many to imagine it primarily in terms of physical torture. Yet Scripture also speaks of hell as a place of darkness, indicating that this language is metaphorical rather than literal. Jesus' own words emphasize torment in the sense of inner anguish, remorse, and separation, rather than suffering imposed through external instruments [^128]. For this reason, many theologians describe hell not as a torture chamber, but as a state of eternal, conscious torment. Some people [jokingly?] say they'll party in hell. However, in his book, _The Great Divorce_ [^129], C.S. Lewis put it this way:
+
+> The trouble about the place [hell] is that it's so empty. That's what makes it so hopeless. It seems the deuce of a town at first, but it soon gets worse. That's what brings us to live so far apart. As soon as anyone arrives, he settles down in some street. Before he's been there twenty-four hours he quarrels with his neighbor. Before the week is over he's quarreled so badly that he moves.
+> 
+> — C.S. Lewis, _The Great Divorce_ [^129]
+
+Eventually, everyone ends up being alone. Hell is often described in Scripture as 'God's wrath' on the unredeemed. However, His wrath need not be understood as the infliction of externally imposed suffering, but simply as eternal separation from Him-the source of all life, goodness, and meaning. In his book, _Hell, the Logic of Damnation_ [^130], Walls continues:
+
+> The suffering of hell is the natural consequence of living a life of sin rather than arbitrarily chosen punishment. In other words, the misery of hell is not so much a penalty imposed by God to make the sinner pay for his sin, as it is the necessary outcome of living a sinful life.
+> 
+> — Jerry L. Walls, _Hell, the Logic of Damnation_ [^130]
+
+Walls goes on to quote Peter Geach, a twentieth-century analytic philosopher of religion:
+
+> God is the only possible source of beauty and joy and knowledge and love: to turn away from God's light is to choose darkness, hatred, and misery. God is not like a jealous parent resenting his children's seeking happiness outside the home; apart from love for God men can find only misery, in this world or in any conceivable world; and God could not make men so that they did not need Him [emphasis mine].
+> 
+> — Peter Geach, quoted in Walls [^130]
+
+Because God is the source of all goodness, this withdrawal is not mild-it's devastating. Yet this privation won't be experienced uniformly by all people. Scripture speaks of differing degrees of judgment in hell because people do not reject God to the same extent, nor with the same knowledge or moral deformation [^131]. All who persistently refuse God experience the same kind of consequence-exclusion from His presence-but the depth of that loss varies according to how profoundly a person has disordered their loves and resisted the light they were given.
 
 Scripture is sober about one final reality: our lives are not rehearsals. We are given one earthly life in which to respond to God's invitation. After that, the direction we have chosen is confirmed. Love remains freely offered - but not indefinitely deferred.
 
@@ -503,45 +687,72 @@ flowchart LR
     Reflect --> Q
 ```
 
+
 When the Christian story is viewed as a coherent whole, its answer to life's deepest questions is neither obscure nor abstract. Two questions have echoed through every culture and every age: Why am I here? and What is my purpose in life? These are not modern anxieties. If this essay has succeeded, Scripture's answer should now be clear: we were created to partner with God in carrying out the cultural mandate, using the gifts He has given us, and to order our lives by the Love Precepts-loving God above all and loving our neighbors as ourselves.
 
 And for many of us, this vision resonates with a long-held intuition: that Christianity, if true, is not fundamentally about ritual or obeying an onerous set of rules, but about learning to live a life of love within a community oriented toward that same good. Isn't this what our deepest longings have been pointing toward all along?
 
 In this sense, Christianity does not so much impose something foreign as it names what many of us have already been reaching for-and explains why, despite our best efforts, we could never quite sustain it on our own. It's different because it does not merely commend a way of life; it claims that God Himself empowers it. And when love is thus empowered, real change becomes possible where, before, there was only recurring failure.
 
-But is this love story really true? You have good reason to be skeptical - the story is quite fantastic, perhaps beyond belief for some. That God would create humankind, knowing in advance they would sin, that He Himself would become a human and pay the ultimate price for his created beings' sin is nothing short of extraordinary. And it goes further still. Consider that when God became man (Jesus of Nazareth), he forever took upon himself a human body [^132]. That God would forever so limit himself out of love for us is absolutely mind blowing! God was all in! What more could God do to demonstrate his love for us and his desire to foster relationship?
+But is this love story really true? You have good reason to be skeptical - the story is quite fantastic, perhaps beyond belief for some. That God would create humankind, knowing in advance they would sin, that He Himself would become a human and pay the ultimate price for his created beings' sin is nothing short of extraordinary. And it goes further still. Consider that when God became man (Jesus of Nazareth), he forever took upon himself a human body [^132]. That God would forever so limit himself out of love for us is absolutely mind blowing! God was all in! What more could God do to demonstrate his love for us and his desire to foster relationship?
 
-Does God truly want to be your partner? It's not uncommon for people to think that God has far more important things to do than to help us or listen to our prayers [^133]. According to Scripture, nothing could be further from the truth:
+Does God truly want to be your partner? It's not uncommon for people to think that God has far more important things to do than to help us or listen to our prayers [^133]. According to Scripture, nothing could be further from the truth:
 
-- Psalm 139:1-4 (NIV), 'You have searched me, Lord, and you know me. You know when I sit and when I rise; you perceive my thoughts from afar. You discern my going out and my lying down; you are familiar with all my ways. Before a word is on my tongue you, Lord, know it completely.'
-- Job 31:4 (NIV), 'Does he not see my ways and count my every step?'
-- Matthew 6:8 (NIV), '… for your Father knows what you need before you ask him.'
+> You have searched me, Lord, and you know me. You know when I sit and when I rise; you perceive my thoughts from afar. You discern my going out and my lying down; you are familiar with all my ways. Before a word is on my tongue you, Lord, know it completely.
+> 
+> — Psalm 139:1-4 (NIV)
+
+> Does he not see my ways and count my every step?
+> 
+> — Job 31:4 (NIV)
+
+> … for your Father knows what you need before you ask him.
+> 
+> — Matthew 6:8 (NIV)
 
 Nevertheless, even if you were convinced beyond a reasonable doubt that Jesus was authentic, it's still not absolute proof. You'll need to take that last step on your own, a step of faith, to cross that final chasm. Let me emphasize, it's not blind faith. There's good evidence for God all around us if we're willing to look. Today, billions of people across cultures, languages, and continents confess allegiance to Jesus, often at substantial personal cost. Christianity's growth has long persisted under persecution, skepticism, and shifting empires. Is there something holding you back? Would you like your life to be characterized by loving behavior? Would you like to live in a society in which this is the shared experience? Would you like for God to be your helper? If this story is even possibly true, it deserves serious investigation. We've all experienced how easily something important fades once it's put off. Reflection rarely becomes easier with delay; more often, it quietly fades beneath the noise of ordinary life. The most rational response to a claim this consequential is to explore it firsthand, not dismiss it out-of-hand. If this essay has helped you see things differently-even if you disagree-then consider the following next steps:
 
 - Learn more about the key person and event in all of human history. Was Jesus of Nazareth a real person or just a legend? Is there any evidence that He physically died and rose from the dead? Is the evidence only from Scripture or is there evidence from other historical sources.
-- One of the best, next steps is to read Scripture for yourself. Many people who disdain religion or Christianity, have never really read Scripture for themselves, much less contemplated it. Unlike every other book, Scripture claims to be 'alive and active, penetrating to our innermost soul' [^134]. A good place to begin reading is one of the four gospels:
+    
+- One of the best, next steps is to read Scripture for yourself. Many people who disdain religion or Christianity, have never really read Scripture for themselves, much less contemplated it. Unlike every other book, Scripture claims:
+    
+
+> [It is] alive and active, penetrating to our innermost soul
+> 
+> — Hebrews 4:12 (NIV, paraphrased) [^134]
+
+A good place to begin reading is one of the four gospels:
+
 - The Gospel of Matthew if you like structure and want to see Jesus as the promised Messiah.
+    
 - The Gospel of Mark if you prefer the shortest, fastest-paced, and action-oriented account.
+    
 - The Gospel of Luke if you prefer an account that's detailed, orderly, and written with a historian's mindset.
+    
 - The Gospel of John if you want an account which is more reflective and theological.
+    
 - Try testing out the practical wisdom of the Bible. For example, read a chapter in the book of Proverbs and try out its wisdom in your everyday life. If it works, try some more; this will help you to believe Scripture is true.
+    
 
 For those more skeptical, here are some questions to consider:
 
 - If, for the sake of argument, you were certain Scripture is true, would you believe? If the answer is yes, then the real question is what's preventing you from acting now?
+    
 - If, for the sake of argument, you were certain God's love is genuine, would you like to be in a partnership with God?
+    
 - If you're an agnostic, would you like for there to be a God? Would you like it if Jesus of Nazareth turned out to be God's one true son?
+    
 
 If you are convinced of the love and provisions of God, congratulations! Here are some suggestions for next steps.
 
 - Adopt the Remedy.
+    
 - Find a gospel-devoted local church and start attending. If you live in or near San Jose, California, I'd like to invite you to Westgate Church.
-
+    
 
 ## End Notes
 
-[^1]: This essay was edited using ChatGPT.
+[^1]: All of the themes of this essay are mine, but I did utilize LLMs to help think through my thoughts and offer suggestions for grammar.  Used as a tool and not as a crutch, AI can be a real tool for you to explore the avenues of Christianity.
 
 [^2]: The Poetry of Reality with Richard Dawkins | Richard Dawkins vs. Ayaan Hirsi Ali: Political Christian or Truly a Christian? at 15:30 and 16:35.
 
@@ -711,9 +922,7 @@ If you are convinced of the love and provisions of God, congratulations! Here ar
 
 [^85]: Some theologians have articulated the idea of 'Original Sin' which states that Adam's sin and/or guilt was legally conferred to his progeny. According to this view, all are born sinners and judged accordingly even before they've committed any sin at all. They interpret the Apostle Paul's writing in Romans 5:12, 'Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all people, because all sinned-', as conferring sin onto all mankind; however, this verse states that death, not sin, was what was conferred (see also I Corinthians 15:21-22). Moreover, Scripture teaches that children are not held accountable for the parents' sins, see Deuteronomy 24:16 and Ezekiel 18:19-20.
 
-[^86]: The following Scripture teaches that children are not held morally accountable by God:
-    - When God told Moses he and others wouldn't enter the Promised Land after the exodus of Egypt, God made an exception for children, see Deuteronomy 1:39.
-    - When Jonah was arguing with God after he relented on destroying Nineveh (Israel's archenemy), God said He had concern for the innocent children in that city, see Jonah 4:11.
+[^86]: The following Scripture teaches that children are not held morally accountable by God: - When God told Moses he and others wouldn't enter the Promised Land after the exodus of Egypt, God made an exception for children, see Deuteronomy 1:39. - When Jonah was arguing with God after he relented on destroying Nineveh (Israel's archenemy), God said He had concern for the innocent children in that city, see Jonah 4:11.
 
 [^87]: Scripture teaches that all humans have an awareness of God through nature and the cosmos, see Romans 1:18-20.
 
@@ -727,20 +936,13 @@ If you are convinced of the love and provisions of God, congratulations! Here ar
 
 [^92]: Per Genesis 2:17 and Romans 6:23, the justice owed God is our life; since we want to live, we need a Redeemer to pay the death penalty on our behalf.
 
-[^93]: The coming of the Messiah was prophesied in Daniel 9:25-26 as an 'Anointed One', a ruler. The Jews in Jesus time were expecting a political ruler who would overthrow the Roman government. However, God's intention was always that the Messiah would be a spiritual ruler, inaugurating the Kingdom of God.
-    - Psalm 2 prophecies a coming Messiah, and taken together with the following passages describes the coming of a new Kingdom based on a new covenant, Ezekiel 36:22-36 and Jeremiah 31:31-34.
-    - The Messiah had to be in the lineage of Adam & Eve to fulfill the promise of Genesis 3:15, which was one reason why God preserved Noah and his family from the flood (Genesis 7 et seq).
-    - The Messiah had to be in the lineage of Abraham to fulfill the promise that all nations of the earth would be blessed, see Genesis 12:1-3.
-    - The Messiah had to be in the lineage of King David so that God's promise would be fulfilled, see 2 Samuel 7:12-13 and Isaiah 9:6-7.
+[^93]: The coming of the Messiah was prophesied in Daniel 9:25-26 as an 'Anointed One', a ruler. The Jews in Jesus time were expecting a political ruler who would overthrow the Roman government. However, God's intention was always that the Messiah would be a spiritual ruler, inaugurating the Kingdom of God. - Psalm 2 prophecies a coming Messiah, and taken together with the following passages describes the coming of a new Kingdom based on a new covenant, Ezekiel 36:22-36 and Jeremiah 31:31-34. - The Messiah had to be in the lineage of Adam & Eve to fulfill the promise of Genesis 3:15, which was one reason why God preserved Noah and his family from the flood (Genesis 7 et seq). - The Messiah had to be in the lineage of Abraham to fulfill the promise that all nations of the earth would be blessed, see Genesis 12:1-3. - The Messiah had to be in the lineage of King David so that God's promise would be fulfilled, see 2 Samuel 7:12-13 and Isaiah 9:6-7.
 
 [^94]: William Lane Craig | How does Penal Substitution Make Sense?
 
 [^95]: The importance of Jesus' resurrection: I Corinthians 15:12-28
 
-[^96]: Here are some other sources which may help:
-    - Cold Case Christianity | Is There Any Evidence for Jesus Outside the Bible?
-    - Daily Dose of Wisdom (with J. Warner Wallace) | Famous Detective Looks At The EVIDENCE For Jesus
-    - For scholarly information on the historicity of the resurrection, see garyhabermas.com.
+[^96]: Here are some other sources which may help: - Cold Case Christianity | Is There Any Evidence for Jesus Outside the Bible? - Daily Dose of Wisdom (with J. Warner Wallace) | Famous Detective Looks At The EVIDENCE For Jesus - For scholarly information on the historicity of the resurrection, see garyhabermas.com.
 
 [^97]: John the Baptist's teaching is recorded in Luke 3:10-14.
 
@@ -758,11 +960,7 @@ If you are convinced of the love and provisions of God, congratulations! Here ar
 
 [^104]: These verses explain we are saved exclusively by faith in Jesus, Ephesians 2:8-9.
 
-[^105]: When human hearts are disordered and people attempt to please God by religious deeds, Scripture says God rejects these attempts:
-    - Trying to earn God's favor by 'works', see Romans 9:30-32.
-    - Trying to appease Him via sacrifice, see Hosea 6:6.
-    - Trying to honor Him with prescribed festivals, sacrifices, music and singing, see Amos 5:21-24.
-    - Tithing, see Matthew 23:23.
+[^105]: When human hearts are disordered and people attempt to please God by religious deeds, Scripture says God rejects these attempts: - Trying to earn God's favor by 'works', see Romans 9:30-32. - Trying to appease Him via sacrifice, see Hosea 6:6. - Trying to honor Him with prescribed festivals, sacrifices, music and singing, see Amos 5:21-24. - Tithing, see Matthew 23:23.
 
 [^106]: Here's Jesus reply to one of the criminals crucified alongside him, Luke 23:40-43.
 
@@ -814,11 +1012,7 @@ If you are convinced of the love and provisions of God, congratulations! Here ar
 
 [^130]: Walls, Jerry L. Hell: The Logic of Damnation. Notre Dame, IN: University of Notre Dame Press, 1992. ISBN 978-0268015549.
 
-[^131]: Scriptures seem to teach there are degrees of torment in hell …
-    - Judgment is proportionate to knowledge and responsibility, Luke 12:47-48.
-    - Those who rejected greater revelation will face harsher judgment, Matthew 11:20-24.
-    - Judgment is proportional to moral awareness and conduct, Romans 2:5-6.
-    - Judgment is based on what each person did, Revelation 20:12-13.
+[^131]: Scriptures seem to teach there are degrees of torment in hell … - Judgment is proportionate to knowledge and responsibility, Luke 12:47-48. - Those who rejected greater revelation will face harsher judgment, Matthew 11:20-24. - Judgment is proportional to moral awareness and conduct, Romans 2:5-6. - Judgment is based on what each person did, Revelation 20:12-13.
 
 [^132]: The Incarnation of the Son is presented in Scripture as an irreversible and enduring union of divine and human natures rather than a temporary assumption. Following His resurrection, Jesus explicitly affirms the continuing reality of His embodied humanity (Luke 24:39), ascends bodily into heaven (Acts 1:9-11), and is subsequently identified in heaven as the 'Son of Man' standing at God's right hand (Acts 7:56). The permanence of this union is further implied by the pattern of hope, wherein believers' future resurrection is conformed to Christ's existing glorified body (Philippians 3:20-21), presupposing the continuity of His own embodied state. Taken together, these texts provide the scriptural basis for the classical confession articulated at Chalcedon (AD 451), that in the one person of the Son the divine and human natures remain united 'without separation' permanently.
 
