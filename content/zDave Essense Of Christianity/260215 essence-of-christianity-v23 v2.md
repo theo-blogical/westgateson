@@ -422,6 +422,7 @@ If you are convinced of the love and provisions of God, congratulations! Here ar
 - Adopt the Remedy.
 - Find a gospel-devoted local church and start attending. If you live in or near San Jose, California, I'd like to invite you to Westgate Church.
 
+
 ## End Notes
 
 [^1]: This essay was edited using ChatGPT.
