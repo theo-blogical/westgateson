@@ -472,7 +472,7 @@ After supper he took the cup; saying, This cup is the new covenant in my blood; 
 
 ## Atonement Theories Comparison Table
 
-[[##### VI. Atonement Theories vs. Biblical Images|Return To Outline]]
+[[#VI. Atonement Theories vs. Biblical Images|Return To Outline]]
 
 This table summarizes major theories with links to BibleGateway for verses, Wikipedia for doctrines, and biographical links for key figures.
 
