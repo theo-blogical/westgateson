@@ -31,7 +31,7 @@ echo   📋 Menu Options
 echo   ------------------------
 echo   1️⃣  Set LOCAL git config to theo-blogical
 echo   2️⃣  Open Notepad
-echo   3️⃣  Run npx quartz sync
+echo   3️⃣  (Removed — Quartz v3 sync)
 echo   4️⃣  Refresh Git identity
 echo   5️⃣  Run npx quartz build
 echo   6️⃣  Rebuild public (build + force-add + commit + push)
@@ -41,7 +41,7 @@ set /p choice="👉 Select an option: "
 
 if "%choice%"=="1" goto setlocal
 if "%choice%"=="2" goto notepad
-if "%choice%"=="3" goto quartzsync
+if "%choice%"=="3" goto nosync
 if "%choice%"=="4" goto refresh
 if "%choice%"=="5" goto quartzbuild
 if "%choice%"=="6" goto rebuildpublic
@@ -67,12 +67,10 @@ start notepad.exe
 pause
 goto menu
 
-:quartzsync
+:nosync
 echo.
-echo 🔄 Running Quartz sync...
-call npx quartz sync
-echo.
-echo ✔️  Sync complete.
+echo ❌ Quartz v4 does not support 'quartz sync'.
+echo    This option has been disabled.
 pause
 goto menu
 
@@ -93,12 +91,15 @@ echo 🏗️  Running Quartz build...
 pushd "%~dp0"
 
 call npx quartz build
+
 echo.
 echo 📦  Force-adding public folder...
 git add -A
+
 echo.
 echo 📝 Committing changes...
-git commit -m "Rebuild public (Quartz build + CSS/theme updates)"
+git commit -m "Rebuild public (Quartz v4 build + CSS/theme updates)"
+
 echo.
 echo 🚀 Pushing to GitHub...
 git push
