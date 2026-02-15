@@ -68,7 +68,7 @@ _Text: [Mark 14:12–15](https://www.biblegateway.com/passage/?search=Mark+14%3A
 - Childhood memory of seeing this disorienting angle—viewing the cross from above.  
 - Origin in a 16th‑century sketch by St. John of the Cross, drawn from a prison vision.  
 - Vision described as seeing the crucifixion from God’s perspective “up in heaven.”  
-- [[##Dali Christ On The Cross|Slide Link Lower In Deck]]
+- [[260215 LONG LIVE THE KING Why Jesus Died##Dali Christ On The Cross|Slide Link Lower In Deck]]
 
 ##### IV. Symbolism: Trinity, Time, and the Center of History
 
