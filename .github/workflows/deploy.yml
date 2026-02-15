@@ -21,15 +21,32 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+
       - name: Install dependencies
         run: npm ci
-      - name: Fetch Quartz Theme   
-        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- minimal 
+
+      # ------------------------------------------------------------
+      # THEME FETCHING DISABLED
+      #
+      # This step installs a fresh Quartz theme on every deploy.
+      # It is ONLY intended for brand‑new Quartz setups.
+      # Leaving it enabled will overwrite your custom styles,
+      # layouts, SCSS, and theme modifications — breaking the site.
+      #
+      # If you ever need to reinitialize the theme for a NEW project,
+      # you can temporarily re‑enable this step.
+      # ------------------------------------------------------------
+      # - name: Fetch Quartz Theme
+      #   run: |
+      #     curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- minimal
+
       - name: Build Quartz
         run: npx quartz build
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
