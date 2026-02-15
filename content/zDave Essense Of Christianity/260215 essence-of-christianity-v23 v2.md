@@ -56,7 +56,9 @@ flowchart TD
 
 No doubt you've attended a wedding where two people beautifully profess their love, and during the ceremony the following Scripture is read:
 
-1 Corinthians 13:1-7 (NIV) [^5],  'If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.'
+**1 Corinthians 13:1-7 (NIV) [^5],**  
+
+> 'If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.'
 
 Few would argue that love is humanity's highest virtue. In fact, Christianity at its core is the story of divine agape [^3] love told by Scripture [^6] [^7] -not the sentimental kind that fades with emotion or circumstance, but the self-giving love that radiates from the heart of God Himself. This essay argues that every act of God - from creation to judgment - is an expression of divine love. This claim-that love lies at the heart of Scripture-may sound surprising at first, but it arises directly from Scripture itself, as will become clear as the essay unfolds.
 
@@ -99,7 +101,9 @@ If this much is true - that ultimate reality is personal, relational, and rooted
 
 After the creation of the universe, in love, God proceeded to create humankind. In Scripture we read:
 
-Genesis 1:26-28 (NIV), 'Then God said, 'Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.' So God created mankind in his own image, in the image of God he created them; male and female he created them. God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.'
+**Genesis 1:26-28 (NIV),** 
+
+> 'Then God said, 'Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.' So God created mankind in his own image, in the image of God he created them; male and female he created them. God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.'
 
 From this Scripture passage, we learn…
 
