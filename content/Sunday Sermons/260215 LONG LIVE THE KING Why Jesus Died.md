@@ -1,12 +1,11 @@
 
-# PARTS OF THIS WEBPAGE
+# A reminder of how to use this web page
 
-- [ ] Overview
-- [ ] Sermon Outline
-- [ ] Slides
-- [ ] Atonement Theories Comparison Table
-- [ ] Tensions but possible integration
+On the left of the web page are the various web pages that you can click to. You can go up and down inside of these folders to find the various resources from either sermons or when we've met together as small groups and have resources from there.
 
+If you also take a look up above, you will see a series of arrows starting at home. It also may be helpful for you to click on Sunday Sermons. That will present the list of everything I've placed inside of the sub-directory, ordering it from the newest ones first, which is another good way to get to the resources here.
+
+Finally, look on the right side and you'll actually see a navigator. Now, I haven't said everything perfectly because of the automated system. However, for the most part, you can click on the navigator on the right side to go up and down in the note.
 ## Overview
 
 #### The Cross as Deliverance
@@ -459,20 +458,17 @@ Unknown Accepted Impressive
 
 Accepted
 
-[Jesus] knew all people and needed no one t0 testify about anyone; for he himself knew what was in everyone. John 2.24-25 NRSV
+Jesus knew all people and needed no one t0 testify about anyone; for he himself knew what was in everyone. John 2.24-25 NRSV
 
-When we were still powerless; Christ died for the ungodlyGod demonstrates his own love for us in this: While we were still sinners, Christ died for us. Romans 5.6,8 NIV
+When we were still powerless; Christ died for the ungodly God demonstrates his own love for us in this: While we were still sinners, Christ died for us. Romans 5.6,8 NIV
 
 The Lord Jesus, on the night he was betrayed; took bread, and when he had given thanks, he broke it and said, This is my body; which is for you; do this in remembrance of me:' 1 Corinthians 11.23-24 NIV
 
 After supper he took the cup; saying, This cup is the new covenant in my blood; do this, whenever you drink it, in remembrance of me. For whenever you eat this bread and drink this cup; you proclaim the Lords death until he comes 1 Corinthians 11.25-26 NIV
 
-
-
-
 ## Atonement Theories Comparison Table
 
-[[#VI. Atonement Theories vs. Biblical Images|Return To Outline]]
+[[#VI. Atonement Theories vs. Biblical Images]]
 
 This table summarizes major theories with links to BibleGateway for verses, Wikipedia for doctrines, and biographical links for key figures.
 
