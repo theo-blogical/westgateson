@@ -43,6 +43,15 @@ Note to reviewers: I've done my best to be careful and conscientious in the purs
 
 ## Introduction
 
+```mermaid
+flowchart TD
+    A[Creation: Love Expressed] --> B[Fall: Love Rejected & Corrupted]
+    B --> C[God's Love Revealed in Jesus]
+    C --> D[Remedy: Love Restored]
+    D --> E[New Creation: Love Consummated]
+```
+
+
 No doubt you've attended a wedding where two people beautifully profess their love, and during the ceremony the following Scripture is read:
 
 1 Corinthians 13:1-7 (NIV) [^5],  'If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.'
@@ -65,6 +74,19 @@ Scripture is clear that God's essential nature is love [^8] - not merely an attr
 
 From Scripture we know God is composed of multiple persons, the Father, Son and Spirit (the Trinity [^10]). As such, He's able to exhibit love - passionate commitment to the well-being of others within the Trinity - even before the cosmos or humankind were created [^11]. He didn't 'need' to create humankind because He was lonely [^12]. He didn't need to create beings to worship Him, presumably to prop up His low self esteem [^13]. Scripture describes God as a perfect being, loving, just, omnipotent, omniscient and omnipresent, to name a few of His key immutable attributes. This is the kind of love whose shape we recognize most clearly in our deepest human commitments, where another's flourishing becomes worth real sacrifice. He created us out of love and a desire to share his loving, Trinitarian experience more broadly.
 
+```mermaid
+graph TD
+    Father -- "eternal love" --> Son
+    Son -- "eternal love" --> Father
+    Father -- "eternal love" --> Spirit
+    Spirit -- "eternal love" --> Father
+    Son -- "eternal love" --> Spirit
+    Spirit -- "eternal love" --> Son
+    style Father fill:#f9f,stroke:#333,stroke-width:2px
+    style Son fill:#bbf,stroke:#333,stroke-width:2px
+    style Spirit fill:#bfb,stroke:#333,stroke-width:2px
+```
+
 We shouldn't be surprised that God's motivation for creation was love; after all, this mirrors our own experience when we create, no matter our field of endeavor. Even though a project can feel like work - sometimes taking a long time - we often express the experience as a 'labor of love.' We enjoy talking about our creation and sharing that joy with others, especially those with whom we have a relationship.
 
 Prior to creating humankind, Scripture teaches that God created the cosmos along with our planet, the latter teeming with flora and fauna. How He accomplished this is outside the scope of this essay. What's clear is that we live in a rich, diverse and awe-inspiring universe, demonstrating the magnitude of his unfathomable love for us. The greatest minds on the planet have been discovering its mysteries for thousands of years, and yet we're still nowhere near a comprehensive understanding. We don't live in a dull or ordinary place!
@@ -86,6 +108,13 @@ From this Scripture passage, we learn…
 - Humankind was given a vocation of stewardship. When rightly understood, stewardship is an expression of love: a posture of care and responsibility oriented toward the flourishing of what has been entrusted, not its exploitation or control. We were charged to cultivate the earth and care for its living creatures while preserving its beauty. We were also called to fill the earth with families - spreading communities that mirror God's love, creativity, and wisdom. Although the Garden of Eden was beautiful and well developed, the rest of the planet still needed cultivation and development. Theologians refer to this as the 'cultural mandate'. This was a mandate humans were never meant to carry out independently from God - it was intended as a partnership! [^19] As the late pastor and author Tim Keller explains in his book, Every Good Endeavor [^20], 'The cultural mandate is a kind of partnership: God gives us the raw material of the world, and our job is to take it and build culture, develop society, create art, discover science. We are called to be his junior partners in the work of creation.'
 
 In summary: Humanity represents the visible expression of divine love on earth. To be made in God's image is to be invited into partnership with Him - to reflect His nature through compassion, justice, and stewardship. The Imago Dei is therefore not only a statement about our origin but also a calling that defines our purpose.
+
+| Aspect              | Description                                                                |
+| ------------------- | -------------------------------------------------------------------------- |
+| **Image of God**    | Intrinsic dignity and worth; called to reflect God's character and wisdom. |
+| **Likeness of God** | Capacity for relationship, free will, reason, creativity, conscience.      |
+| **Male & Female**   | Complementary; together reflect God's relational nature; equal in worth.   |
+| **Vocation**        | Stewardship and cultural mandate – cultivate, fill, and care for creation. |
 
 The cultural mandate calls humanity to seek a deep understanding of creation. Whatever your gifts - whether in science, the arts, or humanities - they are part of God's cultural mandate. To illustrate, here are just some of the fields where human creativity participates in God's plan:
 
@@ -121,6 +150,27 @@ For many of us, this is where admiration quietly gives way to recognition: we se
 What would a life in partnership with God as an image-bearer look like? A practical life lived in partnership with God under the cultural mandate is one in which everyday work, creativity, and responsibility are consciously offered back to God as shared vocation rather than private ambition. In this partnership, a person seeks God's wisdom and character while cultivating the world-whether through science, art, engineering, parenting, governance, or caregiving-so that creation increasingly reflects God's goodness, order, and love. Work is done with excellence not merely for personal success, but as stewardship; relationships are shaped by justice and compassion because people are treated as image-bearers; and decisions are guided by trust in God rather than anxiety-driven self-rule. Such a life is neither withdrawal from the world nor domination of it, but faithful presence within it-learning, building, healing, and creating alongside God, knowing that even ordinary labor participates in His larger purpose for what He lovingly made.
 
 ## Love Rejected: The Fall
+
+```mermaid
+flowchart TD
+    subgraph Garden
+        God[God walks with them]
+        TL[Tree of Life]
+        TKGE[Tree of Knowledge]
+        Serpent[Satan as Serpent]
+        Humans[Adam & Eve]
+    end
+
+    Serpent -- "deceives" --> Eve
+    Eve -- "eats & gives" --> Adam
+    Adam -- "eats knowingly" --> TKGE
+    TKGE --> Curse[God pronounces curses]
+    Curse --> C1[Serpent: enmity, offspring]
+    Curse --> C2[Eve: pain in childbirth, marital conflict]
+    Curse --> C3[Adam: toil, sweat]
+    Curse --> C4[Earth: thorns, thistles]
+    Curse --> Banish[Banishment from Garden]
+```
 
 Upon creation of humanity, the first man and woman were placed in the Garden of Eden. There, they began fulfilling the cultural mandate. What occurs next is often described as disobedience, but at its heart it reflects a deeper relational rupture. Here's how the story unfolds in Genesis 3:1-7 (NIV):
 
@@ -185,6 +235,14 @@ Taken together, the activity of evil spiritual forces and humanity's own disorde
 ## Love Contested: The Mystery of Evil
 
 Rampant evil in our world raises deep questions: Did God create evil? If God is truly loving and good, why does He allow evil to exist/persist? The latter is Oxford philosopher J.L. Mackie's infamous 'Logical Problem of Evil.' [^55]
+
+|                       |                                                                           |
+| --------------------- | ------------------------------------------------------------------------- |
+| **Free Will**         | Genuine love requires genuine freedom; evil results from misused freedom. |
+| **Hiddenness of God** | God withholds full revelation to preserve authentic choice.               |
+| **Soul-Making**       | Suffering develops character, perseverance, and hope (Romans 5:3-4).      |
+| **Open Cosmos**       | Nature is granted lawful integrity and openness, allowing real risk.      |
+| **Spiritual Warfare** | Evil spirits actively deceive and corrupt, prolonging rebellion.          |
 
 University of Notre Dame Professor of Philosophy, Alvin Plantinga, successfully rebutted Mackie's assertion in his book, God, Freedom, and Evil [^56]. Plantinga writes that God could have a valid reason to permit evil. One reason would be to grant his creatures genuine free will. If God restricted everyone's choices such that they could never making an unloving one, they wouldn't have genuinely free will. Plantinga continues to argue, even an all-powerful God cannot guarantee that genuinely free creatures will always choose love. While it may be logically possible to imagine free beings who never sin, it may not be feasible for God to actualize such a world without overriding their freedom. Therefore, evil exists because God's created beings - both spiritual and human - possess genuine free will. When we make poor choices, to one degree or another, bad things happen (sin). Apparently, God prefers having beings who possess free will and can choose either good or evil rather than not having freedom at all. It seems that genuine love requires genuine freedom of choice; otherwise, as stated previously, God has merely created robots. At this juncture, it's imperative to state that God did not create evil - He declared his creation 'good'. Nevertheless, when He created spiritual and human beings, He knew in advance that evil would arise. Knowing an outcome in advance is not the same as causing it. God's foreknowledge of human choices does not make those choices necessary or coerced; they remain genuinely free acts for which the creature, not the Creator, is responsible. As in the case of Adam, so it is for us as well-our choices are meaningful and carry real outcomes; when we choose sin, we are morally culpable. If, no matter what one chose, God refused to hold anyone accountable, bad choices wouldn't really matter. Free will implies real consequences and genuine justice (more on this later). Scripture consistently portrays God as patient to a degree that far exceeds human tolerance [^57]. Evil is permitted for a long time-not because it is ignored, but because judgment is restrained. Again and again, divine judgment [^58] appears only after prolonged warning, forbearance, and opportunity for repentance. From the days of Noah, to the exile of Israel, to the delayed conquest of Canaan, the biblical pattern is the same: God patiently waits, warns, and endures long before He acts. God's desire for humanity to possess genuinely free will leads us directly into the theological idea known as 'the hiddenness of God.' This concept describes the reality that God does not always make His presence, power, or purposes unmistakably obvious to us. It's not that He's absent, but that He chooses not to overwhelm human freedom with constant, undeniable displays of His existence. After all, if He revealed to each of us his full nature - so powerful and glorious as to remove all doubt - we would be overwhelmed with proof of His existence and love [^59] [^60]. Consequently, our love towards Him would no longer be a choice, it would be a foregone conclusion compelled by revelation. Another perspective on God's hiddenness appears in a common plot in RomCom movies: one character conceals their wealth at the beginning of a dating relationship. Their goal is not deception but to avoid influencing the other person's motives. Wealth changes behavior. It can undermine genuine affection. In a much deeper way, if God revealed the full weight of His glory, power, and beauty at all times, it would overwhelm us. Our response would be automatic rather than freely given. God's hiddenness, then, is not absence but a mercy that preserves the authenticity of our relational choice.
 
@@ -277,6 +335,14 @@ This is not to say that humans can manipulate God using emotion [^78]. God truly
 
 ## Our Disordered Passions
 
+| Good Passion (Original Design)     | Fallen Distortion                                     |
+| ---------------------------------- | ----------------------------------------------------- |
+| Libido (spousal love, procreation) | Lust, sexual immorality                               |
+| Ambition (provide, cultivate)      | Greed, ruthless competition                           |
+| Hunger (sustain life)              | Gluttony                                              |
+| Desire for knowledge               | Prideful autonomy (deciding good/evil apart from God) |
+| Self-preservation                  | Selfishness, fear of scarcity                         |
+
 Something is wrong with all of us. We act out of genuine love at times, but it isn't our core nature. Throughout world history we see hate, racism, sexism, human trafficking, slavery, war, and genocide. In daily life we observe theft, anger, lying, divisiveness, manipulation, arrogance, and greed. Each one of us has committed our own sins [^79]. And yet, God still loves us and wants us to be part of His family. But He cannot ignore sin [^80], and He demands justice for the wrongs humans have committed against Him and against one another.
 
 In Scripture, sin refers to humanity's personal rebellion against God - the willful turning of the heart away from love and truth toward self-rule. Specifically, it's 'missing the mark' [^81] of the Love Precepts. All sin is evil because it participates in that corruption, yet evil extends beyond individual acts to include the suffering, injustice, death, and spiritual darkness that flow from them. Together they describe both the cause and the consequence of humanity's estrangement from the God who is love.
@@ -312,6 +378,18 @@ Although John didn't expand on the KoG, Jesus taught on it extensively. From Jes
 - Eventually, at the and of the age, when the new heavens and earth are brought forth the KoG will be fully realized in a new physical kingdom. Redeemed humans having new, pristine, immortal bodies, are its citizens. The new heavens and earth are uncorrupted and function as God originally intended, before the Fall. God and his people are dwelling together once again, as in Eden. On the new earth, there is no more death, mourning, crying/tears, pain, sin/evil or night (God is the ever-present light) [^98]. All unredeemed humans are in hell, separated from the KoG [^99]. Little is said in Scripture about the nature of an unredeemed person's new body other than it's capable of enduring ongoing ruin [^100].
 
 Note: Jesus, during His time on earth, provided a preview into the ultimate KoG. He healed people of their sickness and disease (removed the source of crying and pain), He cast demons out of people (overcame dark spiritual forces), raised people from the dead (reversed physical death) and helped people establish a connection with God.
+
+```mermaid
+timeline
+    title Kingdom of God
+    section Present Age
+        Spiritual Kingdom : Citizens: redeemed + unredeemed
+                         : Grows invisibly (yeast, mustard seed)
+                         : Jesus' preview: healing, deliverance
+    section Future Age
+        New Heavens & Earth : Physical Kingdom : New bodies, no death, no pain
+                           : Fully realized : God dwells with His people
+```
 
 ## The Remedy Defined
 
@@ -350,6 +428,14 @@ The Remedy, then, is not earned through what we do for God, but received through
 
 ## Love Empowered
 
+| **Now (until death)**                                | **After Death / Eternity**                          |
+| ---------------------------------------------------- | --------------------------------------------------- |
+| Adopted into God's family (permanent status)         | Immediately in paradise with God                    |
+| Indwelt by the Holy Spirit (empowerment, struggle)   | Await new heavens and earth in paradise             |
+| Two drives: spiritual nature vs. disordered passions | Receive new, immortal, uncorrupted body             |
+| Growth through failure, confession, and restoration  | No more sin, death, mourning, or pain               |
+| Called to serve, may face persecution                | Live in fully realized Kingdom, serving God forever |
+
 A natural question to ask at this point is, 'What can I expect if I accept the Remedy?' There is a two-part answer to this question, (1) from now (the point of repentance) until the time you physically die and (2) after death, throughout eternity.
 
 Since the second answer is simpler, let's start there. When we die, we immediately go to be with God in paradise [^106]. We remain in paradise until the end of the age when the new heavens and earth are brought forth; thereafter we live out our citizenship in the fully-realized KoG living on a new earth, within a new cosmos.
@@ -375,6 +461,19 @@ History offers painful examples in which those in positions of Christian authori
 
 ## Love and the Reality of Hell
 
+```mermaid
+flowchart TD
+    Start[Human Life] --> Choice{Accept the Remedy?}
+    Choice -->|Yes| A[Repent, Believe, Confess]
+    A --> B[Adopted, Indwelt, Transformed]
+    B --> C[Eternal Life with God in New Creation]
+    Choice -->|No| D[Reject / Ignore]
+    D --> E[Separation from God]
+    E --> F[Hell: eternal conscious separation]
+    style C fill:#cfc
+    style F fill:#fcc
+```
+
 God's invitation to redemption is an act of love, but love that must be freely received. Those who reject it choose separation from the only source of true goodness and life. Hell, therefore, is not a cruel imposition - it is the natural outcome of refusing God's love [^122]. Typically, the trajectory of a human heart does not remain neutral. Over time, what we repeatedly choose becomes what we desire - and what we desire becomes who we are.
 
 In his book, Hell, the Logic of Damnation [^123], contemporary philosopher of religion Jerry L. Walls writes, 'Of course, the greatest loss of those in hell is that of knowing God and enjoying life with him in heaven. This is the true end for which we were created, and the ultimate tragedy of hell is that some will lose out on the joy of eternal fellowship with God.'
@@ -386,6 +485,17 @@ Because God is the source of all goodness, this withdrawal is not mild-it's deva
 Scripture is sober about one final reality: our lives are not rehearsals. We are given one earthly life in which to respond to God's invitation. After that, the direction we have chosen is confirmed. Love remains freely offered - but not indefinitely deferred.
 
 ## Epilogue: The Invitation of Love
+
+```mermaid
+flowchart LR
+    Start[You've read the story] --> Q{Are you convinced?}
+    Q -->|Yes| Remedy[Adopt the Remedy]
+    Remedy --> Church[Find a gospel-devoted church]
+    Q -->|Not sure| Explore[Read the Gospels, investigate evidence]
+    Explore --> Q
+    Q -->|No, but curious| Reflect[Consider the questions in Epilogue]
+    Reflect --> Q
+```
 
 When the Christian story is viewed as a coherent whole, its answer to life's deepest questions is neither obscure nor abstract. Two questions have echoed through every culture and every age: Why am I here? and What is my purpose in life? These are not modern anxieties. If this essay has succeeded, Scripture's answer should now be clear: we were created to partner with God in carrying out the cultural mandate, using the gifts He has given us, and to order our lives by the Love Precepts-loving God above all and loving our neighbors as ourselves.
 
