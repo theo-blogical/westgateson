@@ -2,18 +2,18 @@
 
 // put your custom CSS here!
 
-/* Improve Mermaid contrast in LIGHT mode only */
-:root[data-theme="light"] .mermaid .node rect,
-:root[data-theme="light"] .mermaid .node polygon {
+/* Improve Mermaid contrast (all modes for now) */
+.mermaid .node rect,
+.mermaid .node polygon {
   fill: #333333 !important;
   stroke: #333333 !important;
 }
 
-:root[data-theme="light"] .mermaid .label,
-:root[data-theme="light"] .mermaid .node text {
+.mermaid .label,
+.mermaid .node text {
   fill: #f5f5f5 !important;
 }
 
-:root[data-theme="light"] .mermaid .edgeLabel text {
+.mermaid .edgeLabel text {
   fill: #333333 !important;
 }
