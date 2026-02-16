@@ -119,6 +119,7 @@ echo   3️⃣  (Removed — Quartz v3 sync)
 echo   4️⃣  Refresh Git identity
 echo   5️⃣  Run Quartz v4 build
 echo   6️⃣  Rebuild public (build + add + commit + push)
+echo   7️⃣  Run local dev server on http://localhost:8091
 echo   0️⃣  Exit
 echo.
 set /p choice="👉 Select an option: "
@@ -129,6 +130,7 @@ if "%choice%"=="3" goto nosync
 if "%choice%"=="4" goto refresh
 if "%choice%"=="5" goto quartzbuild
 if "%choice%"=="6" goto rebuildpublic
+if "%choice%"=="7" goto devserver
 if "%choice%"=="0" goto end
 
 echo ❌ Invalid choice. Try again.
@@ -195,6 +197,16 @@ popd
 
 echo.
 echo ✔️  Public rebuild complete and deployed.
+pause
+goto menu
+
+:devserver
+echo.
+echo 🌐 Starting Quartz preview server on http://localhost:8091 ...
+cd /d "%PROJECT_ROOT%"
+node quartz\bootstrap-cli.mjs build --serve --port 8091
+echo.
+echo ℹ️  Dev server stopped.
 pause
 goto menu
 
