@@ -2,6 +2,12 @@
 chcp 65001 >nul
 title Quartz Utility Menu
 
+:: -----------------------------------------
+:: Resolve the project root (folder of this .bat)
+:: -----------------------------------------
+set PROJECT_ROOT=%~dp0
+cd /d "%PROJECT_ROOT%"
+
 :: Read current Git identity
 for /f "delims=" %%A in ('git config user.name 2^>nul') do set GITUSER=%%A
 for /f "delims=" %%A in ('git config user.email 2^>nul') do set GITEMAIL=%%A
@@ -77,7 +83,10 @@ goto menu
 :quartzbuild
 echo.
 echo 🏗️  Running Quartz v4 build...
-node "%~dp0quartz\bootstrap-cli.mjs" build
+
+cd /d "%PROJECT_ROOT%"
+node quartz\bootstrap-cli.mjs build
+
 echo.
 echo ✔️  Build complete.
 pause
@@ -87,9 +96,8 @@ goto menu
 echo.
 echo 🏗️  Running Quartz v4 build...
 
-pushd "%~dp0"
-
-node "%~dp0quartz\bootstrap-cli.mjs" build
+pushd "%PROJECT_ROOT%"
+node quartz\bootstrap-cli.mjs build
 
 echo.
 echo 📦  Force-adding public folder...
