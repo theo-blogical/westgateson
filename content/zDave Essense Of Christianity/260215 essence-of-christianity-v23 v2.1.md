@@ -444,27 +444,27 @@ This is not to say that humans can manipulate God using emotion [^78]. God trul
 
 
 ```mermaid
-graph LR
+flowchart LR
     %% Root Source
-    Root("Human Desires") --> Good
+    Root["Human Desires"] --> Good
 
     %% Good Passions (Left Column)
     subgraph Good ["Good Passion (Original)"]
-        direction TB
-        A1["Libido<br><i>(spousal love, procreation)</i>"]
-        A2["Ambition<br><i>(provide, cultivate)</i>"]
-        A3["Hunger<br><i>(sustain life)</i>"]
+    direction TB
+        A1["Libido\n(spousal love, procreation)"]
+        A2["Ambition\n(provide, cultivate)"]
+        A3["Hunger\n(sustain life)"]
         A4["Desire for knowledge"]
         A5["Self-preservation"]
     end
 
     %% Fallen Distortions (Right Column)
     subgraph Fallen ["💔 Fallen Distortion"]
-        direction TB
+    direction TB
         B1["Lust, sexual immorality"]
         B2["Greed, ruthless competition"]
         B3["Gluttony"]
-        B4["Prideful autonomy<br><i>(deciding good/evil apart from God)</i>"]
+        B4["Prideful autonomy\n(deciding good/evil apart from God)"]
         B5["Selfishness, fear of scarcity"]
     end
 
@@ -476,10 +476,11 @@ graph LR
     A5 --> B5
 
     %% Styling
-    classDef goodStyle fill:#e1f5e1,stroke:#2e7d32,stroke-width:2px,color:#1b5e20;
-    classDef fallenStyle fill:#ffebee,stroke:#b71c1c,stroke-width:2px,color:#b71c1c;
-    class A1,A2,A3,A4,A5 goodStyle;
-    class B1,B2,B3,B4,B5 fallenStyle;
+    classDef goodStyle fill:#e1f5e1,stroke:#2e7d32,stroke-width:2px,color:#1b5e20
+    classDef fallenStyle fill:#ffebee,stroke:#b71c1c,stroke-width:2px,color:#b71c1c
+    class A1,A2,A3,A4,A5 goodStyle
+    class B1,B2,B3,B4,B5 fallenStyle
+
 ```
 
 Something is wrong with all of us. We act out of genuine love at times, but it isn't our core nature. Throughout world history we see hate, racism, sexism, human trafficking, slavery, war, and genocide. In daily life we observe theft, anger, lying, divisiveness, manipulation, arrogance, and greed. Each one of us has committed our own sins [^79]. And yet, God still loves us and wants us to be part of His family. But He cannot ignore sin [^80], and He demands justice for the wrongs humans have committed against Him and against one another.
