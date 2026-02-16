@@ -33,7 +33,7 @@ echo   1️⃣  Set LOCAL git config to theo-blogical
 echo   2️⃣  Open Notepad
 echo   3️⃣  (Removed — Quartz v3 sync)
 echo   4️⃣  Refresh Git identity
-echo   5️⃣  Run npx quartz build
+echo   5️⃣  Run Quartz v4 build
 echo   6️⃣  Rebuild public (build + force-add + commit + push)
 echo   0️⃣  Exit
 echo.
@@ -76,8 +76,8 @@ goto menu
 
 :quartzbuild
 echo.
-echo 🏗️  Running Quartz build...
-call npx quartz build
+echo 🏗️  Running Quartz v4 build...
+node "%~dp0quartz\cli\bootstrap-cli.mjs" build
 echo.
 echo ✔️  Build complete.
 pause
@@ -85,12 +85,12 @@ goto menu
 
 :rebuildpublic
 echo.
-echo 🏗️  Running Quartz build...
+echo 🏗️  Running Quartz v4 build...
 
 :: Move to repo root (directory where this .bat file lives)
 pushd "%~dp0"
 
-call npx quartz build
+node "%~dp0quartz\cli\bootstrap-cli.mjs" build
 
 echo.
 echo 📦  Force-adding public folder...
