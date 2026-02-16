@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "sanborn-young.github.io/StrategicWebRefs",    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "theo-blogical.github.io/westgateson",    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
