@@ -85,6 +85,7 @@ echo.
 echo 🏗️  Running Quartz v4 build...
 
 cd /d "%PROJECT_ROOT%"
+echo Building from: %CD%
 node quartz\bootstrap-cli.mjs build
 
 echo.
