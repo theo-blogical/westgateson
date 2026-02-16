@@ -14,6 +14,11 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+# Change this value if you don't want the "minimal" theme.
+# Use any theme name supported by quartz-themes (e.g. catppuccin, tokyo-night).
+env:
+  THEME_NAME: minimal
+
 jobs:
   build:
     runs-on: ubuntu-22.04
@@ -29,20 +34,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      # ------------------------------------------------------------
-      # THEME FETCHING DISABLED
-      #
-      # This step installs a fresh Quartz theme on every deploy.
-      # It is ONLY intended for brand‑new Quartz setups.
-      # Leaving it enabled will overwrite your custom styles,
-      # layouts, SCSS, and theme modifications — breaking the site.
-      #
-      # If you ever need to reinitialize the theme for a NEW project,
-      # you can temporarily re‑enable this step.
-      # ------------------------------------------------------------
-      # - name: Fetch Quartz Theme
-      #   run: |
-      #     curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- minimal
+      - name: Fetch Quartz Theme
+        run: |
+          curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
 
       - name: Build Quartz
         run: npx quartz build

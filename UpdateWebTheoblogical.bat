@@ -39,17 +39,6 @@ if not exist "%PROJECT_ROOT%quartz.config.ts" (
 )
 
 :: -----------------------------------------
-:: Safety check — ensure Tailwind config exists
-:: -----------------------------------------
-::if not exist "%PROJECT_ROOT%tailwind.config.ts" (
-::    echo ❌ ERROR: tailwind.config.ts not found.
-::    echo Quartz cannot generate theme CSS without this file.
-::    echo.
-::    pause
-::    exit /b
-)
-
-:: -----------------------------------------
 :: Safety check — ensure Quartz CLI exists
 :: -----------------------------------------
 if not exist "%PROJECT_ROOT%quartz\bootstrap-cli.mjs" (
@@ -101,7 +90,7 @@ timeout /t 1 >nul
 for /f "delims=" %%A in ('git config user.name 2^>nul') do set GITUSER=%%A
 for /f "delims=" %%A in ('git config user.email 2^>nul') do set GITEMAIL=%%A
 
-:: Hard-coded identity
+:: Hard-coded identity (always want to use this)
 set EXPECTED_USER=theo-blogical
 set EXPECTED_EMAIL=theoblogical@gmail.com
 
@@ -129,7 +118,7 @@ echo   2️⃣  Open Notepad
 echo   3️⃣  (Removed — Quartz v3 sync)
 echo   4️⃣  Refresh Git identity
 echo   5️⃣  Run Quartz v4 build
-echo   6️⃣  Rebuild public (build + force-add + commit + push)
+echo   6️⃣  Rebuild public (build + add + commit + push)
 echo   0️⃣  Exit
 echo.
 set /p choice="👉 Select an option: "
@@ -147,7 +136,6 @@ pause
 goto menu
 
 :setlocal
-(
 echo.
 echo ⚙️  Setting LOCAL git config to theo-blogical...
 git config --local user.name "%EXPECTED_USER%"
@@ -155,28 +143,22 @@ git config --local user.email "%EXPECTED_EMAIL%"
 echo ✔️  Local git identity updated.
 pause
 goto refresh
-)
 
 :notepad
-(
 echo.
 echo 📝 Opening Notepad...
 start notepad.exe
 pause
 goto menu
-)
 
 :nosync
-(
 echo.
 echo ❌ Quartz v4 does not support 'quartz sync'.
 echo    This option has been disabled.
 pause
 goto menu
-)
 
 :quartzbuild
-(
 echo.
 echo 🏗️  Running Quartz v4 build...
 
@@ -188,10 +170,8 @@ echo.
 echo ✔️  Build complete.
 pause
 goto menu
-)
 
 :rebuildpublic
-(
 echo.
 echo 🏗️  Running Quartz v4 build...
 
@@ -200,7 +180,7 @@ echo Building from: %CD%
 node quartz\bootstrap-cli.mjs build
 
 echo.
-echo 📦  Force-adding public folder...
+echo 📦  Adding all changes...
 git add -A
 
 echo.
@@ -217,10 +197,8 @@ echo.
 echo ✔️  Public rebuild complete and deployed.
 pause
 goto menu
-)
 
 :refresh
-(
 echo.
 echo 🔄 Refreshing Git identity...
 for /f "delims=" %%A in ('git config user.name 2^>nul') do set GITUSER=%%A
@@ -228,7 +206,6 @@ for /f "delims=" %%A in ('git config user.email 2^>nul') do set GITEMAIL=%%A
 echo ✔️  Updated.
 pause
 goto menu
-)
 
 :end
 echo 👋 Goodbye.

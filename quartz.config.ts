@@ -1,5 +1,4 @@
 import { QuartzConfig } from "./quartz/cfg"
-
 import * as Plugin from "./quartz/plugins"
 
 /**
@@ -7,10 +6,9 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
-
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Westgate Small Group",
+    pageTitle: "HardDriveGuy's Web Site",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -18,8 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "sanborn-young.github.io/StrategicWebRefs",    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -55,7 +52,6 @@ const config: QuartzConfig = {
       },
     },
   },
-
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
@@ -71,10 +67,7 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents({
-        maxDepth: 4,   // include #### headings in TOC
-        minEntries: 1, // show TOC even with a single heading
-      }),
+      Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
