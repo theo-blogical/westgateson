@@ -77,7 +77,7 @@ goto menu
 :quartzbuild
 echo.
 echo 🏗️  Running Quartz v4 build...
-node "%~dp0quartz\cli\bootstrap-cli.mjs" build
+node "%~dp0quartz\bootstrap-cli.mjs" build
 echo.
 echo ✔️  Build complete.
 pause
@@ -87,10 +87,9 @@ goto menu
 echo.
 echo 🏗️  Running Quartz v4 build...
 
-:: Move to repo root (directory where this .bat file lives)
 pushd "%~dp0"
 
-node "%~dp0quartz\cli\bootstrap-cli.mjs" build
+node "%~dp0quartz\bootstrap-cli.mjs" build
 
 echo.
 echo 📦  Force-adding public folder...
@@ -104,7 +103,6 @@ echo.
 echo 🚀 Pushing to GitHub...
 git push
 
-:: Return to original directory
 popd
 
 echo.
