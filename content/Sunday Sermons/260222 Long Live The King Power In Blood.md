@@ -296,3 +296,42 @@
    - The worship team leads in the hymn *“Nothing but the Blood of Jesus.”*  
    - Ruth shares that she grew up in a multi‑ethnic church where this song was sung in different languages.  
    - She reflects that she once wondered, “Why are
+
+
+#### Slides
+
+WHY
+THE
+JESUS
+DIED
+AND
+WHAT
+IT
+MEANS
+FOR
+US
+ALL
+
+For the life of a creature is in the blood, and 1 have given it to you to make atonement for yourselves on the altar. Leviticus 17:11 NIV
+
+Blood sacrifice is central, not optional to understanding our salvation.
+Blood carries oxygen without it, we suffocate.
+Blood carries oxygen without it, we suffocate Blood delivers nutrients without it, we starve
+Blood carries oxygen without it, we suffocate Blood delivers nutrients without it, we starve Blood cleanses toxins heals wounds
+
+The wages of sin is death. Romans 6.23 NIV
+Sin drains us of life.
+
+Without the shedding of blood there is no forgiveness. Hebrews 9-22 NIV
+
+For God presented Jesus as the sacrifice for sin. People are made right with God when they believe that Jesus sacrificed his life, shedding his blood.  This sacrifice shows that God was being fair when he held back and did not punish those including them in what he would do in this present time. God did this to demonstrate his righteousness; for he himself is fair and just, and he makes sinners right in his sight when they believe in Jesus.
+Romans 3.25-26 NLT
+
+Holy Place once for all by his own blood, thus obtaining eternal redemption.
+Hebrews 9:11-12 NIV
+
+We have confidence to enter by the blood of Jesus. 
+Hebrews 10:19 NIV
+
+
+Inhale: 'Jesus, you gave your life for me. Exhale: "1 receive your life today:'

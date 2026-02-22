@@ -15,7 +15,7 @@ echo.
 :: -----------------------------------------
 :: Safety check — ensure we are inside a Git repo
 :: -----------------------------------------
-if not exist "%PROJECT_ROOT%\\.git" (
+if not exist "%PROJECT_ROOT%\.git" (
     echo ❌ ERROR: This folder is NOT a Git repository.
     echo.
     echo The script must be run from your actual Quartz project root:
@@ -41,9 +41,9 @@ if not exist "%PROJECT_ROOT%quartz.config.ts" (
 :: -----------------------------------------
 :: Safety check — ensure Quartz CLI exists
 :: -----------------------------------------
-if not exist "%PROJECT_ROOT%quartz\\bootstrap-cli.mjs" (
+if not exist "%PROJECT_ROOT%quartz\bootstrap-cli.mjs" (
     echo ❌ ERROR: Quartz CLI not found at:
-    echo     quartz\\bootstrap-cli.mjs
+    echo     quartz\bootstrap-cli.mjs
     echo.
     echo Your Quartz installation may be incomplete.
     echo.
@@ -117,21 +117,10 @@ echo   1️⃣  Set LOCAL git config to theo-blogical
 echo   2️⃣  Open Notepad
 echo   3️⃣  (Removed — Quartz v3 sync)
 echo   4️⃣  Refresh Git identity
-echo   5️⃣  Run Quartz v4 build (local only)
+echo   5️⃣  Run Quartz v4 build
 echo   6️⃣  Rebuild public (build + add + commit + push)
 echo   7️⃣  Run local dev server on http://localhost:8091
-echo   8️⃣  npx quartz sync (content-only push)
 echo   0️⃣  Exit
-echo.
-echo   Quartz Actions Summary
-echo   ----------------------
-echo   +--------+-------------------------+-------------------------------+------------------------------+
-echo   ^| Option ^| Builds site locally?   ^| Git actions                  ^| Typical use                  ^|
-echo   +--------+-------------------------+-------------------------------+------------------------------+
-echo   ^| 5      ^| YES (build only)      ^| None                         ^| Local preview of changes     ^|
-echo   ^| 6      ^| YES (then push)       ^| add -A, commit, push         ^| Full rebuild + deploy        ^|
-echo   ^| 8      ^| NO (CI builds)        ^| add/commit/push content only ^| Fast content-only deploy     ^|
-echo   +--------+-------------------------+-------------------------------+------------------------------+
 echo.
 set /p choice="👉 Select an option: "
 
@@ -142,7 +131,6 @@ if "%choice%"=="4" goto refresh
 if "%choice%"=="5" goto quartzbuild
 if "%choice%"=="6" goto rebuildpublic
 if "%choice%"=="7" goto devserver
-if "%choice%"=="8" goto quartzsync
 if "%choice%"=="0" goto end
 
 echo ❌ Invalid choice. Try again.
@@ -167,8 +155,8 @@ goto menu
 
 :nosync
 echo.
-echo ❌ Quartz v4 does not support the old 'quartz sync' behavior in this script.
-echo    Use option 8 (npx quartz sync) instead for content-only pushes.
+echo ❌ Quartz v4 does not support 'quartz sync'.
+echo    This option has been disabled.
 pause
 goto menu
 
@@ -178,7 +166,7 @@ echo 🏗️  Running Quartz v4 build...
 
 cd /d "%PROJECT_ROOT%"
 echo Building from: %CD%
-node quartz\\bootstrap-cli.mjs build
+node quartz\bootstrap-cli.mjs build
 
 echo.
 echo ✔️  Build complete.
@@ -191,7 +179,7 @@ echo 🏗️  Running Quartz v4 build...
 
 pushd "%PROJECT_ROOT%"
 echo Building from: %CD%
-node quartz\\bootstrap-cli.mjs build
+node quartz\bootstrap-cli.mjs build
 
 echo.
 echo 📦  Adding all changes...
@@ -216,19 +204,9 @@ goto menu
 echo.
 echo 🌐 Starting Quartz preview server on http://localhost:8091 ...
 cd /d "%PROJECT_ROOT%"
-node quartz\\bootstrap-cli.mjs build --serve --port 8091
+node quartz\bootstrap-cli.mjs build --serve --port 8091
 echo.
 echo ℹ️  Dev server stopped.
-pause
-goto menu
-
-:quartzsync
-echo.
-echo 🔄 Running npx quartz sync (content-only push)...
-cd /d "%PROJECT_ROOT%"
-npx quartz sync
-echo.
-echo ✔️  quartz sync completed. CI will rebuild and deploy your site.
 pause
 goto menu
 
