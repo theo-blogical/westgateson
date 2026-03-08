@@ -19,7 +19,7 @@ if not exist "%PROJECT_ROOT%\\.git" (
     echo ❌ ERROR: This folder is NOT a Git repository.
     echo.
     echo The script must be run from your actual Quartz project root:
-    echo      %PROJECT_ROOT%
+    echo     %PROJECT_ROOT%
     echo.
     echo Make sure this folder contains a .git directory.
     echo.
@@ -43,7 +43,7 @@ if not exist "%PROJECT_ROOT%quartz.config.ts" (
 :: -----------------------------------------
 if not exist "%PROJECT_ROOT%quartz\\bootstrap-cli.mjs" (
     echo ❌ ERROR: Quartz CLI not found at:
-    echo      quartz\\bootstrap-cli.mjs
+    echo     quartz\\bootstrap-cli.mjs
     echo.
     echo Your Quartz installation may be incomplete.
     echo.
@@ -69,14 +69,14 @@ if errorlevel 1 (
 echo %PROJECT_ROOT% | findstr /I "SynologyDrive" >nul
 if %errorlevel%==0 (
     echo ⚠️  WARNING: This project is inside a Synology Drive folder.
-    echo      Synology may lock or scan files during Quartz builds.
-    echo      This can cause:
-    echo        • slow builds
-    echo        • missing CSS/layout
-    echo        • partial or corrupted public/ output
+    echo     Synology may lock or scan files during Quartz builds.
+    echo     This can cause:
+    echo       • slow builds
+    echo       • missing CSS/layout
+    echo       • partial or corrupted public/ output
     echo.
-    echo      If builds behave strangely, consider pausing sync
-    echo      or moving the project to a non-synced folder.
+    echo     If builds behave strangely, consider pausing sync
+    echo     or moving the project to a non-synced folder.
     echo.
 )
 
@@ -126,10 +126,10 @@ echo.
 echo   Quartz Actions Summary
 echo   ----------------------
 echo   +--------+-------------------------+-------------------------------+------------------------------+
-echo   ^| Option ^| Builds site locally?   ^| Git actions                   ^| Typical use                  ^|
+echo   ^| Option ^| Builds site locally?   ^| Git actions                  ^| Typical use                  ^|
 echo   +--------+-------------------------+-------------------------------+------------------------------+
-echo   ^| 5      ^| YES (build only)      ^| None                          ^| Local preview of changes     ^|
-echo   ^| 6      ^| YES (then push)       ^| add -A, commit, push          ^| Full rebuild + deploy        ^|
+echo   ^| 5      ^| YES (build only)      ^| None                         ^| Local preview of changes     ^|
+echo   ^| 6      ^| YES (then push)       ^| add -A, commit, push         ^| Full rebuild + deploy        ^|
 echo   ^| 8      ^| NO (CI builds)        ^| add/commit/push content only ^| Fast content-only deploy     ^|
 echo   +--------+-------------------------+-------------------------------+------------------------------+
 echo.
@@ -226,9 +226,7 @@ goto menu
 echo.
 echo 🔄 Running npx quartz sync (content-only push)...
 cd /d "%PROJECT_ROOT%"
-:: Added a short timeout to prevent Synology Drive from locking files during the Git process
-timeout /t 2 >nul
-call npx quartz sync
+npx quartz sync
 echo.
 echo ✔️  quartz sync completed. CI will rebuild and deploy your site.
 pause
