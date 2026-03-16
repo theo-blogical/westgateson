@@ -29,3 +29,229 @@ This week, when and if you feel **“deflated** or **defeated…”**
 - Remember that **divine power** is available to you
 - Call out **every thought** that isn’t from God or of God
 - Surrender every thought in **obedience** **to** **Christ**
+
+# Sermon Notes: Long Live the King - Why Jesus Died
+
+**Location:** Westgate Church, Saratoga Campus
+**Speaker:** Jay
+**Date:** March 15, 2026
+**Series:** Long Live the King: Why Jesus Died and What it Means for Us All
+
+---
+
+## I. Opening: The Mystery of Transformation
+* **Physical Condition:** The speaker noted he was wearing a jacket despite it being 80 degrees outside and mentioned he was battling a lost voice, using tea and cough drops to power through.
+* **Scripture Reading:** [1 Corinthians 15:51-57](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A51-57&version=NIV).
+    * We will not all sleep, but we will all be changed in the twinkling of an eye.
+    * The perishable must clothe itself with the imperishable.
+    * "Death has been swallowed up in victory. Where, O death, is your victory? Where, O death, is your sting?".
+
+## II. Story: Nazi Fear Propaganda in Paris
+* **The Poster:** The speaker shared an image of a 1941 Nazi propaganda poster plastered in occupied Paris.
+* **The Ultimatum:** Following an assassination of a German soldier, the poster declared all detained French persons were now "hostages" and would be shot in response to further attacks.
+* **The Goal of Propaganda:** To squelch resistance through fear. The Nazis didn't just hang posters; they conducted public hangings and firing squads to maintain control.
+* **Historical Lineage:** Empires from the Assyrians to the British have used the same message: "Resist and be crushed".
+
+## III. The Roman Empire’s Propaganda: The Cross
+* **The Instrument of Terror:** For Rome, the cross was not just for execution; it was their favorite fear propaganda tactic.
+* **Brutality by Design:** It was designed to maximize humiliation and degrade the victim's spirit.
+    * Victims were stripped naked and beaten.
+    * **Strategic Placement:** Crucifixions only happened on busy roads, outside city walls, or on hillsides (like Calvary) to elevate the symbol of power.
+* **The Mechanics of Death:** Victims died of slow suffocation. They had to pull their weight up by the nails in their wrists just to breathe.
+* **Story: The Rebellion of Spartacus:**
+    * 70 years before Christ, Spartacus led a slave revolt.
+    * Upon his defeat, Rome took 6,000 rebel prisoners and crucified them along the 120-mile stretch of the Appian Way.
+    * For days, anyone traveling that road saw thousands of bodies as a warning: "Rebel and this is your fate".
+
+## IV. The Biblical Subversion of the Cross
+* **Turning the Symbol:** The New Testament writers flip the meaning of the cross from a symbol of Roman victory to a symbol of Christ’s victory.
+* **Scripture:** [Colossians 2:13-15](https://www.biblegateway.com/passage/?search=Colossians+2%3A13-15&version=NIV).
+    * Jesus canceled our legal indebtedness by nailing it to the cross.
+    * He "disarmed the powers and authorities" and made a "public spectacle of them," triumphing over them.
+* **Core Claim:** Christ is not a victim of the cross; He is victorious *through* the cross.
+
+## V. The Unseen Realm and "Demonization"
+* **Identifying the Enemy:** Our struggle is not against flesh and blood (people), but against spiritual forces.
+* **Scripture:** [Ephesians 6:12](https://www.biblegateway.com/passage/?search=Ephesians+6%3A12&version=NIV).
+* **Story: The New York Pastor's Insight:**
+    * Jay quoted a pastor who said: "When we cease to believe that there are demons, that's when we begin to demonize people".
+    * Without a concept of a deeper malicious force, we blame our neighbors for all the world's brokenness.
+* **Invitation:** Acknowledged the difficulty of believing in an "unseen realm" and invited skeptics to Alpha after Easter.
+
+## VI. The Victory Motif Throughout Scripture
+The speaker highlighted that this victory isn't a one-off event but the theme of the entire Bible:
+* **Genesis 3:15:** The offspring of the woman will "crush your head" (speaking to the enemy).
+* **Isaiah 25:6-9:** On this mountain, God will "swallow up death forever".
+* **1 John 3:8:** The reason the Son of God appeared was to "destroy the devil's work".
+* **Hebrews 2:14:** By His death, He broke the power of him who holds the power of death.
+* **Story: Backyard Basketball Trash Talk:**
+    * Jay shared a story of playing one-on-one with his son, Simon.
+    * Simon started "talking trash," so Jay used his height to palm the ball and keep it out of reach while boxing him out.
+    * He used this to illustrate the taunting language of 1 Corinthians: "Where, O death, is your victory?" In Christ, we "have the ball" and the enemy cannot touch us.
+* **Revelation 5:5:** "The Lion of the tribe of Judah... has triumphed".
+
+## VII. Personal Application: Facing Defeat
+* **The "Already" Victory:** The most important victory in history has already taken place.
+* **Story: The Struggle of a Dad:**
+    * Jay shared that he has felt "deflated and defeated" over the last two weeks, specifically regarding his role as a father to his 10-year-old and 7-year-old.
+    * He expressed the pain of realizing his own lack of skill or empathy has created unnecessary challenges for his kids.
+    * He described "strongholds"—suffocating thoughts like "You’re a failure" or "You didn’t have a dad, and now your lack is playing out in them".
+* **The Solution:** [2 Corinthians 10:4-5](https://www.biblegateway.com/passage/?search=2+Corinthians+10%3A4-5&version=NIV).
+    * We have divine power to demolish these strongholds.
+    * We take captive every thought and make it obedient to Christ.
+
+## VIII. Three Practices for the Week
+1. **Remember Divine Power:** The power that raised Christ from the dead is literally available to you.
+2. **Call Out False Thoughts:** If a thought isn't from God, label it a lie.
+3. **Surrender Every Thought:** Hand over the sense of defeat to the one who is already victorious.
+
+---
+**Benediction Prayer:** Jesus, come and defeat death again—the various deaths we face in our situations. Set us free and send us out unburdened and unafraid. Amen.
+
+#### Slides 
+
+<!-- 001.md -->
+## BEKANNTMACHUNG
+
+![Image](data:image/webp;base64,UklGRpo6AABXRUJQVlA4II46AADQSQKdASpvBNkBPqlQnkmtMSaornjIiiAVCWlu3Kdlj42/MrI0VUxwByLzyhx6/3/ExsKVRfBvl0+mDhzfJbPGGOsYcC//mhfOGrnxJLwk6ugv/2+h34t9/fH/8n/Qf/Pra/9WyPv8ym////r9gP/12iP+j96fUV5PUWH/hye3IAHTICxUqt7HbmbwqaAfYDtn/IYVDPO7ryy2r9QVKS9LNEGl4dxSxgB+kt/7qMR8YH7LNPy0YXM8tryy2vOgoDBXd8TOeZL24LRA6b7LQjlb3dmj0UUcIciwMacxY+18TfJD6lDlFB7ba85jU2pzalI1Ur+hP3zqM6YKEcUnNOt5WfTjECyOuRa7/ilk2lYMGPfxpmKoAcf3gFvLujW+r57iUYuyqtBHOTOnUazZVmFAM7J6iClXeCB1uNGksm8V2eHFRV0/Ff8I0gSgjXwPivUMsVjkrKAKVvWUU6QIfsdrsdx+0TLUHM9X50aV4gHvt43lsMrOjB+64q7GtVxMuOFkvXzb/7PwyExdUIpv9kv5evDdGb3Hdo2ErO7TFfMD9M/akBnov9YQjyPHukWIbnW2tW/NwuCNDjZmb8RKGeipW0ldIB5EO0wBHcNnvRI55FH3JeHT10cCw37HiT5O015MxcZsbo0JKGHW26GdFIudn8iYkcw57KQkIyavTv1jY/5/FSP0O3Te1LJcYMfQ5POvGHYu7vPUokD1yt8fWFsBa6/gggsfPM73HUmxxtXgKAqRuj2HpLzRpZRWW4JVia9mAB4MWNmnRhZCpaXY2SXp7tY595ilt0/l3V4YaWV10VWG+EFGiF5kzCxrSU48oQJDyBiLhjYkSTScVNGMM3BNYipey7AlsuREqiNVbeZgCmb3gqxmecYEmVTW5E0OzOBt0PbM86FW9gLzxspBlhge26VAnwbGR1Y2thls0nP4eR6ug6j5tZ/f7Xb7+238edyIIEOZQuISXVjD7z/6om08J+e/gAUWReAxbBygxos941Awwt8nylYY+oaKamGCJvf1DiZjXrx+uHUSfnbqkpq21mE9trHVMiyYeRZggHRGmFM2eXBmbfsFjVi63D8Rll6rnpuE5pbui6TkNPqKX6Hm25GnJUHPQDY+nXBjBbHf2numD2RJuIl77YxQ57oSlRnQUnT1HLAsl3Q7HJVKkwd0RKiGqI2/96FqCm/tnoYoFiYfkuuBkyDaQKZ/YH19sFbB0tYMeLsf0hYk3rZOLS7p4ZbztoO8BpEFKvg2Ke71ZpeV5FMHOB78Rv9Et4z/fVI/bO/r2D1wIn8Kv7KDMl4ab3Mmk5dX8ZbhnzOvqGz72DopUYtSLsIxOnEZIvzswhzNkNmkGZ+HhiEwYuT2GC+FPVN/o+/Ne+RoLAKoxBuPx+tFXptkTmjeFJ8jvEvyDbhPCefQhMGD9ugVzlD6/ITow+X/Zw9Itg3Z8zcFiUX7OjPZ5so6qb/Z0wjZ/Tzt+LWVvkyYE+hzdEmqM2rOIk6mMh08eStMBw+xT1wC+TcVOFu9NiLrZiX293+Jw/s98BS9CBobT5x1s5RDoqLLW0S3ongo0a/EhfULF60sA54kU/pvcsCqLkPAuowv6Pf/WHBYfIkEzx6un6vt/txx1GVZudFOzObDPgjFdbdMh6F/vXlybHLN31FYM97bAqEXNfPBqfQpdrheTBHr/4v6jPMNW6NnBiWGWRgc0diKYeDoFex3y/rqRCf3WPtilx4wn+8bo/v5MjONlzw2/yaEqf5lApGP5N2tiXhC62pQLSUSVLwlJYu7dm2banASPCM/VzvDhNJsAQ5U3OBgkwI7D6Cum9g2anSMvt2CRFKugJh2XfSw4mvjR9Jv+BzMC8qeLBqdLAox5j+M7pwJ5h8Fiw1XbTdQAfMUlwn02VqVND82bOnLZP7PJ72J7HH6mjH1flF+a2zN5qkwZLwtLjVuRxlxoCZqXuSwbB+O+WxPw0N5lav0jUgqbhIzrMH8O6t2jcMiWYPalwqQYLtPFRIKjXaY2W2lDJHSusnGYivfw0DILGkQU1VUErdq9GZWa32XWLA/ywCyGLmWl8RDRYbH2hcgUS3OLPEjaI6ZS1LALajxS4L1+mOumcGY7EsYDwJIk8gx1de4tbQhp0ODtg0SOSkn5cCLrGPwcmLIpUcNEzauyOTJ9E91LouNLgiq+2EQOqT4z9LCDhJhBzBhAJC1pldw/ZQrvTU7tsyUPDqPbmPEMx4bjQbUXnix1QpdRqbdO27ceS4d8NLDuXrAwBVCuDXDrdC0bReaAZA/1vCovpqju3MpiBzXqOQbAFi9pIvi2uO1bah9CTODFk9Olj4ENaK+z6DqyflCX7IN7hu7WWeSsw2KsyrtCFzjYb18kzZTAdbSqpa5BcficJ1RT/8qiEqBwZFe6TICmbMnUnC6W+F2ayPPcInEIgwiuQVypryV1pHpImOxwDZBFrx9tasRducftfoygkPZ2vcszN3vf63o71zP0FiRaNcZa9hehNpDqdAp9YNpMW0OSDYXwG7z7E49DRyNVKvDSI+2fMrYgIgEPotsFkRjTu9R8XMsLYvGCabC+Xj4+2Na368gIyrKyA9hbIpMNcdUE4RH5O5pWCMsB1PkcP1rua6JAHBVcoL2nBLpwJVOq3nr4REIxDyLdyj9s9foXSi//HqpDcaTlfd4tkvzbdYFgg10gcGDXW2uwCiOGIJPTpw8VjAflpoouE+mPMpLX7Cdy2VV9/FqilCQ892x0xOe6wIfn2j7NWBGGVIebZ1eALlGXSHhbhcivtITWjIDVhCX3O3x5YlWxDy51HpsHkFnlmAB1XiRoPSE0/K9dJp1dw62XwErliUb/4J1Wa7D57Cg51bs0ewNh0ukSpKbX+XhkwPVTHTNJbDBI3kLBQawCO1XJzIDrWTFGnrDRgcxCBjMqqg8YWFr1Uv8BliJ775/HPWdDrmWTTPJ4NWiQEtSmPnS1seOxBS75O9xKrEY6t3z0t7JM4kIOWxW2PpjQ9mc5t7BZs5MJ7Uw0rM6CTCJmFX43CLVDM/f5rxT+pYGJ2hdltP0xx5dACU1KIXzeTbI3YChm3htqJUUA81y11JKDeqJu882khgQaGhFdDCDmNujjSlBia5AWDYxq+Zyy0q85pSi11ZZrnQ8eb2uf2pxHenR3SepXdKfq9DpMO4Qa1c8cbiVwzS92HgwtLIHwwMy3O+MmCPMzWMsxsEniApTegzqem3gIo5NR7qr6YWimJZbQ3TNvsm5CVHTsQSu1pvgRQH4VN6w+ahEdjSoEobNzHHRnySyAjEKM+pclWzdGa52oEUGTnVEdqCBZKgyxphwkWQI7gVUjpFzRUN2jJs35S2NMW8wKlwDt11ExYLDqhMjApsq1pAbEG+iLga9DUpH6M2bJ8lS4zx8KpkZyoyhybVYwsAE9BqGPyUNRIr+BUbkGLLX5zbyK0xio/XtNuFOJl05ZvIWH7dtRKuMZOVjQ2AUG+5BZ0xkAO1Xqgz6OB9GS5GJehWoogMPBmJO3fh5K20a4XaJQx+fqvK5efQWuC2TCzrfA2g+00UPaAMljVok2cnUTGtRWnURTvbnD9J1W+2BQFF9PLQoFXBX7NfnoosiBJQCz4pY8zesYueDyuLxzRuA08BA+dmr0sf7D5Oa6n6iCFvg7qR/JD+hWrvPzuPMPV9d8V0O69gStN5QvNYm659bHIh262A/EvS4iFeURajER+e0ibEf0RH/x7IG6IzRNy3t37k9htiGWdMjoUJDLb6J2J99Fe95Ow29IinmHwMnkBIAd9I9hFp45vptWnqhdYlVGa/ejtt4ptkFGDucFAX2+T5RQoUp405qThibOTgsX/ehXsdnDPjiPh2suBJjU8aZqUPAMZdNUork8kJ/FZIAtlB8ma4PzoTncgH0M3TorJhqHSnaE1UotTQ6FOzyMslbTro+K6Vb5xixcSh6R/JDZimUGnddyHUHZQ9alLon9Rd/KDRJaUFYInRaHMoktJBFn9uQLU81n2wJO6kS25lkhTxhpF10C4tHJxSL+5LLJUme8Pjwn0iPvUbkfmJJSUnUKa/w7+5tlwwhudte2EgteLglpqeeAV6/YVLn7edWufUHQzotMwfCEeibj8MSaWm3N0zRwGjJuK/tVn8bg2vhsu3PGEK5SPmtPmz/W7pt9epVRv7nEN4MmdtIHNe1vIfG6U56IAUodB4pvje7HLeC26dTsqBG9UTWAwyUhTZZPg8ApcybwFi9j+xmDQh+FVHrdLMyQpAFmBQnwG6vvNMwIpyxdhxMSgudVc7tKbyu6CvDNbVQT70nSgCYWeU7ETEV7WQXxc3VXXGxSSGVpPeXM/Jnnt1jIT+08mBMgWhCodmkGADxnxnlbV69gwFHv78bQAtmTLKVpAHuyLCYWNGQl2bes8uIUz5gQ/3nI4mYeTcD6KT2D6rtuhxApRlv/uQTo2bqBfSHIDgDylYmnElS7l1XhXkh8CiOdmMs07DPxIusMJJ2BgBvr24HvAQ3Em6upIVJ+1Y6ypx5hP6R1j8bedQAje69Fv3TXj0r6Alp6aco9wCL54wDnlydUPjPgFlbVBoPrDNa40kjpbCJmXxyje48XIzrSawunpUml2+rsLD8PzN8npTuLkS7NRnp4npCPQi4FdCsrvh19JLcLTMVt2YL7vAsm17Hwq+5SlqIL/m5kQUt6NqihM2FxNOJ69AzgZ+WicbBsJWtcOa56TPZ2Fvu1Wi232RDE1wsHr5Kh9jChzXcVeDLmkh74+/ZUteoEbYmS4NWP/Dy/2u4hrO4/TcxCRZRSSkhEs/CByQYzaTtZVpjdrrxrUb8gAf1UNVB2iRrnFbpvSIv8dMgxVuJHW6o+QkaCee/hBC0zwv1+g4C8aB5QKf8XHOTUDY3JG3kwsrwDHFFVuALsCjetY6fuq3tSCO3qJctuWU+2/H47KJyZ6NJll4xg8+fCqYkzcEk6gtg+5GtIH0gJi5KbzzkY+DL7SR6BspWcRVG6RB8eivN4DYMGGJdJW3rnrTGIslEqizh9lf5EEE0pP2w02j5R4hDH8rYqVxba7xDl2iY7+SK7Lot+7I99hVVQnE9XN1dqVYaz2nf213OBcIMnffd4+5P0LUCmgoDHA9k2FIcC7u1Q6bX/6Bz66foIeOST7ZAyhn+z0CHzxtIGVSrTYL2dzpmaPtOsq7R7yzq7EuOjEQ7UUFlO7k1df4MjjtMNIgFzcbkMAnMxPhVcNCuhmvParf5nwcKY6fiyWp8lwd8k8xmIUMc9OoSXTinYfCgv3vpDcFeEPVOCvT+p6z/BbBCtyK7jlF2EJBtXCEtIbc13Bms6XCjuUlaP1Saf7qYYhX5EBU1e9humoFPtnph8mK9ZK8M69Q3oElp2DtVlnKLz4LV4/0hggM3BdCQV75Rvnh6e5ItIP7zLqfBP+5DzcRmHwb1n1ACQOrg9pEWPwmCXdOuTYhLYUHugthMgIzfBZ5U7tox+CFHHbOrDUc3WdlZCFRQnEaXp/OQuMKSiwO5XAnMWd1EV8ndCRxDXFqTy2emHt92JdsoAWTId3425deUtcfJk77VzfyqpUE/gQvPyTgNw73mafebU1tOe+kvb9gYcF0cgO8D5gI+LqCuj5l3sffQyOG1T71h3L/p98TrVl6D2S89YVORXqnwrugEAQNgQynQbITJUIT7zJiore4WQaZBvPHX/h7HdVSsqrSlAWYvaNlHVn6JZRO6k4PklQWtVlZ9mjeiS7FFlCEx7jvkz5Ek8/AcdaqZegTW7vaZV8VRiOEu012FMMuPLOqb9VjcY3qrrKQA+0RPP+T1bO5Q5NJUSImLVDx+/Vex5zeQDa0gzSldofKOxx+iJe0m74vBfaxVt19gkYidK7nr+OL+lqDfZlEf2lDTHksXt+iEniciVIbCQV32dS9OQxELQtDjOt5iCFVYfAxFtNWID8GvLn963sCnHZMKkUMeWodFi9E6Rkg0KQFH0deMav1YQjbO+LH/AlMgAxw/H1/A7abUC94w63hCerAJwES/6AE7P8dbYoCnJP5Gnr+QYvAFMo5f5kWkv2YR9zhNh4N6zEdt8t/XBsaigV+dxuVu1F1bZw4zxjSVqexEfafxXZYUg6viNMEY2knDWCFKFeYRbcOidGVL1eZ75Ju++64ZfLsFBDm3agLcPur/PuvK4SybTNAfuK/gMSA7+LZDqZaluFODEb6aJIDP8pgbrYYLZzhSS2aYHXYMYY8UjVfuHLUotwkB+ZWI0up8MfbsUNLTeHEZmCbtjLabBYqOCLhDIAAA/pwk/92551j/e2tdbtSYYxvsjI1z8Q4ybGGyjSNVtN2FRpdb08fZAI/Yvr1ebCAkLFNtGq5TKxmTAJm8xkwqo+FOgjfHAlCqaS/lxeC5EVrWPZPD+J+Lf1qIyPzCiV1U4vEcfzp1FyeIJFemSnKx1Pvzn0AgYMqNmD500EsAECgUP1+tYaSmjc3mZJrxmDbPD3M7gluruhLX0QnesH6XwUmpskABHSBKSgz2UJ/xMj7TsQdVjOHhXb/nJwtKwuF9WZeCkvVgT7hdEvzUqkYnpH8ANnWUa1UwpAxCTHyc6iN7Hv9LUFtDjIBKIvwiBsnGr9NG0h/Sx78X5orWY9wZJI4rKVMfohjmxWVUqS8ntbInxxphFGJ4/tfWQnDkG98djywKw6psFRjgE1+admclFA/f339S4w5PkzWAwmycZdne2Mi4zBmxwm5aIVS7jrSErvMk0FzVqkT6EL2viRscgQdRFtGtO5DJM2WqyreXS+Dcx8SOSyKbgdYo/mNo9WPR8RCcvz17EfTr1zFL/2Pin0DoU12GlaGAz9Up+A8GNzx7seOSPCSGV3RZdn3nEIImvUczNuczXCeNT78OfaDw8E7+RbRklvCQUlA/p/VP8ugbUq07eG7kdWGzfj2V99RMumjWlOArM1sPM6eS7gcSSUMjLLDVPyXDbeTI1oudAU/BckzjOWTnr2/C07ggqrvKmU9XfOIVNIpTwX8cd0OyR3dRnT3lpNnpF1lDlAzxHL60DPmRJchd4STRL3LDVsojM9yrD20fQDZ2LtppkNI6ESr3hkl+plThf+Iue5OeVUbIXu34C90SGFE2YFUb/+MT6Yrd96Kl7g8JWxTsMsk0CEdNZEhipvTsFPcIvQr9ZqNx0RMwBODUM1rV3AUTz3nt8j7fctWj9N4XfEYYNpxA9TGD39RSqOMQomSIerik+qjIyKkzHa2alzNSkpaEklg4+/9MkYGweAFcOcRBYKay7c5OvgTVJoJHEUKRIQn2eRBPQiW4Iirki50RfrsXu1RqRshhssVgHFybrILmuvwjOnscP07q+UMwl4Si23iZ063YL1TOtpsG0l8y7nSon+Z/3x2Jsnp8YxIAZQWvNwDGui3hTX7lzGu6fXgyKbTYZQDZFokPgN0H/+uyYfZQz9XagHo+bMvCwbiKWQ7fE/bu5IMAf1BO05MeyH7kznUzH2GlT4ygDE8lgYkPMBkrZghpgEcSzJ2UU7qn9xiOp9/qSCCFamSoh7NcskNJm8mfYDWyUUJjBpijHF37zxwolKdSxQWrxU51W10b1SJRCDYLH3PWewqXAp0mhxCcGRlG/VtkkN/rqPSBBoVfjVrM9S4yXeAJpedM60B434JFekXdKh5TlAspuR4blVDWDlGP+ysJQ+xmvqp6BbpVLfj4L8T60/VJXa1VmKWpg/XlMyXRditrRKzwdDHYLcSbZAXIamIHiuEojoB53ftPvTlP4oigJhalNpuWIWkSjBhADzxxVlG+QFJaxjaLxZI4DSd7SEMNo94n1+FT2psAJI9HXNHjSxgjw9F4opG1g5FuMk1KonjhXXuNy87i5UaJG4mG3YIRJG12I5F/ZJiOhhrg0/Sy/Us9LeAzIuFYoHG0iXX1eet9N03cQjzXiB8abKwxnkhy/s9iQC0RdVPuNcDFhGEub28Z8aonHNWDW0weuh631pS20CyBNkPE0P1FAk8lBDEAA6JTzTdicGoRG43lYt61+v2FFpVdk5b3Ns4fgmL6hkjbXytkcsDB1vWTZuXXn3wzaMqPXWz+bH8Pwrnne6Y9dC0m/Dsa+mPq6BpZeZdw36yn/mgkCp7/iRFt+3VHvKyp/VA46IGIFcfmIGsjWXsOS//hV7fwa+ZkEE02t1lhqQIgDQBpNov4dyNnk455YbreVlcIEWxRRu4iy1UC8d+gKX5NhvIg6ghjwI4TDkQL4rs4bnBjhQYih2LesiARiMntu4y5I3WkUWSMGLah4S6CJ0TBcZt81LQ3S5/pgjTQfyfV7YqURPCK/brWGJAlGnLpC+tBVQZU/RAk1QjvUyaFPLOFakF47FzfyejN1GIw2jA5FyvelKZXvdCJ554QmSzf2iEFU/XIYkjwl5UWsYOfp8KUZWiwHbZsEZvLfNBR9ZXQIcU+/c4y6nLU+4P8Djp3ieUv800TKeJAu2dGg2AFj9mLqKd6ICU6MezxA7p83cum++zmrxIpYDKSAPqgka7cMdkjFnmuqSpCvoe0dnJFW28OLQyOgsxTAPEKBTz501SCeTvJoIYiPlSEe/nGtkg/ZHo+ZQKdExwwPaC3n6hSfIfnhZSPuxSP6cK4qLtK8I7D+Bt2ry9+t/9zDN8llQKKlSZjwMN7BxIt0ud2nxQaCu4OpNjTB/Wi7yA3PRAGjqfrBbf1yrAvAOkHhCoFxvNWDnAJkSToZowQJ5EEx1Vz8zUcHU8khUQ+PU+Bn/mngskryxtwLjyemTPT7R47GgFs1wRTIoYCrAkXMYM5/uIPnOio/Y+sjJayNiTg0txtZ4HuNnGjyAfCrX+PjiHYLul9Tu6Y5noYOJRDhFyYwvMU9cszgLO8XjF3WKNh2D3v1hnipLaBmfEhY97xKPSEM8xHmbdEo1aXqic/m9tjwh+EnUV9E/6q0Smb6/4kIZYt2w1ZV8SaR3Bc26hUk4rvKbiR8hk8p50mSRwA/qWWr0TOmeg2JfhXq9lepe/lAxsO1M87qT+tlioeWxWo2cpQjnmzCm7j54ChChWl0HShcMODc/MWjIsq1kcVimcox4HCCnsETfTZCImM/NzvrhyykhoJgCwEq85BUVQh6/Th2UZye7Dxy2u83C16YYSJFPssIkndWmh1rnjz6/QJVjp46oW2MLBBeSCGGj1VmkN3U+ICcb3j6T22QbYgWQV+F8VX8ACMJF3+sdwWvDkqzgKRZlzeMg1HryXtYTjILLblfCSR/oW2HDoc9Nlc3R5pSQgm4QNFt0DQFqEhJlQeaQvlRmYlQqHsW1d+/nZCOL/SYxAanCfPhfxq1ey9oEFqNYDewq8X1XZwju55Rh07jOzco8fB7W5XD1H16zxecLZ5S9JcFLijqYXloBjGc8cPhLppJRYhI08WgrpAjj0upR/MhCLxhV6s9TW2dJLUTrFbO989dEW29NiLB4OO1Wws84lbjWG+ix+ASvqu3BsFsCAIKAC4VxR9lq9VncGUH8DlOoQdddPPG81vsrAr6n4P/12rKYpwXmyidaDi8tfvHxuOE3Xotydw740x8abRRaKMPcUHeUuAyWfkZfZW3iHjBnoXmc6yocX7hXT7wQ24GUF88rq9bPeC0vMjlA6FioynOMk/O8BdP2JffUhc/hMaZ0j4X5sXgabnKapcQ+zxcRz3nk0UgaPJEcX7d92TgL23nzTnw63G0BQz4XKKFxRn2bU7tMtMZUeaQH5knmuZSvigyb7VGqMcI5juozSxkSWhPj/XatqZuOxLhKsKyn0zpg5xxc3GZuoI9x4yFok+zC6Z+gDKGqecfcbIaDYVX7gbSYcbTNsknqYUDp4I9f49HMU+Ss3z39NNGKDiqvj+hWmzphCCNN/vtGrUE2N7LtlxiBoHl3nnogAGqPB9wbB9si52a1w2tUo4GObLrOZ3gq0hQWv6sLu+Mjbm+W7IdcSpWYoXqhQgFjX1Al5Cu0QK5mNIg51IK8Z0g6SmnpEVAWNZXaw/h6DqwZzSFSphq1xZxweeXhklz0hH/4t5+0JOkqMablGbas+2Qdpfq8kZr4QPVJuYTPCbQfV/vDR6gvEfgnDBP0D4a9L8gVxIEcamoNhWznL7gWJh0r9Q3llXw/J2jIns0MvcUCre7SgNtFhIFUS2/kjJUucyNXXwg4qNScsd1uwIFQJlT7db6QmcuWidnUbI070OqBJfjQWT7cd5r/AfQuWBXPnO11wLNhf1JTXTlmLAM7blFVrmaqcRuKaFULjspd14LYJ3dtSLq2XjJNyHB7sKORFhLWFR0vEzYqibIw88D1ihg7I3iQtXXy5qlKRlp86f3hhnQUzE3k+fOrXGRwpqbp9ue9Xo66TxLoXfe7CkltWidWq0gMXuX6wWXWbCDW2J2eT4Kni3y9cgeAve3X1r1RxlOqDEl2KankvWQlrHfvvRbDyOENpfC7kucJBEFUwAVgT5qdLL21o+5fJqxJo5PdU0ZILVLurYKmOYU+dI3UZcNntbibWyEHmcwN6kd+5R55Y339HSgV3vmg+QEmySQ4JvCDzoooxlyQldIOIXawFsYhp0vGaTUI5t4OqDRkLqw8JxCv9lGCAOebmVbgez2CjEswL1ZSROY8hzy3iB2vBijEjTIHJRZ0GwtPvrVATa/WUPPEMsPZHWAwXnZU7rdVqv9mFaFuGSkcgLMvJ1bnRCaeTGU3WiDXIzl+vfd08Xp4LWWVGMHjP3qsC7Nq5s+7udXpC/Bygmaqgg6FJKwyMyyVSz24JF20/w0VkLbfAbtXbv3mk95gdA1giUmc6utAQWPgRIWllhjoPVej5bgnnWgQMLAxnZXq7PRkZkPgX3/PtYg3yXkgy6K0ndjtGKq+oeh3eM2UOgSyRlM1fkoF2aZn9up2d6eiTpmLfqIUS7z+Ie7fcU3AoXLlYnj0XTPO/0r5N1DX67h4wOVczr+eKuIi3W26bKxt5qTQqO7FiRxixGM5niyd2fjTbixvNV/rZRwimIDeoqxmg5w0gJYGY911eMA12hr7vgyOdSiuhvXNetODrUbuoWFa+dIb7AxnMcSyAiMSdyE96FAXDzekPJSc0sLSSoa9T0kVHDksrzD5jdi9S7GuTJjSQ+G3AmOeJXwg9dWDh7UIBmFfVxJ55Mjnd5jwwMVAkOcRzIqtYkNpZMuk1dKJuAhoehOz+hGkeuNWW36EQT3Op0qKj2tlj2+gk1vURHB4ka4p7BxGOj5jbV5On9rU9irOYw3y1t/joWm+8PWlHm8+jw7A5zGtvRIfrCyDMxE8B6tvzmHSOMhdFuv0QKsQVeWcChQkD2RaCe4iYjn+uG3VmCKASCPzd1CLoRCwP6OjjvbsO+kTSqLLBKdi5n+kRhx7m3Fucr0+hoLhR8GKjKDMYsGJziKsbW5zgiYpxhggjm0ZmPVDNuimiB/oZ50shnj6ZYBKGrv9sM7U9t6YcLkFsvwUvbCLbs2et2j4cl7kYQKsOiFFjljxY6NUYdgcwBcDxq6hci9zA0i+oxQXsXrUn3vV1WNC5xl4T3Kbl1l/zZMiZ0ZHfk+oOLornfK0oNcVjY+RT6gCS+e6IUzduVknEVVVom88IrAXmumzOmMxWFBzQBp0JgfN9SyNpkzeGDc2TLl/Alzx31S7BKsif+usyTBlNBIlbUPCjTG4itzXHzSOhuSMWbWi3hv51q66e00wY7iCpssdi0pdPUjy8CMQ3070HoR0qRPaGI66+Hi5h2ntCdpItKlxqxfutSUbK04ygRfTtwLL3CQ4i5GWwlReLFnW9mqVAbjNN4syllCCtIxXH9foR6fzRB9ZPUeaZk31Anr/YmsulBa67cUL3nIupOXTviAGAA3kX5PL1ZJJ5O4vsccN7YLsfqozCR5tO0mM7KptHrOIjGgI+LFTTAl26iOe763Agc7dQYgLfOJLMeBDf2ezedEAmBJjXANlTaKD0OxPCVImqlFXIgR3QJt+YOmVLUDzUe6gwOwom0SEjl9SMNDvbd8/rALbL9dcsYMHLLJ07FieBDRkpaMP9eKEXimgJfD+Og2rX8WH45GSO49Lc6HQGMVa4+O3XDlqXV37UEkHyzhnwN8Rx7QI3S+vcFRGY0YEB4s9qseMcyhLgK3Nc7MAoysRqmt8Nuf4P3yyIDdDG6oTG2efd+Vt5FFPinpAMP8ZVQ/q0rpcliQfeIz3+cdpnU/R5XHSrWf/OWbCVx3RcMw8Kly1diwcZid/O3Eo5EnSjYSSNzKvJw/QM1EFLqTj7QW+5opS0dLGM6dOPF+3Om+7fCEdDEuOT2eV2WNsWdXYaS4DyN0uQesNC9rlB+F4O+h3Sn+Xp+48+ow8o+JS9f+i17vRYcDNcU8RC3IO5EZr4+hE47cQ6/7qK7VkGEt3sRIBtPgDrqgUeVU4xbZH4dARYqVpQEgk0Zm4ezX3WwCoOaku9xfLGOr8wN6X40Y0Kbrxy2x5QFGvJvxenSLAgjocoo5zvJQLVm0RyfQyGk4sdjNeZ1pvPGONAMN7bbllOPA85Px4+iqfgP9+pUdbH4qmPEptBXmmAYyMujG9n4k5u5EbNaNtYVVzETYPEmaxsqXwkZmyQYIEkSeuK+VEeAyW4XUmjErcM9hCThN2DJo8Y7Fn42Gzwb2bzykxR4ICB+NeLTSfUvo+QFEZBlGrL40vzrgwPewjjR9JLoWNxT2eWeWX8rh/Xw4RF5M6TL7FITZr8sHBUSIfyax3AsgceaMSC/peOxwo+H8JiTRkWV2LO9NWGWfOJ7WiTGJV4NItCrwD6zG2I7GaLI5ItgZqlkAVOcjHD6l7FgcxQUJ+BQZpH/f4vBpglKF20vz3OS5hi9YOU1iB619u+WSZrWMgnSzyUnATCyJJh2EuSxyOwiAF7YBfeBRQANGoWFmxpG2cWIW8BqjA1PZtxJfsLWUTksRm1kF2xyBJjez4lU/2Xi/Ab8vQzYDJDIy2STud2myJgtFtCVA4N7sh7VtOOD4yLT+/zezikIXsZR6exLWscnNjBPNwOBFCXdVson81U5sNS96TS9UC/kN+dBDNGHYpALBB3NzWg2l0QPtZrj9CQkaftVDldbSdOk1wdkf66rTHH6emiwMI2+0zH63ZVJqtk7FMTBtKN/ToDtjJ9umxRXVCVMvGZe6YrPC48gcnPrH6SqG5pgBNKVLOTlnmJD3zw0ofLKDawp3mNBt0GRWTiqWaaNK9wghvtnMWXdkylJzTBm3fWvstODVKk6GvtZiM1FiKVToVghE55MIK/MSr85QucxaEwAbnR0mN01iW+GxHOWfj6gnjg4syQDSzkq0sTtBzEkjmpZqCfJ0wJFUBSXp9SlDalQ2cVKg7Vp8QTvU0gYCzHhqkcjiv6q83SnqUxxos20xQez1PZIwjY25etg7JgXcmdWcYT8TptBsnWmoaeCYTtxSNIvtZOMSEKqmsTkMmShhiFA4B4mLfIBLhM3+GhC06WMbQ7WPUBSpGUKiGbsAx+450qJfihOaU2uhdaRG2yIp6bojilSpSg3GkY5ltaXLfhdjvuMU5TBQSQheJuaA9/Gb9IIvdcmI5Mf/3Jrrhdgnp6XQAJIcLAYjbsCy0zTMuRkq0/2yXNEIQh/mUGVxTOcrNkunt2LxW5QiBxLfesW6/87Lb+i70QPF2+nIi65OMt5fmx7nav8FMj9f4RLJpdlYopRS0ADplMeraaPzyrArZX5o4R8OuQIhZlLgqJiLnN+cfPA1tIpYZwfL001LIO74aBTkrWQN+VMKJoKIqdYLbE8ePe9dpzZ/7yO3LGSMHHMxBgCKuTKQo7rOz+KwPW9bZSoCkUEGk5iNALS25cF8srXImMg0xVWKLoP1M2w1a264brdaXDEvGJpHcGRO9DjkBceqzU/h4TYlRPFAPXF5QITUGNEIz5wsDq8b9LXcThdxhSo+icfQA4f3D5777lKJAqFbYeP0+gDsV16jn30XiwTmTjhsXB31My4/r61vfo7lXOoVOeUoT+LceTnpTJxu22hXrEPvn/H13w143pyB1lCSwwl+mL0tXZzFjyujmMpf7b877xAXeAhPRYj1vHJtL6mcDkHExfMt0VHbmebS7r7PCYLptnjpPs9bZfilScsFHn7Ky+2pmxbjYEDehhNjwoeWYhI4cY4xS9kKcfXViGp82xcPXgNFtSAA8twd61EkEiZkSCTyVCAESDWQoQeA0Cc+mMPt7XtTyxohUzu9mclHLGwqsnOHBENv94sLvDI8lWY2QSMS3pbX4GN9YL/C53KTilyJMtetEY7ePB97610IKkCbgEDH1vkMcxnz1VHE2L5wmGl88ogxg+tiNZzuACuzRa1cubHHhukwGj+uvEXmYPa72sk0SgsJSoZR/j6xo39ItRM4aAfx9AT/xlcuVPDbL6jNaxcWkzVnQXmrZ7qTvqVcFV1F/2ODVrkAIzQKX3GrqN1nFV+6zZPFUKDujM7nYY7bWWOFaQ9ieDlxMqPckGENrM8hykOhQqQZmLqrcPjYyYasUyTAEYNZTaG7fhfQWljFgDaJtwENxA2OtHUXAFJrkZVycS1fb7p+DaqJ3+j+d1vQVkFGzUaDBWswvDq0ZIfszLz6wa/2biq2XYcg09gMZkdZz00gjYbignwrCp4ZbzxhM8ez60oNM3V8DLhEOGI0sBnxDp1Uejnf86CMUhfPcIf+6M9IcF7zsA2EQIMzhG0ItbJ4nHZ7YSm+sJXg5WFltR7qbzzw71e1vkvU9B5oZvM0DDMApmSQiGfCkxlf4uW0pjgFHqfNQnWricfNnIOHOo7QWAIkI7aQE0xu5y3Fpn/K0Ixe0X6FOv7pFzU34AwYpwfnte07pXFmXYvORLUUmJOTIo4JcB9W6n7W8Dg8kGbZDE95Nm+MM46m/vLc7e7HpRrK4tHGFEsjk71C4O1QTGQ06Qu1ZN2OQ1vteAMha+43zGMyl9wQo9+/02cU/GMay12SuOdKv1ymi3AASKpBI8BrDczGquHQpG9s6Q7RP8HFnX/QuDSoJDXQEA4ktre9Mwkyij2IzILXKkp2hOUAG5QAx8DsEbLvwdUkY76avzzh9w+6yT5NCf4BDnAMhB9W3eFbtbPtWMTWfIvIH9zToRZeSmqp35gqbSF1zJlmCjtvkELrg3pc+m7Fjh9S3Zqr+ZOzJIFKaANfnjPtd3yPbxCwbD7xM0RfXsuIz3ueA5oe5nrGvUm6iwBzZuAKZbALePpJkvlNp3ZkAKQKgEt/aF2+ozGO2ftEm7/jmd4NmKjsizv0r8YdrqnszMVSStsTiAHm+c82aJpMJJUy+KD/1Gp1du6TBuhr4UgC8g61Gt3Gdp7uLltKuuCUuljBl1Zmi1XLixi28+0M3cmAvZIFk99cKcaGa2+pRTOiRCfBwDB55ogZS3IU7HUBPQlOONQEFKPTxQlMbd8pWm376Hb1tpn+3aPj6/w9+6gMKUY4u1z2OJrnKn/zLnRilX8UbMAPoj9fjQs9DGhl8UqH3q54dPBZC1YHCwrR+ohkgP+2hDnnuveOfuM1gSht3CGXZnsLPrnJd2u1Z6EyZ9fo935TbWrq/U10AVB0/HiNkv4v0tk6gISe4c5ir9Dq+ZxB83zgmzwiBf/hFQxaBA6mA1kSaKzGsCJSyxt6c0CDRj8hqwH0uwIcQcHodTJ+Qcbmdvv8//dQ7EjAMOlUsPWDEikqYS//+/vnQLTSQvnIIoVmAtvW0kS9INlUwcJcAVNS6xfv71olxFbUXxeO8LTSZ3mi7XB26yvIGPCXAO13r+lntvqi5tdRx8cgyKx51M1AYQ/uUKBcaEk+1YGbjA+hjMrMrf6x4ezW1QGbWxh54WqMA52nYklTRKdzdtFyqgr4A3QgnRBts8MVagIWvY01Ij9nUwRh0cOw3HxaHk06jacl2zurNu768O8WY7yO9TA8tkgu3/Pp5OZOhzIpsPFWccOlq9PBtE1kIrDEpEnMQ5hmZz2t8f8q65348Hm3jukNPj3ZG/b7NCLTbnjUOZG57gxvlAREwgVVeU1+vzTxBc7ufJfYXs6yKT6MtAq7O6ys8+5rVEzFet0F8mZ9Azqb0HzzpU5rkq9oWEwpAS7LKHXq4cBoUk2QsDMOOYkxugZadXWkIKsTNE6XRc8ii8wx5jSEHMK6jaVl+d7DRaBV1LmBacwi2JM01O4XgTFK6BUwrW2nxjfw4L5hHM1qy1qXfcCWM1vOSijRTeu0PjnpqOYrq84bUZ+Kp3a8cjpxiS/dwEia/iUTjPbDzw8IDpXF4Y2ObOJ7fO5QXPXivsl5wCzIRivl09LktnRbIXMcQRnPKN/xPMHkow9FJT/Eqe8MymfFz7S5BJSJlQTCtj+15peQRV+KJlPdGKnNpdrTGjgw9c6e/pCv9a+fn1xhzTCqPiUeEhZFJcQMXPZO9Xzq/cH/SV4Wf9suArALQCSLhNj/2Yf1uouEnOhDtN8FGCdG6h/G6FBc2jI0YAwPjHphF2FpK5EOLnePVFLTXmteCLoqd/Jdz62pgX6WS52lcN3xPjJ2A3DSi/o2esAScFYID8b1Bt96w7FlyBRy7uq7KqUZl9T4PZRVmfI3msZrlupAOzBRViyCqPwc3Ew+iL1rLTdr+vCM7p6FdIkELEmQdTTE/inBquESQwFksNydDsJPAENP418l5XatLz9c69qsw95XxdDfBKZJK1BfU8fy4srI71lIVOtmMa7XFF2plcT8VQe/FJn6oYsh6vvLbYYoB858phwhG7n02EDoB9eCHi0ZKBGwTORgVpipZPVdQcR1riThDuLA4WedV/Ze7SGsoWSgDPB86eWekDCtaFPUg4CWTzm41MrYbvY/9aDCR5cgd/BE9BxoZaN9Nww3WRcjQ/Xn0u7Y7jeI3DG3hdLVpQ/sGYEeETqAsxEg6SvPjPB5j0BG2gkFwXoTpZ7O0wZK8pdy0A4fMl7H3wbRjcdCMnm6GmijvjbIUQr4xIZ4P3aIT3xOesvrWRo+3CjWEDtMWkbK5sYd08nhMBRCyLeIAfMkQT0KaiJ9JdGmUDqN24zyderWOurd1fcAKKsVxTLJMby5gtUUQNM9pD+nL5syc8xO/r3MGb0AWuxjGiJEZwNx8xUAGOSPGWHZf02QrpMiziqzKhFOVb8scyke+Z3YBzsT59C29UTIhuywt+VP1QxMNWJ3XFfxRXF4/ZNIAumjLnjN872T9GmX/ueMYsxnmhEvgZLzxTLeaVHkRr6VZgBqrpaleZQeqawvdcY8hfbXJmH80+jdEUUyxvlRMuHiiRQ0BPSdNgbeFSB6QQRfn128hcGXXMYhz0nTOb9orOJDDdk2sSMplganlZjNOa2N3kg6hRTVlzDIkUD4s0IXbNP33MkDsGQr+Kg2fyOxsmXF2yruhLXjVBWgk9xBehYkzG8Dzpi72Nf8cdVc2t0nf/hpChziaMF2x50SBWp9nYkM4lOnocPmDyMgHEsk7pkTpQTkIJpaIXCXeECtfIke5nFkMDleqqlxsWuREHLKWjWgk3EdnFszCoE7T9N8wsANFXI1xi/mgmMtmifBtP9xnigaNvczm2RfUnMUE6ulNoc3IOzkS6laHW9Tp+RB62VhwMQh9Uwc9RkARIoDYy4eJwyCxLPNof6uIYkpm287GLiGbJooSfZ7JCgGg46sgH86FDX/uBr94qtQ703+aIeC7FhG+m/wB645+kupdbJnJilpEDrSIifDg+siR+PEj+NBPo+UPjHWZxgl80D5F0s+meRMuoztJMN0jAlVMbxxOPYr3O3BoxMgvhOD3wDsJFUrioccYGA2nnM4F5TJ/t9aPtstPgezqe6sVEzx+fd3QHVPaJfsmJYXXcK6+SFqXlBxlT93Bv8QqU+A4S5HgJU5abHXBlM8CCweoAwjaYVZsXclWXOSmoCSF4TAOXzD0nu8k/WM94zsVLiUxs27fQ8u8yFQlbk5mDyYurn1BxHCwopRs+zK84nhkDCziT9O8ASDg/BgsKKozJ4cW13XJTl58/RkzlMwIqKV8ghDouUu2Suv8WVS2pvQ+ZLo1dlJ61MyoCRtgqLK8a8d/PumtuU3sNRtvOWWxJSUL3ARZSeM02Sta2fcsaTXdrATJKY2KnqaDSBHdidEh+WUtcv3hTfSpQeCgFypmBhH3vmdDVUhT4uuRvPrIx2WNu3n7ES/MaA7GoFVtL0ZEeEl0o9JBIUFvt1LTcHG2G0p34k74hdF0daex8neqo1T34yydk4F2U1Qz6RMTth1w80+7HXbiBv2N22alB0JXMpWxjgPKl3gS7YZ1alQ6zAWT3EruGJ8IvkV3bVS/J6K/NUUtJgfUJwF1cDD30bDe66RbJR7bAhiU3bQpDmBzY5PrJ+yXUxFJxqdlXG1L27PhguumvWzat+pVIRMSpuaHOuDLkVMUCH+qWcNw9xdfLAujvertRJgE1hWS9a06kMsZPvPQk2FzKLja0H8Y1JSl8gI3hN18opTkbIEAS4rnLiAmk0Qlin1z9ZO+AzM9yFbTjYQ786S1aGYe1qiKoiU6A//Sb24h+/NNe0eWsI8zHNBlOMuOK+9FmI2Ok2KkS/mU/lFZK/wQyUFMuk9a6C5f6uB6GBfIby+vuUi/MmCnZ6lw6aTU392jxpUzNdXgZv8VlzJq/WvP6MZuEHthUd6B9zjqGhfSyYCny+OORzOGTE9WJrCYqXo2p9dJ7H7ScrLSw3I7eewXXt4DOc8WiW/my+9cYStVGJVkTBqWqxYOD6MXlcpGpMGkrHtb3njIHT2cYplVX8GjWBc8zJvn1t18klGMfVrty65np2u5YTlbq0N4ljNDJiwDbzlfpbvcs/pP/XJYrB8cpJwGU4rOV/p5J0wr1l8j/8Y8SggkR+wIwhxYO2aJkS6WNDrDrkw004TS8YG+xsyIY2SQcLtUg+30NZ+aXgS8QjbqCkwHtuO6DdvOVB8VgQ+Q2jFoTiIMhmlxMUUeQnP8Jspv2ChLOPqoqPCKyQb7W5hA2fw74a5ynwBtKyWzMX/CSkp1JRcDQkVuc5uSvfXEgYdPEzGvFiPe3UQFEuzVhEncpso1qHxowX0kBlD17oyXGR3D6xd/S4MT4TdJRiCW0BA0sFMpqGLn02+pzEB0qNDA3ewVEK9aFVf81rM8r5xxfoj4JFN+eimOO4w0j6ZNscYXGJqn8inX0YiUFaBgH7GTiNxkCitj6bxQGjVDtMts+wiSvmV3n+hQHFpCW802oc7y+RIsE9ie1hvhLfOoxuBLwXn1IGbjTPS0wfFc1cCaVxNQw8eEx7toM4YXCNma9SyhdiBUpRZ8fyhnhpMdO+Vi897UJzNY5QJcryBgaOR19c1kQmi4E0kbrIT+jb825nxx0PD6Qajolg/ksFPQ/JZoACiaiBPi5CFmJGmJWE6T9NtTIz92Lz9oAFLBoobtOHPK4Hp7GHZObfpmBz1cOw2TVkjNCIwnFqhxl1JYdH9PszqgTk6YkzPCJykwuitE62BOva8nJnN1n0d0v2PO7desDipVMY7lobh0yuVId+haR5lb8QDLXrZe4zlTl18gfxveIBlNe2rHMCIBYDRIT/mx3LZ8FSAgYKSbczFU3RnL/3ZbFkd60NxixjhsgIGy/jN+D0Mk/9dMW2rxpnqdWnIEYQfHNdyTUxsXtO6hrAJsm5fkzD/cdjVHppAZGtqOpFpIK3Ioj+eK7ry0O1baAGfosEjF1HjTVKbEf5JRNqakSTnNZ4qqt1z8n2RxICzqUnjFRdmF6eO9ozS1EWgMGpZoJgWFdDNC+9tsSohGLruc4wxcbBhbboCPq42mFIC/g9pLtb4284rQNfEzVbd6Y5XEq07nOSDUh1rozL7nrlyAZq8byj+pDuZ6pqArD2oQfWYcM7c4M/7N1iU0PXzpxyXCdmoVz0PU5i6RSqKvgJXGIPTGyIctRBlnydoLdoAtvKebxS3xMEJf+BmznV9/4pG+P5rZ+G/1mdfiEwzG+PGLtHHacnVrizm0AmSrToXiBnxDTsYYXIP22/iCq/LF9U4prwVmF+1oTKEAZZ/yLL8dcAFphRqOQNbkKnJ7wh6cpk9qUTVn1pHoj9kdOeEbx2wkUpuxHZxtBoXKDtdsAAAA==)
+
+Am Morgen des 21. August ist in Paris ein deutscher Wehrmachtangehörigereinem Mordanschlag zum Opfer gefallen   Ich bestimme  daher
+
+1. Sämtliche Yon deutschen Dienststellen oder für deutsche Dienststellen in Frankreich in Haft  irgend einer Art gehaltenen Franzosen Belten Yom 23. August ab als Geiseln
+2. 2 Yon diesen Geiseln wird bei jedem weiteren Anlass eine der Schwere der Straftat entsprechende Anzahl er schossen werden
+
+SCHAUMBURC
+
+## AVIS
+
+Le 21 août membre de FArmée Allemande 0 éte victime dun assassinat à Paris.
+
+En conséquence  j'ordonne
+
+1. A partir du 23 aout.tous les Français mis en état darrestation que ce soit par les autorités allemandes en France, ou sont arretés Pour celles-ci sont considérés comme otages. quel qui
+2. En cas dun nouyel acte, un nombre 0 la gravité de Facte   criminel commis scra fusillé
+
+Aout 1941.
+
+Pour k SCHAUMBURG
+
+---
+
+<!-- 002.md -->
+WHY
+
+## LIVE THE AING
+
+JESUS
+
+DIED
+
+AND
+
+WHAT
+
+IT
+
+MEANS
+
+FOR
+
+US
+
+ALL
+
+---
+
+<!-- 003.md -->
+Crucifixion was one of the central ways in which authorities in the ancient world set quite deliberately to show subject peoples who was in charge and to break the spirit of resistance. [.] Those who crucified people did so because it was the sharpest and nastiest way of asserting their own absolute power and guaranteeing their victim's absolute degradation: out any
+
+---
+
+<!-- 004.md -->
+"Crucifixion] is the most cruel and terrifying penalty. Jit should be far removed\_ from the Roman citizen's thoughts; his eyes; and his ears. For it is indeed. the very mention of them, 9 that is unworthy of a Roman citizen and a free man.:
+
+Cicero
+
+---
+
+<!-- 005.md -->
+He forgave us all our sins, having canceled the charge of our legal indebtedness; which stood against us and condemned us; he has taken it away; nailing it to the cross. And having disarmed the powers and authorities , he made a public spectacle of them, triumphing over them by the cross.
+
+Colossians 2:13-15 NIV
+
+---
+
+<!-- 006.md -->
+## BAPTISM
+
+![Image](data:image/webp;base64,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)
+
+---
+
+<!-- 007.md -->
+The rulers and authorities in the heavenly realms. Ephesians 3.10 NIV
+
+---
+
+<!-- 008.md -->
+For our struggle is not against flesh and blood, but against the rulers; against the authorities; against the powers of this heavenly realms. Ephesians 6.12 NIV
+
+---
+
+<!-- 009.md -->
+will put enmity between you and the woman; and between your offspring and hers; he will crush your head. Genesis 3:15 NIV
+
+---
+
+<!-- 010.md -->
+On this mountain he will destroy the shroud that enfolds all peoples; the sheet that covers all nations; he will swallow 66 up death forever . In that day they will say; Surely this is our God; we trusted in him, and he saved us. This is the Lord, 9 we trusted in him; let us rejoice and be glad in his salvation:
+
+Isaiah 25.7-9 NIV
+
+---
+
+<!-- 011.md -->
+The reason the Son of God appeared was to destroy the devil's work. 1 John 3:8 NIV
+
+---
+
+<!-- 012.md -->
+[Jesus] shared in their humanity so that by his death he might break the power of him who holds the power of death. Hebrews 2:14-15 NIV
+
+---
+
+<!-- 013.md -->
+Death has been swallowed up in victory. Where; O death; is your victory? Where; O death; is your sting? [.] But thanks be t0 God! He gives us the victory through our Lord Jesus Christ. 1 Corinthians 15.54-55, 57 NIV
+
+---
+
+<!-- 014.md -->
+Do not weep! See; the Lion of the tribe of Judah; the Root of David has triumphed. Revelation 5.5 NIV
+
+---
+
+<!-- 015.md -->
+Now the prince of this world will be driven out. And I, when 1am lifted up from the earth, will draw all people to myself" He said this to show the kind of death he was going t0 die. John 12:31-33 NIV
+
+---
+
+<!-- 016.md -->
+The weapons we fight with are not the weapons of the world. On the contrary; they have divine power t0 demolish strongholds. We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ. 2 Corinthians 10:4-5 NIV
+
+---
+
+<!-- 017.md -->
+Remember that divine power is available to you
+
+---
+
+<!-- 018.md -->
+- Remember that divine power is available to you
+- Call out every thought that isn't from God or of God
+
+---
+
+<!-- 019.md -->
+- Remember that divine power is available to you
+- Call out every thought that isn't from God or of God
+- Surrender every thought in obedience to Christ
