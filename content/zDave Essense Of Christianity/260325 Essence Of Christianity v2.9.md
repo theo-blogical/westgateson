@@ -118,13 +118,13 @@ From this Scripture passage, we learn...
 
 **Humankind was given a vocation of stewardship.** When rightly understood, stewardship is an expression of love: a posture of care and responsibility oriented toward the flourishing of what has been entrusted, not its exploitation or control. We were charged to cultivate the earth and care for its living creatures while preserving its beauty. We were also called to fill the earth with families---spreading communities that mirror God's love, creativity, and wisdom. Although the Garden of Eden was beautiful and well developed, the rest of the planet still needed cultivation and development. Theologians refer to this as the "cultural mandate". Humans were never meant to carry out this mandate independently from God---it was intended as a partnership![^20] As the late pastor and author Tim Keller explains in his book, *Every Good Endeavor,*[^21] "*The cultural mandate is a kind of partnership: God gives us the raw material of the world, and our job is to take it and build culture, develop society, create art, discover science. We are called to be his junior partners in the work of creation.*"
 
-| Table 1: Summary - Imago Dei |  |
-|:--------------|:-------------------------------------------------|
-| Aspect | Implication for Humanity |
-| Image of God | Intrinsic dignity and worth; called to reflect God's character and wisdom. |
-| Likeness of God | Capacity for relationship, free will, reason, creativity, conscience. |
-| Male & Female | Complementary; together reflect God's relational nature; equal in worth. |
-| Vocation | Cultural mandate: cultivate, fill, and care for creation. |
+| Table 1: Summary - Imago Dei |                                                                            |
+| :--------------------------- | :------------------------------------------------------------------------- |
+| Aspect                       | Implication for Humanity                                                   |
+| Image of God                 | Intrinsic dignity and worth; called to reflect God's character and wisdom. |
+| Likeness of God              | Capacity for relationship, free will, reason, creativity, conscience.      |
+| Male & Female                | Complementary; together reflect God's relational nature; equal in worth.   |
+| Vocation                     | Cultural mandate: cultivate, fill, and care for creation.                  |
 
 **In summary:** Humanity represents the visible expression of divine love on Earth. To be made in God's image is to be invited into partnership with Him---to reflect His nature through compassion, justice, and stewardship. The *Imago Dei* is therefore not only a statement about our origin but also a calling: through the cultural mandate, we find our purpose in shaping the world, and through partnership with God, we discover the deepest meaning of human life.The cultural mandate calls humanity to seek a deep understanding of creation. Whatever your gifts---whether in science, the arts, or humanities---they are part of God's cultural mandate. To illustrate, here are just some of the fields where human creativity participates in God's plan:
 

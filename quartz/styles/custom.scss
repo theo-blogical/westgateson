@@ -1,3 +1,38 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* ─── Table width fix ────────────────────────────────────────
+   Forces markdown tables to fill the content area instead of
+   collapsing to minimum column width.
+   ──────────────────────────────────────────────────────────── */
+
+/* Full-width, auto-sizing columns */
+.page-content table {
+  width: 100%;
+  table-layout: auto;
+  display: table;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+}
+
+/* Cells: allow wrapping, add breathing room */
+.page-content table th,
+.page-content table td {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  padding: 0.5em 0.75em;
+}
+
+/* First column (often a label) — keep it from shrinking too far */
+.page-content table td:first-child,
+.page-content table th:first-child {
+  white-space: nowrap;
+  min-width: 8em;
+}
+
+/* Horizontal scroll fallback for genuinely wide tables on mobile */
+.page-content .table-container,
+.page-content table {
+  overflow-x: auto;
+}
